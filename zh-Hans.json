@@ -434,4 +434,8 @@
 	"name": "SongPlayHistory",
 	"newname": "打歌历史|SongPlayHistory",
 	"newdescription": "追踪你的分数。"
+}, {
+	"name": "HonkSaber",
+	"newname": "HonkSaber",
+	"newdescription": "国外的玩梗插件，安装后游戏中所有文本将被替换为'Honk'。"
 }]
