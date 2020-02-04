@@ -421,9 +421,17 @@
 }, {
 	"name": "Bloom Mod",
 	"newname": "盛开|Bloom Mod",
-	"newdescription": "允许您调整游戏中的绽放数量。最初由Ibodan创建*有关配置信息，请参见github (没看懂干嘛的,纯机翻,等更新了我再试试)"
+	"newdescription": "允许您调整游戏中的绽放数量。最初由Ibodan创建*有关配置信息，请参见github (没看懂干嘛的,纯机翻,没试出什么效果)"
 }, {
 	"name": "Survey",
 	"newname": "调查|Survey",
 	"newdescription": "我们需要你的帮助。填写一份重要的调查表免费送光剑！"
+}, {
+	"name": "Alternative Play",
+	"newname": "更多玩法|Alternative Play",
+	"newdescription": "达尔摩斯、矛、反转、单色和更多游戏选项。混搭，发现新的游戏风格！"
+}, {
+	"name": "SongPlayHistory",
+	"newname": "打歌历史|SongPlayHistory",
+	"newdescription": "追踪你的分数。"
 }]
