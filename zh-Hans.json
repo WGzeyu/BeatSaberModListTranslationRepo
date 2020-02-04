@@ -436,6 +436,6 @@
 	"newdescription": "追踪你的分数。"
 }, {
 	"name": "HonkSaber",
-	"newname": "Honk",
-	"newdescription": "Honk"
+	"newname": "HonkSaber",
+	"newdescription": "Honk (将游戏中所有文本修改为Honk，国外玩梗插件)"
 }]
