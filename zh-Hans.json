@@ -292,7 +292,7 @@
 	"name": "Music Spatializer",
 	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the triangle.",
 	"newname": "空间音效|Music Spatializer",
-	"newdescription": "戴耳机时增加3D音频。在360°歌曲中，音乐将跟随方块。"
+	"newdescription": "戴耳机时增加3D音频。在360°歌曲中，音乐方位跟随方块出口跳转而移动。"
 }, {
 	"name": "Particular",
 	"description": "Make Beat Saber prettier with P A R T I C L E S",
