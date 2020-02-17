@@ -35,9 +35,9 @@
 	"newdescription": "基于XML的界面系统。"
 }, {
 	"name": "BeatSaverVoting",
-	"description": "A plugin for up/downvoting songs on BeatSaver",
+	"description": "A plugin for up/downvoting songs on BeatSaver by Kyle 1413",
 	"newname": "BeatSaver投票|BeatSaverVoting",
-	"newdescription": "可为自定义歌曲投票点赞/踩，提交到BeatSaver。"
+	"newdescription": "可为自定义歌曲投票点赞/踩，提交到BeatSaver。由Kyle 1413制作。"
 }, {
 	"name": "ScoreSaberSharp",
 	"description": "Official C# Library to interact with the ScoreSaber API",
@@ -235,7 +235,7 @@
 	"newdescription": "将歌曲拼接在一起，无需返回就可以玩整个播放列表。"
 }, {
 	"name": "HitScoreVisualizer",
-	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don\"t. (But they should.)",
+	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don't. (But they should.)",
 	"newname": "击中分数可视化|HitScoreVisualizer",
 	"newdescription": "可视化您的命中分数！过于复杂的配置选项！数字？所有专业人士都使用它，除了那些不使用的人。（但他们应该。）"
 }, {
@@ -320,7 +320,7 @@
 	"newdescription": "随机从BeatSaver中下载歌曲并开始。"
 }, {
 	"name": "NoArrowsRandom",
-	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won\"t affect One Saber or mapped No Arrows modes.",
+	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won't affect One Saber or mapped No Arrows modes.",
 	"newname": "NoArrowsRandom",
 	"newdescription": "从以前的版本中将自定义地图的随机化无箭头模式恢复为游戏修改器。禁用分数提交，并且不会影响One Saber或映射的No Arrows模式。"
 }, {
@@ -450,7 +450,7 @@
 	"newdescription": "在游戏中添加Discord支持，以共享当前游戏时间和活动修改器"
 }, {
 	"name": "FCDisplay",
-	"description": "Display a ring around the multiplier if you haven\"t missed yet.\n\nComes with multiple miss animations and the option to disable the vanilla display (the lines above and below the combo counter)",
+	"description": "Display a ring around the multiplier if you haven't missed yet.\n\nComes with multiple miss animations and the option to disable the vanilla display (the lines above and below the combo counter)",
 	"newname": "全连显示|FCDisplay",
 	"newdescription": "如果您还没有Miss，将在乘数周围显示一个环。带有多个未命中动画和禁用vanilla显示的选项(组合计数器上下的行)"
 }, {
