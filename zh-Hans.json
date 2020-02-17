@@ -80,14 +80,14 @@
 	"newdescription": "一个.NET、Mono和Unity3d兼容的库，用于从IO流、文件流和用C#编写的字符串中读取/写入INI数据。不是我自己做的，作者可以参考github链接。"
 }, {
 	"name": "ChromaLite",
-	"description": "A slimmed down version of Chroma that only handles maps that utilize Chroma events, such as Chroma\"s famous RGB lighting events.",
+	"description": "A slimmed down version of Chroma that only handles maps that utilize Chroma events, such as Chroma's famous RGB lighting events.",
 	"newname": "ChromaLite",
 	"newdescription": "一个精简版的Chroma，它只处理使用Chroma事件的地图，例如Chroma著名的RGB照明事件。"
 }, {
 	"name": "JustRainbowLights",
-	"description": "It randomizes the background lights. That\"s all. (Still compatible with chroma)",
+	"description": "It randomizes the background lights. That's all. (Still compatible with chroma)",
 	"newname": "彩虹灯|JustRainbowLights",
-	"newdescription": "为Beat Saber添加随机彩虹照明。切换在MOD设置中。"
+	"newdescription": "为游戏添加随机灯光，仅此而已。(与Chroma兼容)"
 }, {
 	"name": "PauseMenuRotationFix",
 	"description": "Fixes wrong controller orientation when pausing in 90/360 levels.",
@@ -97,7 +97,7 @@
 	"name": "NoFailCheck",
 	"description": "Ever get tired of starting a song with No Fail on, and getting annoyed, let this mod annoy you instead to remind you!",
 	"newname": "NoFail检查|NoFailCheck",
-	"newdescription": "如果你厌倦了打歌时开启NoFail，并且感到恼火，让这个MOD来烦你，而不是提醒你！"
+	"newdescription": "在打开NoFail后，将PLAY按钮将显示为NoFail以防忘记关闭。"
 }, {
 	"name": "YUR Fit Calorie Tracker",
 	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam!",
@@ -185,7 +185,7 @@
 	"newdescription": "歌曲排序/筛选/搜索插件。支持各种排序方式和过滤条件，例如难度、PP、热门、时间、标题、作者、游玩次数、是否rank、收藏等，并将PP和其他统计信息添加到面板。信息来自BeatSaver和ScoreSaber。"
 }, {
 	"name": "Counters+",
-	"description": "A UI Enhancement mod that spruces up Beat Saber\"s UI with more statistics to display.",
+	"description": "A UI Enhancement mod that spruces up Beat Saber's UI with more statistics to display.",
 	"newname": "计数器+|Counters+",
 	"newdescription": "一个界面增强模块，可为游戏时添加更多统计信息。"
 }, {
@@ -205,7 +205,7 @@
 	"newdescription": "允许您将自制谱分数上传到排行榜，并与他人比较。"
 }, {
 	"name": "CustomMenuText",
-	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else?\r\nWith this plugin, you can change the game\"s title in the main menu!",
+	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else?\r\nWith this plugin, you can change the game's title in the main menu!",
 	"newname": "自定义标题文字|CustomMenuText",
 	"newdescription": "厌倦了BEAT SABER？有了这个插件，你可以在主菜单中修改游戏标题！"
 }, {
@@ -265,24 +265,9 @@
 	"newdescription": "与您的朋友在线联机玩Beat Saber！"
 }, {
 	"name": "Versus",
-	"description": "Track your scores and watch as you beat your friends, or challenge your favorite streamer! Make playlists and chase down your friend\"s scores. Link your Twitch at versusmod.com to enable Challenges",
+	"description": "Track your scores and watch as you beat your friends, or challenge your favorite streamer! Make playlists and chase down your friend's scores. Link your Twitch at versusmod.com to enable Challenges",
 	"newname": "Versus",
 	"newdescription": "跟踪分数并观看击败朋友的画面，或者挑战自己喜欢的主播！制作播放列表并追踪您朋友的分数。在versusmod.com上绑定您的Twitch以启用挑战"
-}, {
-	"name": "Blister.Conversion",
-	"description": "",
-	"newname": "BS列表.转换|Blister.Conversion",
-	"newdescription": "Beat Saber播放列表转换库"
-}, {
-	"name": "Blister",
-	"description": "",
-	"newname": "BS列表|Blister",
-	"newdescription": "Beat Saber播放列表处理库"
-}, {
-	"name": "Newtonsoft.Json.Bson",
-	"description": "",
-	"newname": "Newtonsoft.Json.Bson",
-	"newdescription": "JSON .NET BSON 扩展"
 }, {
 	"name": "EnhancedSearchAndFilters",
 	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen and song filtering.",
@@ -294,18 +279,8 @@
 	"newname": "YamlDotNet",
 	"newdescription": "YamlDotNet是YAML的.NET库"
 }, {
-	"name": "PlaylistCore",
-	"description": "",
-	"newname": "歌单核心|PlaylistCore",
-	"newdescription": "将歌单加载到Beat Saber中！"
-}, {
-	"name": "SiaUtil",
-	"description": "",
-	"newname": "SiaUtil",
-	"newdescription": "Beat Saber随机工具，本身没有任何功能。"
-}, {
 	"name": "LibConf",
-	"description": ".NET framework configuration library that\"s somehow cooler than the rest",
+	"description": ".NET framework configuration library that's somehow cooler than the rest",
 	"newname": "LibConf",
 	"newdescription": ".NET框架配置库，比其他配置库更酷。"
 }, {
@@ -355,7 +330,7 @@
 	"newdescription": "Beat Spear将“标准”和“无箭”模式更改为“一种颜色”，以支持使用类似矛或两手剑的武器进行游戏。禁用分数提交，并且不会影响One Saber模式。"
 }, {
 	"name": "libSkiaSharp",
-	"description": "SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google\"s Skia Graphics Library. It provides a 2D API that can be used across mobile/server/desktop models to render images.",
+	"description": "SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a 2D API that can be used across mobile/server/desktop models to render images.",
 	"newname": "libSkiaSharp",
 	"newdescription": "SkiaSharp是基于Google Skia图形库的.NET平台跨平台2D图形API。它提供了2D API，可在移动/服务器/桌面设备之间使用以渲染图像。"
 }, {
@@ -395,7 +370,7 @@
 	"newdescription": "一个基于XML的界面系统。"
 }, {
 	"name": "BSMOTD Plus",
-	"description": "Learn more about what\"s happening in the community! When you launch your game you\"re prompted with news posts from the community.",
+	"description": "Learn more about what's happening in the community! When you launch your game you\"re prompted with news posts from the community.",
 	"newname": "BSMOTD Plus",
 	"newdescription": "了解有关社区正在发生的事情的更多信息！ 启动游戏时，系统会提示您社区中的新闻。"
 }, {
