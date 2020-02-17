@@ -2,17 +2,17 @@
 	"name": "BSIPA",
 	"description": "A mod loader for Beat Saber. Provides a number of useful tools and utilities.",
 	"newname": "BSIPA",
-	"newdescription": "BeatSaber的MOD加载器，提供了许多有用的工具和程序。"
+	"newdescription": "BeatSaber的MOD加载器，提供了很多实用功能。"
 }, {
 	"name": "BeatSaverDownloader",
 	"description": "Enables you to download songs from BeatSaver in-game.",
 	"newname": "BeatSaver歌曲下载器|BeatSaverDownload",
-	"newdescription": "在游戏中使用BeatSaver下载歌曲。"
+	"newdescription": "游戏内使用BeatSaver下载歌曲的插件。"
 }, {
 	"name": "CameraPlus",
 	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement.\nThis plugin has TransportWall modified by pespiri.",
 	"newname": "相机增强|CameraPlus",
-	"newdescription": "为Beat Saber添加多个大视角摄像机或第三人称摄像机并支持顺滑运动，优化观看体验。"
+	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
 	"name": "BeatSaverSharp",
 	"description": "Official C# Library to interact with the BeatSaver API",
@@ -27,7 +27,7 @@
 	"name": "SongCore",
 	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the new format",
 	"newname": "SongCore",
-	"newdescription": "一个用于在Beat Saber中处理自定义歌曲并将旧库转换成新格式的插件"
+	"newdescription": "用于在BeatSaber中处理自定义歌曲并转换格式的插件。"
 }, {
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
@@ -37,7 +37,7 @@
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver by Kyle 1413",
 	"newname": "BeatSaver投票|BeatSaverVoting",
-	"newdescription": "可为自定义歌曲投票点赞/踩，提交到BeatSaver。由Kyle 1413制作。"
+	"newdescription": "打完歌可以为歌曲投票顶/踩，提交到BeatSver。由Kyle 1413制作。"
 }, {
 	"name": "ScoreSaberSharp",
 	"description": "Official C# Library to interact with the ScoreSaber API",
@@ -52,7 +52,7 @@
 	"name": "Custom Notes",
 	"description": "Adds support for custom notes in beat saber. Major contributions by Kyle1413 and Pespiri.",
 	"newname": "自定义方块|Custom Notes",
-	"newdescription": "增加BeatSaber对自定义方块的支持。主要贡献者：Kyle1413和Pespiri。"
+	"newdescription": "用于在BeatSaber中自定义方块的插件。主要贡献者：Kyle1413和Pespiri。"
 }, {
 	"name": "Custom Campaigns",
 	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
@@ -82,7 +82,7 @@
 	"name": "ChromaLite",
 	"description": "A slimmed down version of Chroma that only handles maps that utilize Chroma events, such as Chroma's famous RGB lighting events.",
 	"newname": "ChromaLite",
-	"newdescription": "一个精简版的Chroma，它只处理使用Chroma事件的地图，例如Chroma著名的RGB照明事件。"
+	"newdescription": "用于让游戏支持将背景灯光颜色显示为任意颜色。（需铺面也支持才有效果）"
 }, {
 	"name": "JustRainbowLights",
 	"description": "It randomizes the background lights. That's all. (Still compatible with chroma)",
@@ -102,7 +102,7 @@
 	"name": "YUR Fit Calorie Tracker",
 	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam!",
 	"newname": "YUR Fit卡路里追踪器|YUR Fit Calorie Track",
-	"newdescription": "在玩Beat Saber时跟踪您的卡路里！加入我们的Discord来为下载全局卡路里追踪服务(支持所有Steam/Oculus游戏)获取帮助，或只是打个招呼。"
+	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam上搜索我们。"
 }, {
 	"name": "TransparentWall",
 	"description": "Enable transparent walls for your own view in VR! (No... It does not affect CameraPlus)",
@@ -112,12 +112,12 @@
 	"name": "PerfectionDisplay",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
 	"newname": "完美展示|PerfectionDisplay",
-	"newdescription": "添加更多信息到展示分数界面以及游戏过程中(如果启用)。如果您安装了击中分数可视化将会使用其配置。"
+	"newdescription": "在展示分数页面和游戏中(如果启用)显示分数详情。如果您安装了击中分数上色将会使用其配置。"
 }, {
 	"name": "Perfection Display",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
 	"newname": "完美展示|Perfection Display",
-	"newdescription": "添加更多信息到展示分数界面以及游戏过程中(如果启用)。如果您安装了击中分数可视化将会使用其配置。"
+	"newdescription": "在展示分数页面和游戏中(如果启用)显示分数详情。如果您安装了击中分数上色将会使用其配置。"
 }, {
 	"name": "PracticePlugin",
 	"description": "Plugin for Beat Saber to adjust song parameters, seek through songs and set up looping sections.",
@@ -141,8 +141,8 @@
 }, {
 	"name": "Song Request Manager",
 	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is the 1.6.1 release, and includes song duration, NJS filters and more.",
-	"newname": "歌曲请求管理器|Song Request Manager",
-	"newdescription": "歌曲请求管理器是一个集成的，完全可定制的歌曲请求机器人和BeatSaber控制台。其中包括歌曲持续时间，NJS过滤器等。"
+	"newname": "点歌管理器|Song Request Manager",
+	"newdescription": "点歌管理器是个集成可定制的点歌机器人和BeatSaber控制台。可根据歌曲时长、NJS过滤。"
 }, {
 	"name": "TheTrashMan",
 	"description": "Allows you to reduce and potentially eliminate stuttering by tuning the garbage collector.",
@@ -157,7 +157,7 @@
 	"name": "FireworksDisabler",
 	"description": "Are you tired of hearing those annoying fireworks at the end of a song with a new high score? Installing this mod will disable Fireworks, no options to set, it just does it.",
 	"newname": "烟花禁用器|FireworksDisabler",
-	"newdescription": "您是否厌倦了在歌曲结尾刷新高分时看到那些令人讨厌的烟花？安装此Mod将禁用烟花，无设置选项，仅此而已。"
+	"newdescription": "讨厌在歌曲结束后刷新高分时出现的烟花？安装这个Mod降禁用烟花，仅此而已，无设置选项。"
 }, {
 	"name": "SaberTailor",
 	"description": "Tweak things about your sabers, including grip position/angle, trail length and saber length/girth. Created by Ruu. Additional contributions by Pespiri.",
@@ -172,12 +172,12 @@
 	"name": "Custom Exit",
 	"description": "Displays a panel to confirm that you really really want to exit Beat Saber.",
 	"newname": "自定义退出|Custom Exit",
-	"newdescription": "显示一个面板以确认您确实要退出Beat Saber。"
+	"newdescription": "在退出BeatSaber时显示一个面板以确认您确实要退出BeatSaber。"
 }, {
 	"name": "BeatSaberCustomExit",
 	"description": "This is a mod that displays a panel to confirm that you really really want to exit Beat Saber.",
 	"newname": "自定义退出|BeatSaberCustomExit",
-	"newdescription": "显示一个面板以确认您确实要退出Beat Saber。"
+	"newdescription": "在退出BeatSaber时显示一个面板以确认您确实要退出BeatSaber。"
 }, {
 	"name": "SongBrowser",
 	"description": "Adds various sorting and filtering methods to the UI. Search, favorites, ranked, and unranked filters. Sort by BeatSaver and ScoreSaber statistics. Adds PP and other extra stats to the stat panel.",
@@ -192,7 +192,7 @@
 	"name": "BS-RefreshButtons",
 	"description": "Adds refresh buttons in the mods panel in game, to refresh your custom songs.",
 	"newname": "BS刷新按钮|BS-RefreshButtons",
-	"newdescription": "在游戏的“ mods”面板中添加刷新按钮，以刷新您的自定义歌曲。"
+	"newdescription": "在Mod面板中添加刷新自定义歌曲的按钮。"
 }, {
 	"name": "Level Pack Panel Mover",
 	"description": "Moves the bottom panel (containing the level packs) of the Beat Saber main menu further down (or wherever you want). No more accidental missclicks while scrolling down the song list.",
@@ -201,13 +201,13 @@
 }, {
 	"name": "ScoreSaber",
 	"description": "Allows you to upload scores to an online leaderboard, earn PP from ranked maps, and compare scores with others.",
-	"newname": "ScoreSaber 计分插件",
-	"newdescription": "允许您将自制谱分数上传到排行榜，并与他人比较。"
+	"newname": "ScoreSaber 排行榜",
+	"newdescription": "可以上传自定义歌曲分数的排行榜插件！装了它，打Ranked曲子，可以加pp统计你的全球/全国排名！"
 }, {
 	"name": "CustomMenuText",
 	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else?\r\nWith this plugin, you can change the game's title in the main menu!",
 	"newname": "自定义标题文字|CustomMenuText",
-	"newdescription": "厌倦了BEAT SABER？有了这个插件，你可以在主菜单中修改游戏标题！"
+	"newdescription": "用于自定义主面板上方\"BEAT SABER\"显示文字的插件"
 }, {
 	"name": "Random Sabers",
 	"description": "This mod enables selection of a random saber from the current downloaded pool of sabers, as well as selecting specific sabers for which to enable/disable selection.\n",
@@ -236,8 +236,8 @@
 }, {
 	"name": "HitScoreVisualizer",
 	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don't. (But they should.)",
-	"newname": "击中分数可视化|HitScoreVisualizer",
-	"newdescription": "可视化您的命中分数！过于复杂的配置选项！数字？所有专业人士都使用它，除了那些不使用的人。（但他们应该。）"
+	"newname": "击中分数上色|HitScoreVisualizer",
+	"newdescription": "击中Note后按分数显示颜色！不需要进行复杂设置，大多数专业玩家都在用。（但我不用）"
 }, {
 	"name": "CustomMissText",
 	"description": "(Made by Arti)\nBroke: \"MISS\"\nWoke: \"HITN\"T\"\n----\nRandom text whenever you miss a block!",
@@ -267,7 +267,7 @@
 	"name": "Versus",
 	"description": "Track your scores and watch as you beat your friends, or challenge your favorite streamer! Make playlists and chase down your friend's scores. Link your Twitch at versusmod.com to enable Challenges",
 	"newname": "Versus",
-	"newdescription": "跟踪分数并观看击败朋友的画面，或者挑战自己喜欢的主播！制作播放列表并追踪您朋友的分数。在versusmod.com上绑定您的Twitch以启用挑战"
+	"newdescription": "记录分数并显示您击败朋友的提示，也可以挑战自己喜欢的主播！制作歌曲列表并追踪朋友的分数。在versusmod.com上绑定您的Twitch以启用挑战"
 }, {
 	"name": "EnhancedSearchAndFilters",
 	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen and song filtering.",
@@ -292,7 +292,7 @@
 	"name": "Music Spatializer",
 	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the triangle.",
 	"newname": "空间音效|Music Spatializer",
-	"newdescription": "戴耳机时增加3D音频。同样在360°地图中，音乐将跟随三角形。"
+	"newdescription": "戴耳机时增加3D音频。在360°歌曲中，音乐将跟随方块。"
 }, {
 	"name": "Particular",
 	"description": "Make Beat Saber prettier with P A R T I C L E S",
@@ -302,12 +302,12 @@
 	"name": "Drink Water",
 	"description": "Displays a panel to remind you to drink some water after playing for a long time/amount of songs!",
 	"newname": "喝水|Drink Water",
-	"newdescription": "显示一个面板，以提醒您玩多少歌曲后需要喝水！"
+	"newdescription": "这里是提醒喝水小助手，让我们成为一天上分500pp喝2升水的人吧！"
 }, {
 	"name": "BeatSaberDrinkWater",
 	"description": "Displays a panel to remind you to drink some water after playing for a long time/amount of songs!",
 	"newname": "喝水|BeatSaberDrinkWater",
-	"newdescription": "显示一个面板，以提醒您玩多少歌曲后需要喝水！"
+	"newdescription": "这里是提醒喝水小助手，让我们成为一天上分500pp喝2升水的人吧！"
 }, {
 	"name": "BSIPA Mod List",
 	"description": "An ingame mod viewer and update manager for BSIPA.\n",
@@ -370,7 +370,7 @@
 	"newdescription": "一个基于XML的界面系统。"
 }, {
 	"name": "BSMOTD Plus",
-	"description": "Learn more about what's happening in the community! When you launch your game you\"re prompted with news posts from the community.",
+	"description": "Learn more about what's happening in the community! When you launch your game you're prompted with news posts from the community.",
 	"newname": "BSMOTD Plus",
 	"newdescription": "了解有关社区正在发生的事情的更多信息！ 启动游戏时，系统会提示您社区中的新闻。"
 }, {
@@ -497,7 +497,7 @@
 	"name": "CustomWalls",
 	"description": "A plugin for custom walls in Beat Saber",
 	"newname": "自定义墙|CustomWalls",
-	"newdescription": "Beat Saber中用于自定义墙的插件"
+	"newdescription": "用于在BeatSaber中自定义墙的插件。"
 }, {
 	"name": "Bloom Mod",
 	"description": "Allows you to adjust the amount of bloom in game.\nOriginally Created by Ibodan\n*See the github for config info*",
@@ -507,12 +507,12 @@
 	"name": "Survey",
 	"description": "We need your help. Fill out an important survey and get free sabers!",
 	"newname": "调查|Survey",
-	"newdescription": "我们需要你的帮助。填写一份重要的调查表免费送光剑！"
+	"newdescription": "BSMG一个没卵用的调查，挂梯子填完提交会送一个自定义光剑。上不了Google的不要下了。"
 }, {
 	"name": "Alternative Play",
 	"description": "DarthMaul, Spear, ReverseSaber, OneColor and many more gameplay options. Mix and match to discover new styles of play!",
 	"newname": "更多玩法|Alternative Play",
-	"newdescription": "达尔摩斯、矛、反转、单色和更多游戏选项。混搭，发现新的游戏风格！"
+	"newdescription": "达尔摩斯、矛、反转、单色等更多游戏选项。支持混搭，开发新的游戏玩法！"
 }, {
 	"name": "SongPlayHistory",
 	"description": "Track all your scores.",
