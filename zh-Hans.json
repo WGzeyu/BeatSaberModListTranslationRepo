@@ -242,7 +242,12 @@
 	"name": "CustomMissText",
 	"description": "(Made by Arti)\nBroke: \"MISS\"\nWoke: \"HITN\"T\"\n----\nRandom text whenever you miss a block!",
 	"newname": "自定义Miss文字|CustomMissText",
-	"newdescription": "每次错过note时，都会随机显示信息。因为人们喜欢这些。"
+	"newdescription": "每次错过note时将随机显示信息。因为，显然人们喜欢这些。"
+}, {
+	"name": "CustomMissText",
+	"description": "Random messages whenever you miss a note. Because apparently people like those.",
+	"newname": "自定义Miss文字|CustomMissText",
+	"newdescription": "每次错过note时将随机显示信息。因为，显然人们喜欢这些。"
 }, {
 	"name": "Custom Platforms",
 	"description": "A plugin for using custom platforms and environments",
