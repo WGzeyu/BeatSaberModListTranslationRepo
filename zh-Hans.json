@@ -57,7 +57,7 @@
 	"name": "Custom Campaigns",
 	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
 	"newname": "自定义活动|Custom Campaigns",
-	"newdescription": "【警告！此Mod文件极大，且没个卵用，比其他Mod平均大100倍，网络不够好极易因为下载超时而导致报错。】为游戏增加了自定义活动的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
+	"newdescription": "【警告！此Mod文件超大，且没个卵用，比其他Mod平均大100倍，网络不够好极易因为下载超时而导致报错。】为游戏增加了自定义活动的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
 }, {
 	"name": "CustomCampaignLeaderboardLibrary",
 	"description": "A library required for custom campaign leaderboards.",
@@ -471,8 +471,8 @@
 }, {
 	"name": "Rumble Enhancer",
 	"description": "A Mod to tweak Rumble Behavior",
-	"newname": "隆隆声增强器|Rumble Enhancer",
-	"newdescription": "一个用来调整隆隆声的Mod"
+	"newname": "震动增强器|Rumble Enhancer",
+	"newdescription": "用于调整震动效果的Mod"
 }, {
 	"name": "BeatSinger",
 	"description": "Beat Saber plugin for displaying floating lyrics while playing the game.\n",
