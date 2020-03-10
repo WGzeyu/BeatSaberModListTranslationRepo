@@ -506,8 +506,8 @@
 }, {
 	"name": "Bloom Mod",
 	"description": "Allows you to adjust the amount of bloom in game.\nOriginally Created by Ibodan\n*See the github for config info*",
-	"newname": "盛开|Bloom Mod",
-	"newdescription": "允许您调整游戏中的绽放数量。最初由Ibodan创建*有关配置信息，请参见github (没看懂干嘛的,纯机翻,没试出什么效果)"
+	"newname": "Bloom Mod",
+	"newdescription": "用于调整光剑亮度之类的信息。（需要手动修改文件来设置Mod，具体请看Mod信息）"
 }, {
 	"name": "Survey",
 	"description": "We need your help. Fill out an important survey and get free sabers!",
