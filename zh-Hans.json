@@ -528,4 +528,14 @@
 	"description": "honk",
 	"newname": "HonkSaber",
 	"newdescription": "将游戏中所有文本修改为Honk，国外玩梗插件。 Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk  Honk"
+}, {
+	"name": "SongChartVisualizer",
+	"description": "Displays an in-game chart with song difficulty information!",
+	"newname": "歌曲难度图表|SongChartVisualizer",
+	"newdescription": "在游戏内显示歌曲难度曲线"
+}, {
+	"name": "ImageCoverExpander",
+	"description": "Expands and customize the image cover container in the song selection!",
+	"newname": "歌曲封面扩展|ImageCoverExpander",
+	"newdescription": "扩展右侧上半条歌曲信息的背景封面大小"
 }]
