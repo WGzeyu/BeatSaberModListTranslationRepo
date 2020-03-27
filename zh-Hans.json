@@ -10,7 +10,7 @@
 	"newdescription": "游戏内使用BeatSaver下载歌曲的插件。"
 }, {
 	"name": "CameraPlus",
-	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement.\nThis plugin has TransportWall modified by pespiri.",
+	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement. \nfor BSIPA4 and GameVersion1.8.0.",
 	"newname": "相机增强|CameraPlus",
 	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
@@ -205,7 +205,7 @@
 	"newdescription": "可以上传自定义歌曲分数的排行榜插件！装了它，打Ranked曲子，可以加pp统计你的全球/全国排名！"
 }, {
 	"name": "CustomMenuText",
-	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else?\r\nWith this plugin, you can change the game's title in the main menu!",
+	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else? With this plugin, you can change the game's title in the main menu!",
 	"newname": "自定义标题文字|CustomMenuText",
 	"newdescription": "用于自定义主面板上方\"BEAT SABER\"显示文字的插件"
 }, {
@@ -255,9 +255,9 @@
 	"newdescription": "自定义平台和环境的插件。"
 }, {
 	"name": "Particle Overdrive",
-	"description": "Enable/disable camera noise, and global particle haze, configure slash particle and explosion particle amount. Created by lolPants with additional contributions by Steven 馃巰.",
+	"description": "Enable/disable camera noise, and global particle haze, configure slash particle and explosion particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
 	"newname": "粒子超速|Particle Overdrive",
-	"newdescription": "启用/禁用相机噪声，以及全局粒子雾度，配置斜线粒子和爆炸粒子数量。 由lolPant创建，并由Steven🎀贡献。"
+	"newdescription": "启用/禁用相机噪声，以及全局粒子雾度，配置斜线粒子和爆炸粒子数量。 由lolPant创建，并由Steven🎀和Zingabop贡献。"
 }, {
 	"name": "AutoPause",
 	"description": "Will pause your game if it detects a tracking error or an fps drop.",
@@ -532,10 +532,10 @@
 	"name": "SongChartVisualizer",
 	"description": "Displays an in-game chart with song difficulty information!",
 	"newname": "歌曲难度图表|SongChartVisualizer",
-	"newdescription": "在游戏内显示歌曲难度曲线"
+	"newdescription": "在游戏内显示歌曲难度曲线。"
 }, {
 	"name": "ImageCoverExpander",
 	"description": "Expands and customize the image cover container in the song selection!",
 	"newname": "歌曲封面扩展|ImageCoverExpander",
-	"newdescription": "扩展右侧上半条歌曲信息的背景封面大小"
+	"newdescription": "扩展右侧上半条歌曲信息的背景封面大小。"
 }]
