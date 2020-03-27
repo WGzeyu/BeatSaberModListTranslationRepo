@@ -242,7 +242,7 @@
 	"name": "CustomMissText",
 	"description": "(Made by Arti)\nBroke: \"MISS\"\nWoke: \"HITN\"T\"\n----\nRandom text whenever you miss a block!",
 	"newname": "自定义Miss文字|CustomMissText",
-	"newdescription": "每次错过note时将随机显示信息。因为，显然人们喜欢这些。"
+	"newdescription": "每次错过note时将随机显示信息。"
 }, {
 	"name": "CustomMissText",
 	"description": "Random messages whenever you miss a note. Because apparently people like those.",
@@ -422,7 +422,7 @@
 	"name": "CustomFailText",
 	"description": "Like that one mod, but for the other thing.",
 	"newname": "自定义失败文字|CustomFailText ",
-	"newdescription": "就像那个Mod，但是修改其他地方的。"
+	"newdescription": "自定义Fail时显示文字。"
 }, {
 	"name": "osusaber",
 	"description": "Click the circles!",
