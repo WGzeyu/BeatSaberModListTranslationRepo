@@ -538,4 +538,9 @@
 	"description": "Expands and customize the image cover container in the song selection!",
 	"newname": "歌曲封面扩展|ImageCoverExpander",
 	"newdescription": "扩展右侧上半条歌曲信息的背景封面大小。"
+}, {
+	"name": "BailOutMode",
+	"description": "Allows you to continue playing songs without posting a score if you fail, but allows you to post scores if you don't.",
+	"newname": "BailOutMode",
+	"newdescription": "平时正常传分，失败时自动打开不死，不会中断歌曲，也不会上传分数。"
 }]
