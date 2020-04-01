@@ -85,9 +85,9 @@
 	"newdescription": "用于让游戏支持将背景灯光颜色显示为任意颜色。（需铺面也支持才有效果）"
 }, {
 	"name": "JustRainbowLights",
-	"description": "It randomizes the background lights. That's all. (Still compatible with chroma)",
+	"description": "A mod which makes it so the lights in the background of a level appear rainbow, for a more colourful gameplay experience.",
 	"newname": "彩虹灯|JustRainbowLights",
-	"newdescription": "为游戏添加随机灯光，仅此而已。(与Chroma兼容)"
+	"newdescription": "一个为游戏添加彩虹背景灯的Mod，带来更加多彩的游戏体验。"
 }, {
 	"name": "PauseMenuRotationFix",
 	"description": "Fixes wrong controller orientation when pausing in 90/360 levels.",
@@ -140,7 +140,7 @@
 	"newdescription": "直播核心是基于IPA的Mod，旨在使开发人员可以轻松创建交互式聊天体验。”"
 }, {
 	"name": "Song Request Manager",
-	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is the 1.6.1 release, and includes song duration, NJS filters and more.",
+	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. 1.8.0",
 	"newname": "点歌管理器|Song Request Manager",
 	"newdescription": "点歌管理器是个集成可定制的点歌机器人和BeatSaber控制台。可根据歌曲时长、NJS过滤。"
 }, {
@@ -278,6 +278,11 @@
 	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen and song filtering.",
 	"newname": "搜索/过滤增强|EnhancedSearchAndFilters",
 	"newdescription": "与歌曲浏览器兼容，它也可以搜索/过滤来找歌并支持自动刷新！启用分别搜索时，输入\"goat\"可以搜索到\"G.O.A.T.\"。"
+}, {
+	"name": "Enhanced Search And Filters",
+	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen and song filtering.",
+	"newname": "搜索/过滤增强|Enhanced Search And Filters",
+	"newdescription": "可以帮助你快速找到想找的歌曲的Mod！包括自动刷新搜索结果与歌曲过滤。"
 }, {
 	"name": "YamlDotNet",
 	"description": "YamlDotNet is a .NET library for YAML",
@@ -542,5 +547,30 @@
 	"name": "BailOutMode",
 	"description": "Allows you to continue playing songs without posting a score if you fail, but allows you to post scores if you don't.",
 	"newname": "BailOutMode",
-	"newdescription": "平时正常传分，失败时自动打开不死，不会中断歌曲，也不会上传分数。"
+	"newdescription": "平时正常传分，失败时自动重置血条，不会中断歌曲，也不会上传分数。"
+}, {
+	"name": "PlaylistLoaderLite",
+	"description": "This plugin uses the official Playlist loader to load custom playlist files in Beat Saber.",
+	"newname": "播放列表加载器Lite|PlaylistLoaderLite",
+	"newdescription": "使用官方歌曲列表加载器来加载自定义歌曲列表的插件。"
+}, {
+	"name": "Yeet Debris",
+	"description": "Returns the 'Reduce Debris' option to it's previous behavior of no longer spawning debris at all when enabled.",
+	"newname": "Yeet碎片|Yeet Debris",
+	"newdescription": "将\"关闭碎片\"功能变回以前的样子，即：VR与屏幕中均不显示碎片。"
+}, {
+	"name": "CustomJSONData",
+	"description": "Lets mappers include arbitrary data in beatmaps, and lets modders access that data. Why did I make this? Good question.",
+	"newname": "自定义JSON数据|CustomJSONData",
+	"newdescription": "让作者可以在铺面中添加任意数据，并且让开发者可以访问这些数据。"
+}, {
+	"name": "RumbleMod",
+	"description": "A Beat Saber mod to modify the rumble parameters on hitting notes or touch sabers/walls.",
+	"newname": "震动修改器|RumbleMod",
+	"newdescription": "用于修改击打Note、光剑/墙壁碰撞时的震动参数。"
+}, {
+	"name": "SmoothCameraUnlimiter",
+	"description": "Unlimits the Smooth Camera settings and enables the built-in third-person camera!",
+	"newname": "无限流畅平滑相机|SmoothCameraUnlimiter",
+	"newdescription": "取消平滑相机设置的限制，并启用自带的第三人称相机。"
 }]
