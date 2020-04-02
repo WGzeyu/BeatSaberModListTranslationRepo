@@ -12,7 +12,7 @@
 	"name": "CameraPlus",
 	"description": "This mod allows for multiple wide FOV cameras with smoothed movement. Correcting incorrect display of objects. Added debris display switching option.",
 	"newname": "相机增强|CameraPlus",
-	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度、碎片选项……大佬的视频看着舒服就是因为用了这个插件。"
+	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度、碎片调整……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
 	"name": "BeatSaverSharp",
 	"description": "Official C# Library to interact with the BeatSaver API",
