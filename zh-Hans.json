@@ -421,8 +421,8 @@
 }, {
 	"name": "Intro Skip",
 	"description": "Allows you to skip intros and outros of songs that are longer than 5 seconds without any significant objects.",
-	"newname": "跳过简介|Intro Skip",
-	"newdescription": "允许您跳过5秒以上的歌曲的前奏和后奏而没有任何重要对象。"
+	"newname": "跳过前奏|Intro Skip",
+	"newdescription": "允许您跳过5秒以上的，没有Note的前奏。"
 }, {
 	"name": "CustomFailText",
 	"description": "Like that one mod, but for the other thing.",
