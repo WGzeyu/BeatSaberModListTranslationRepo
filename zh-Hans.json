@@ -580,7 +580,7 @@
 	"newdescription": "经过重构的全新Chroma 2.0。用于让游戏支持将背景灯光颜色显示为任意颜色，以及RGB/彩虹灯模式。"
 }, {
 	"name": "Noodle Extensions",
-	"description": "Ever looking to extend your noodle? Now you can! With Noodle Extensions! Unlocked mapping like you've never seen before! More at 11",
+	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Not backwards compatible with Mapping Extensions!",
 	"newname": "面条扩展|Noodle Extensions",
-	"newdescription": "【机翻】是否想延长面条？现在你可以！随着面条扩展！解锁映射，就像您从未见过的！（还不知道是啥玩意，翻译以后再改）"
+	"newdescription": "作为映射扩展的精神继任者，它允许作者精确控制铺面元素的各个方面。不能向后兼容映射扩展！"
 }]
