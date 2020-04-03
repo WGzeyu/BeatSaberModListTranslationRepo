@@ -2,7 +2,7 @@
 	"name": "BSIPA",
 	"description": "A mod loader for Beat Saber. Provides a number of useful tools and utilities.",
 	"newname": "BSIPA",
-	"newdescription": "BeatSaber的MOD加载器，提供了很多实用功能。"
+	"newdescription": "BeatSaber的Mod加载器，提供了很多实用功能。"
 }, {
 	"name": "BeatSaverDownloader",
 	"description": "Enables you to download songs from BeatSaver in-game.",
@@ -72,7 +72,7 @@
 	"name": "MappingExtensions",
 	"description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
 	"newname": "映射扩展|MappingExtensions",
-	"newdescription": "为自制谱添加诸如多轨等许多新功能，并让您可以玩这些铺面。查看MOD信息以获取详情。"
+	"newdescription": "为游戏添加诸如多轨等铺面功能支持。需要安装此Mod才能玩这些铺面。查看Mod信息以获取详情。"
 }, {
 	"name": "Ini Parser",
 	"description": "A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#. Not made by myself, refer to github link for author.",
@@ -402,7 +402,7 @@
 	"name": "GameplayModifiersPlus",
 	"description": "Adds additional modifiers to the game, see More Info for details",
 	"newname": "游戏修改+|GameplayModifiersPlus",
-	"newdescription": "在游戏中添加额外的修改，详情请查看MOD信息。"
+	"newdescription": "在游戏中添加额外的修改，详情请查看Mod信息。"
 }, {
 	"name": "GameplayRestrictionsPlus",
 	"description": "Adds various Restrictions you can add to your game, from fail on Imperfect Cut to Crash or Restart on Miss! see UserData/GamePlayRestrictionsPlus.ini for Configuration",
@@ -582,5 +582,5 @@
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Not backwards compatible with Mapping Extensions!",
 	"newname": "面条扩展|Noodle Extensions",
-	"newdescription": "作为映射扩展的精神继任者，它允许作者精确控制铺面元素的各个方面。不能向后兼容映射扩展！"
+	"newdescription": "类似映射扩展，它能让作者精确控制铺面元素的各个方面。此Mod不能代替映射扩展。"
 }]
