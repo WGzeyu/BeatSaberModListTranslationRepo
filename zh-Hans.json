@@ -573,4 +573,14 @@
 	"description": "Unlimits the Smooth Camera settings and enables the built-in third-person camera!",
 	"newname": "无限平滑相机|SmoothCameraUnlimiter",
 	"newdescription": "取消平滑相机设置的限制，并启用自带的第三人称相机。"
+}, {
+	"name": "Chroma",
+	"description": "Welcome to Chroma 2.0, featuring a complete code rework that prioritizes performance to bring you amazing features like the RGB lights that you all know and love and a rainbow lights mode.",
+	"newname": "Chroma",
+	"newdescription": "经过重构的全新Chroma 2.0。用于让游戏支持将背景灯光颜色显示为任意颜色，以及RGB/彩虹灯模式。"
+}, {
+	"name": "Noodle Extensions",
+	"description": "Ever looking to extend your noodle? Now you can! With Noodle Extensions! Unlocked mapping like you've never seen before! More at 11",
+	"newname": "面条扩展|Noodle Extensions",
+	"newdescription": "[机翻] 是否想延长面条？现在你可以！随着面条扩展！解锁映射，就像您从未见过的！(还不知道是啥玩意，以后再改)"
 }]
