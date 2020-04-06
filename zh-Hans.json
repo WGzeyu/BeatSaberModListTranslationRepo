@@ -580,7 +580,12 @@
 	"newdescription": "经过重构的全新Chroma 2.0。用于让游戏支持将背景灯光颜色显示为任意颜色，以及RGB/彩虹灯模式。"
 }, {
 	"name": "Noodle Extensions",
-	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Not backwards compatible with Mapping Extensions!",
+	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
 	"newname": "面条扩展|Noodle Extensions",
 	"newdescription": "类似映射扩展，它能让作者精确控制铺面元素的各个方面。此Mod不能代替映射扩展。"
+}, {
+	"name": "TrickSaber",
+	"description": "A mod for performing tricks like spinning and throwing your sabers",
+	"newname": "TrickSaber",
+	"newdescription": "可以实现扔剑（类似回旋镖）和旋转效果的Mod。"
 }]
