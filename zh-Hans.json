@@ -85,9 +85,9 @@
 	"newdescription": "用于让游戏支持将背景灯光颜色显示为任意颜色。（需铺面也支持才有效果）"
 }, {
 	"name": "JustRainbowLights",
-	"description": "A mod which makes it so the lights in the background of a level appear rainbow, for a more colourful gameplay experience.",
+	"description": "Makes the background lighting rainbow, for a more colourful experience.",
 	"newname": "彩虹灯|JustRainbowLights",
-	"newdescription": "一个为游戏添加彩虹背景灯的Mod，带来更加多彩的游戏体验。"
+	"newdescription": "将背景灯变为彩虹，带来更加多彩的游戏体验。"
 }, {
 	"name": "PauseMenuRotationFix",
 	"description": "Fixes wrong controller orientation when pausing in 90/360 levels.",
@@ -325,9 +325,9 @@
 	"newdescription": "集成在游戏中的BSIPA Mod管理器"
 }, {
 	"name": "RandomSongPlayer",
-	"description": "Downloads a random song from BeatSaver and plays it",
+	"description": "Downloads a completely random map from BeatSaver and plays it immediately",
 	"newname": "随机歌曲|RandomSongPlayer",
-	"newdescription": "随机从BeatSaver中下载歌曲并开始。"
+	"newdescription": "从BeatSaver随机下载铺面并立即开始"
 }, {
 	"name": "NoArrowsRandom",
 	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won't affect One Saber or mapped No Arrows modes.",
