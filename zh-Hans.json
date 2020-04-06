@@ -22,7 +22,7 @@
 	"name": "BS Utils",
 	"description": "A basic library for mods to use for common functionality.",
 	"newname": "BS Utils",
-	"newdescription": "Mod的基本库，用于常见功能。"
+	"newdescription": "用于给Mod提供基础功能的支持库。"
 }, {
 	"name": "SongCore",
 	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the new formatA plugin for handling custom songs in Beat Saber, and converting old libraries into the new format",
@@ -32,7 +32,7 @@
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
 	"newname": "BeatSaberMarkupLanguage",
-	"newdescription": "基于XML的界面系统。"
+	"newdescription": "基于XML的Mod界面系统。"
 }, {
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver.",
@@ -67,7 +67,7 @@
 	"name": "SongDataCore",
 	"description": "Download and cache database dumps of ScoreSaber and BeatSaver. Map the information by song hash and make available to other plugins.",
 	"newname": "SongDataCore",
-	"newdescription": "下载并缓存ScoreSaber和BeatSaver的数据库转储。通过歌曲Hash映射信息，并提供给其他插件。"
+	"newdescription": "下载并缓存ScoreSaber和BeatSaver的歌曲数据，通过歌曲Hash提供信息给其他插件。"
 }, {
 	"name": "MappingExtensions",
 	"description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
@@ -112,12 +112,12 @@
 	"name": "PerfectionDisplay",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
 	"newname": "完美展示|PerfectionDisplay",
-	"newdescription": "在展示分数页面和游戏中(如果启用)显示分数详情。如果您安装了击中分数上色将会使用其配置。"
+	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击中分数上色将会使用其配置。"
 }, {
 	"name": "Perfection Display",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
 	"newname": "完美展示|Perfection Display",
-	"newdescription": "在展示分数页面和游戏中(如果启用)显示分数详情。如果您安装了击中分数上色将会使用其配置。"
+	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击中分数上色将会使用其配置。"
 }, {
 	"name": "PracticePlugin",
 	"description": "Plugin for Beat Saber to adjust song parameters, seek through songs and set up looping sections.",
@@ -137,7 +137,7 @@
 	"name": "Stream Core",
 	"description": "Stream Core is an IPA based mod designed to allow developers to create interactive chat experiences with ease.",
 	"newname": "直播核心|Stream Core",
-	"newdescription": "直播核心是基于IPA的Mod，旨在使开发人员可以轻松创建交互式聊天体验。”"
+	"newdescription": "直播核心是基于IPA的Mod，让开发人员可以轻松创建交互式聊天体验。"
 }, {
 	"name": "Song Request Manager",
 	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. 1.8.0",
@@ -172,12 +172,12 @@
 	"name": "Custom Exit",
 	"description": "Displays a panel to confirm that you really really want to exit Beat Saber.",
 	"newname": "自定义退出|Custom Exit",
-	"newdescription": "在退出BeatSaber时显示一个面板以确认您确实要退出BeatSaber。"
+	"newdescription": "在退出时显示一个面板以确认您确实要退出BeatSaber。"
 }, {
 	"name": "BeatSaberCustomExit",
 	"description": "This is a mod that displays a panel to confirm that you really really want to exit Beat Saber.",
 	"newname": "自定义退出|BeatSaberCustomExit",
-	"newdescription": "在退出BeatSaber时显示一个面板以确认您确实要退出BeatSaber。"
+	"newdescription": "在退出时显示一个面板以确认您确实要退出BeatSaber。"
 }, {
 	"name": "SongBrowser",
 	"description": "Adds various sorting and filtering methods to the UI. Search, favorites, ranked, and unranked filters. Sort by BeatSaver and ScoreSaber statistics. Adds PP and other extra stats to the stat panel.",
@@ -257,7 +257,7 @@
 	"name": "Particle Overdrive",
 	"description": "Enable/disable camera noise, and global particle haze, configure slash particle and explosion particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
 	"newname": "粒子超速|Particle Overdrive",
-	"newdescription": "启用/禁用相机噪声，以及全局粒子雾度，配置斜线粒子和爆炸粒子数量。 由lolPant创建，并由Steven🎀和Zingabop贡献。"
+	"newdescription": "设置相机噪点、全局粒子雾度，配置斜线粒子和爆炸粒子数量。 由lolPant创建，并由Steven🎀和Zingabop贡献。"
 }, {
 	"name": "AutoPause",
 	"description": "Will pause your game if it detects a tracking error or an fps drop.",
