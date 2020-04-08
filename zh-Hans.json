@@ -390,9 +390,9 @@
 	"newdescription": "在Beat Saber中为Twitch主播添加了新功能和实用工具"
 }, {
 	"name": "Enhancements",
-	"description": "Enhancements adds a variety of things to your game from a counter which appears during the off time of songs to a clock to volume control and intro/outro skipping!",
+	"description": "Adds various extra features into Beat Saber like a clock and volume adjustment!",
 	"newname": "增强功能|Enhancements",
-	"newdescription": "增强功能为您的游戏增加了各种各样的功能，从在歌曲关闭时间出现的计数器到时钟，再到音量控制和内/外跳的时钟！"
+	"newdescription": "为BeatSaber增加各种额外功能，例如时钟和音量调节！"
 }, {
 	"name": "Custom Colors",
 	"description": "Allows you to customize your colors in Beat Saber ",
@@ -500,9 +500,9 @@
 	"newdescription": "隐藏方块基于适用于osu的流行高清模块，可以使任何音符/炸弹在播放器范围内消失。"
 }, {
 	"name": "Music Video Player",
-	"description": "A plugin for downloading and playing videos inside BeatSaber",
+	"description": "Music Video Player is a mod that allows players to  download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
 	"newname": "MV视频播放器|Music Video Player",
-	"newdescription": "一个可以在Beat Saber中下载并播放视频的插件"
+	"newdescription": "MV视频播放器是一个让玩家可以下载并在游戏时和音乐同步播放视频的Mod"
 }, {
 	"name": "CustomWalls",
 	"description": "A plugin for custom walls in Beat Saber",
@@ -588,4 +588,14 @@
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
 	"newname": "TrickSaber",
 	"newdescription": "可以实现扔剑（类似回旋镖）和旋转效果的Mod。"
+}, {
+	"name": "LevelTweaks",
+	"description": "Modify and save the NJS and Offset values for different levels.",
+	"newname": "关卡调整|LevelTweaks",
+	"newdescription": "针对不同的铺面调整NJS（方块速度）和偏移值。"
+}, {
+	"name": "LagKiller",
+	"description": "A rewritten \"TheTrashMan\" that takes into account Unity-specific incremental GC mode. It manually triggers incremental GC with the specified budget, + tracks frame drop/lag statistics.",
+	"newname": "延迟杀手|LagKiller",
+	"newdescription": "重构的“垃圾人”，让您可以通过调整垃圾回收来减少卡顿。考虑到了Unity特定的增量GC模式，它以指定的消耗手动触发增量GC，以及追踪丢帧/延迟统计。"
 }]
