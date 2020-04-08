@@ -592,7 +592,7 @@
 	"name": "LevelTweaks",
 	"description": "Modify and save the NJS and Offset values for different levels.",
 	"newname": "关卡调整|LevelTweaks",
-	"newdescription": "针对不同的铺面调整NJS（方块速度）和偏移值。"
+	"newdescription": "针对不同的铺面调整NJS（方块速度）和偏移值。调整后将停止提交分数。"
 }, {
 	"name": "LagKiller",
 	"description": "A rewritten \"TheTrashMan\" that takes into account Unity-specific incremental GC mode. It manually triggers incremental GC with the specified budget, + tracks frame drop/lag statistics.",
