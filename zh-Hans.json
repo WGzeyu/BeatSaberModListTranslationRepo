@@ -100,9 +100,9 @@
 	"newdescription": "在打开NoFail后，将PLAY按钮将显示为NoFail以防忘记关闭。"
 }, {
 	"name": "YUR Fit Calorie Tracker",
-	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam!",
+	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam/SideQuest!",
 	"newname": "YUR卡路里追踪器|YUR Fit Calorie Track",
-	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam上搜索我们。"
+	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam/SideQuest上搜索我们。"
 }, {
 	"name": "TransparentWall",
 	"description": "Enable transparent walls for your own view in VR! (No... It does not affect CameraPlus)",
@@ -598,4 +598,9 @@
 	"description": "A rewritten \"TheTrashMan\" that takes into account Unity-specific incremental GC mode. It manually triggers incremental GC with the specified budget, + tracks frame drop/lag statistics.",
 	"newname": "延迟杀手|LagKiller",
 	"newdescription": "重构的“垃圾人”，让您可以通过调整垃圾回收来减少卡顿。考虑到了Unity特定的增量GC模式，它以指定的消耗手动触发增量GC，以及追踪丢帧/延迟统计。"
+}, {
+	"name": "Claws",
+	"description": "Gameplay modifier that shrinks sabers by 70% (from 1m to 0.3m) & alters grip.",
+	"newname": "Claws",
+	"newdescription": "游戏性修改器，可将光剑缩短70%（1m-0.3m）并更改握法。"
 }]
