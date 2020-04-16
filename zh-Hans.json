@@ -202,7 +202,7 @@
 	"name": "ScoreSaber",
 	"description": "Allows you to upload scores to an online leaderboard, earn PP from ranked maps, and compare scores with others.",
 	"newname": "ScoreSaber 排行榜",
-	"newdescription": "可以上传自定义歌曲分数的排行榜插件！装了它，打Ranked曲子，可以加pp统计你的全球/全国排名！"
+	"newdescription": "可以上传自定义歌曲分数的排行榜插件！装了它打Rank曲，可以加pp分，统计你的全球/全国排名！"
 }, {
 	"name": "CustomMenuText",
 	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else? With this plugin, you can change the game's title in the main menu!",
