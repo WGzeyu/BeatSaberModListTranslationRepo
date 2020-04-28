@@ -10,7 +10,7 @@
 	"newdescription": "游戏内使用BeatSaver下载歌曲的插件。"
 }, {
 	"name": "CameraPlus",
-	"description": "This mod allows for multiple wide FOV cameras with smoothed movement. Correcting incorrect display of objects. Added debris display switching option.",
+	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement. -Add profile system (implemented by Auros) -Changed the rotation control of the 360 degree camera.",
 	"newname": "相机增强|CameraPlus",
 	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度、碎片调整……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
@@ -280,9 +280,9 @@
 	"newdescription": "与歌曲浏览器兼容，它也可以搜索/过滤来找歌并支持自动刷新！启用分别搜索时，输入\"goat\"可以搜索到\"G.O.A.T.\"。"
 }, {
 	"name": "Enhanced Search And Filters",
-	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen and song filtering.",
+	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen, song filtering, and other basic UI additions.",
 	"newname": "搜索/过滤增强|Enhanced Search And Fil",
-	"newdescription": "可以帮助你快速找到想找的歌曲的Mod！包括自动刷新搜索结果与歌曲过滤。"
+	"newdescription": "可以帮助你快速找到想找的歌曲的Mod！包括自动刷新搜索结果与歌曲过滤和其他UI组件。"
 }, {
 	"name": "YamlDotNet",
 	"description": "YamlDotNet is a .NET library for YAML",
@@ -603,4 +603,9 @@
 	"description": "Gameplay modifier that shrinks sabers by 70% (from 1m to 0.3m) & alters grip.",
 	"newname": "Claws",
 	"newdescription": "游戏性修改器，可将光剑缩短70%（1m-0.3m）并更改握法。"
+}, {
+	"name": "ScorePercentage",
+	"description": "Adds score percentage, percentage difference and score difference to results screen and score percentage to song info.",
+	"newname": "完成度|ScorePercentage",
+	"newdescription": "将完成度（分数百分比）、完成度变化以及分数变化添加到分数界面，以及将完成度添加到歌曲信息。"
 }]
