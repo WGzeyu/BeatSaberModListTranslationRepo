@@ -162,7 +162,7 @@
 	"name": "SaberTailor",
 	"description": "Tweak things about your sabers, including grip position/angle, trail length and saber length/girth. Created by Ruu. Additional contributions by Pespiri.",
 	"newname": "光剑调整|SaberTailor",
-	"newdescription": "用于调整光剑，包括光剑位置/角度，调整长度或伸长。由Ruu创建，Pespiri做出额外贡献。"
+	"newdescription": "用于调整光剑的位置、角度，调整长度或伸长。由Ruu创建，Pespiri做出额外贡献。"
 }, {
 	"name": "NoteSpawnEffectRemover",
 	"description": "Removes the note spawn effect (the bright light cone) of notes and bombs.",
