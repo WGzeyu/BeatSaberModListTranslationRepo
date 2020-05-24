@@ -10,7 +10,7 @@
 	"newdescription": "游戏内使用BeatSaver下载歌曲的插件。"
 }, {
 	"name": "CameraPlus",
-	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement. \n- 3rd person camera fix",
+	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement.\nAdded profile switching between game scene and menu scene.",
 	"newname": "相机增强|CameraPlus",
 	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度、碎片调整……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
@@ -565,9 +565,9 @@
 	"newdescription": "让作者可以在铺面中添加任意数据，并且让开发者可以访问这些数据。"
 }, {
 	"name": "RumbleMod",
-	"description": "A Beat Saber mod to modify the rumble parameters on hitting notes or touch sabers/walls.",
+	"description": "A Beat Saber mod to modify the rumble parameters on hitting notes or touch sabers/walls/ui.",
 	"newname": "震动修改器|RumbleMod",
-	"newdescription": "用于修改击打Note、光剑/墙壁碰撞时的震动参数。"
+	"newdescription": "用于修改击打Note、光剑/墙壁碰撞及游戏界面的震动参数。"
 }, {
 	"name": "SmoothCameraUnlimiter",
 	"description": "Unlimits the Smooth Camera settings and enables the built-in third-person camera!",
@@ -608,4 +608,24 @@
 	"description": "Adds score percentage, percentage difference and score difference to results screen and score percentage to song info.",
 	"newname": "完成度|ScorePercentage",
 	"newdescription": "将完成度（总分百分比）、完成度变化以及分数变化添加到分数界面，以及将完成度添加到歌曲信息。"
+}, {
+	"name": "CustomMenuPointers",
+	"description": "Use a custom pointer or saber in the menu and the pause menu!",
+	"newname": "自定义菜单指针|CustomMenuPointers",
+	"newdescription": "在菜单和暂停界面中使用自定义指针或自定义光剑。"
+}, {
+	"name": "AutoPauseStealth",
+	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
+	"newname": "AutoPauseStealth",
+	"newdescription": "在每首歌曲开始时悄悄暂停游戏，等待潜在的卡顿结束。"
+}, {
+	"name": "BeatFollower",
+	"description": "Tracks your song plays and recommendations to your profile on https://www.beatfollower.com. Twitch Extension available to display under your channels.",
+	"newname": "BeatFollower",
+	"newdescription": "在 https://www.beatfollower.com 显示你的游玩记录和推荐。Twitch扩展可显示在您的频道中"
+}, {
+	"name": "FastFail",
+	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
+	"newname": "快速失败|FastFail",
+	"newdescription": "将关卡失败动画缩短2秒。可设置将自动跳过动画改为手动按键跳过。"
 }]
