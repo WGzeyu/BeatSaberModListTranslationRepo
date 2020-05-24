@@ -127,7 +127,7 @@
 	"name": "HTTP Status",
 	"description": "This plugin can be used to build custom stream overlays or track player performance by third party programs. It exposes information about the current game status, live over a WebSocket and over HTTP.",
 	"newname": "HTTP状态|HTTP Status",
-	"newdescription": "用于支持第三方程序通过WebSocket获取当前游戏数据。例如：http://overlay.reselim.io/"
+	"newdescription": "用于支持第三方程序通过WebSocket获取当前游戏数据。"
 }, {
 	"name": "Enhanced Stream Chat",
 	"description": "Enhanced Stream Chat is a rich text chat integration mod with full unicode, emote, cheermote, and emoji support. Supports Twitch and YouTube.",
