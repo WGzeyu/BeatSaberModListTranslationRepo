@@ -620,7 +620,7 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Tracks your song plays and recommendations to your profile on https://www.beatfollower.com. Twitch Extension available to display under your channels.",
+	"description": "Tracks your song plays and recommendations to your profile on https://www.beatfollower.com.  Twitch Extension available to display under your channels.",
 	"newname": "BeatFollower",
 	"newdescription": "在 https://www.beatfollower.com 显示你的游玩记录和推荐。Twitch扩展可显示在您的频道中"
 }, {
