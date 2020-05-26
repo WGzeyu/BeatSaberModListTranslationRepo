@@ -100,7 +100,7 @@
 	"newdescription": "在打开NoFail后，将PLAY按钮将显示为NoFail以防忘记关闭。"
 }, {
 	"name": "YUR Fit Calorie Tracker",
-	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam/SideQuest!",
+	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam and SideQuest!",
 	"newname": "YUR卡路里追踪器|YUR Fit Calorie Track",
 	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam/SideQuest上搜索我们。"
 }, {
@@ -628,4 +628,9 @@
 	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
 	"newname": "快速失败|FastFail",
 	"newdescription": "将关卡失败动画缩短2秒。可设置将自动跳过动画改为手动按键跳过。"
+}, {
+	"name": "SongInfoViewer",
+	"description": "Allows you to easily look at the BeatSaver song data of the currently selected song.",
+	"newname": "歌曲信息查看器|SongInfoViewer",
+	"newdescription": "让您可以轻松查看当前选中歌曲在BeatSaver中的数据"
 }]
