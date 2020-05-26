@@ -61,8 +61,8 @@
 }, {
 	"name": "CustomCampaignLeaderboardLibrary",
 	"description": "A library required for custom campaign leaderboards.",
-	"newname": "自定义活动排行榜库|CustomCampaignL",
-	"newdescription": "自定义活动排行榜所需的支持库。"
+	"newname": "自定义闯关排行榜库|CustomCampaignL",
+	"newdescription": "自定义闯关排行榜所需的支持库。"
 }, {
 	"name": "SongDataCore",
 	"description": "Download and cache database dumps of ScoreSaber and BeatSaver. Map the information by song hash and make available to other plugins.",
