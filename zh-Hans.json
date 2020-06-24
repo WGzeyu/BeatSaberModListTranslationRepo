@@ -125,9 +125,9 @@
 	"newdescription": "Beat Saber的调节歌曲参数插件，可设置播放位置及循环部分。"
 }, {
 	"name": "HTTP Status",
-	"description": "This plugin can be used to build custom stream overlays or track player performance by third party programs. It exposes information about the current game status, live over a WebSocket and over HTTP.",
+	"description": "Create stream overlays or track your performance using third party programs. This plugin exposes live information about the current game status allowing other programs to visualize it in unique ways.",
 	"newname": "HTTP状态|HTTP Status",
-	"newdescription": "用于支持第三方程序通过WebSocket获取当前游戏数据。"
+	"newdescription": "用于支持第三方程序通过WebSocket获取实时游戏数据，并将其录制在画面中。"
 }, {
 	"name": "Enhanced Stream Chat",
 	"description": "Enhanced Stream Chat is a rich text chat integration mod with full unicode, emote, cheermote, and emoji support. Supports Twitch and YouTube.",
@@ -160,7 +160,7 @@
 	"newdescription": "讨厌在歌曲结束后刷新高分时出现的烟花？安装这个Mod将禁用烟花，仅此而已，无设置选项。"
 }, {
 	"name": "SaberTailor",
-	"description": "Tweak things about your sabers, including grip position/angle, trail length and saber length/girth. Created by Ruu. Additional contributions by Pespiri.",
+	"description": "Tweak things about your sabers, including grip position/angle, trail length and saber length/width. Created by Ruu. Additional contributions by Pespiri.",
 	"newname": "光剑调整|SaberTailor",
 	"newdescription": "用于调整光剑的位置、角度，调整长度或伸长。由Ruu创建，Pespiri做出额外贡献。"
 }, {
@@ -592,7 +592,7 @@
 	"name": "LevelTweaks",
 	"description": "Modify and save the NJS and Offset values for different levels.",
 	"newname": "关卡调整|LevelTweaks",
-	"newdescription": "针对不同的铺面调整NJS（方块速度）和偏移值。调整后将停止提交分数。"
+	"newdescription": "针对不同的铺面调整NJS（方块速度）和offset（出生点距离）。调整后将停止提交分数。"
 }, {
 	"name": "LagKiller",
 	"description": "A rewritten \"TheTrashMan\" that takes into account Unity-specific incremental GC mode. It manually triggers incremental GC with the specified budget, + tracks frame drop/lag statistics.",
