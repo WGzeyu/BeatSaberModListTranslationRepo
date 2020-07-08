@@ -7,7 +7,7 @@
 	"name": "BeatSaverDownloader",
 	"description": "Enables you to download songs from BeatSaver in-game.",
 	"newname": "BeatSaver歌曲下载器|BeatSaverDownlo",
-	"newdescription": "游戏内使用BeatSaver下载歌曲的插件。"
+	"newdescription": "游戏内使用BeatSaver下载歌曲的插件，提供了More Song选项。"
 }, {
 	"name": "CameraPlus",
 	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement.\nAdded profile switching between game scene and menu scene.",
