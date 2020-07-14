@@ -476,7 +476,7 @@
 }, {
 	"name": "Rumble Enhancer",
 	"description": "A Mod to tweak Rumble Behavior",
-	"newname": "震动增强器|Rumble Enhancer",
+	"newname": "震动增强|Rumble Enhancer",
 	"newdescription": "用于调整震动效果的Mod"
 }, {
 	"name": "BeatSinger",
@@ -566,7 +566,7 @@
 }, {
 	"name": "RumbleMod",
 	"description": "A Beat Saber mod to modify the rumble parameters on hitting notes or touch sabers/walls/ui.",
-	"newname": "震动修改器|RumbleMod",
+	"newname": "震动调整|RumbleMod",
 	"newdescription": "用于修改击打Note、光剑/墙壁碰撞及游戏界面的震动参数。"
 }, {
 	"name": "SmoothCameraUnlimiter",
