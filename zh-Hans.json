@@ -471,8 +471,8 @@
 }, {
 	"name": "Custom Menu Music",
 	"description": "A mod that adds custom music to your menu! Uses either your CustomSongs library or music of your choosing.",
-	"newname": "自定义菜单音乐|Custom Menu Music",
-	"newdescription": "为菜单界面自定义歌曲的插件。可使用你的自定义歌曲或你选择的音乐。"
+	"newname": "自定义菜单背景音乐|Custom Menu Music",
+	"newdescription": "将菜单界面中播放的背景音乐更换为其他音乐的插件。"
 }, {
 	"name": "Rumble Enhancer",
 	"description": "A Mod to tweak Rumble Behavior",
