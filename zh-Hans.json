@@ -25,7 +25,7 @@
 	"newdescription": "用于给Mod提供基础功能的支持库。"
 }, {
 	"name": "SongCore",
-	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the new formatA plugin for handling custom songs in Beat Saber, and converting old libraries into the new format",
+	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the new format.",
 	"newname": "SongCore",
 	"newdescription": "用于在BeatSaber中处理自定义歌曲并转换格式的插件。"
 }, {
