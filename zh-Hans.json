@@ -633,4 +633,14 @@
 	"description": "Allows you to easily look at the BeatSaver song data of the currently selected song.",
 	"newname": "歌曲信息查看器|SongInfoViewer",
 	"newdescription": "让您可以轻松查看当前选中歌曲在BeatSaver中的数据。"
+}, {
+	"name": "SiraUtil",
+	"description": "A utility/library which provides useful tools to Beat Saber modders.",
+	"newname": "SiraUtil",
+	"newdescription": "为Mod作者提供实用功能的支持库。"
+}, {
+	"name": "SnapTurn",
+	"description": "A plugin for rotating the player using controller inputs.",
+	"newname": "摇杆转身|SnapTurn",
+	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }]
