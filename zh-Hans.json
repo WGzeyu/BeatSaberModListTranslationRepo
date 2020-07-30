@@ -112,12 +112,12 @@
 	"name": "PerfectionDisplay",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
 	"newname": "完美展示|PerfectionDisplay",
-	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击中分数上色将会使用其配置。"
+	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击打分数上色将会使用其配置。"
 }, {
 	"name": "Perfection Display",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
 	"newname": "完美展示|Perfection Display",
-	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击中分数上色将会使用其配置。"
+	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击打分数上色将会使用其配置。"
 }, {
 	"name": "PracticePlugin",
 	"description": "Plugin for Beat Saber to adjust song parameters, seek through songs and set up looping sections.",
@@ -237,7 +237,7 @@
 	"name": "HitScoreVisualizer",
 	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don't. (But they should.)",
 	"newname": "击打分数上色|HitScoreVisualizer",
-	"newdescription": "击中Note后按分数显示颜色，可视化你的分数！不需要进行复杂设置，大多数专业玩家都在用。（但我不用）"
+	"newdescription": "击中Note后按分数显示颜色，可视化你的分数！不需要进行复杂设置，很多专业玩家都在用。"
 }, {
 	"name": "CustomMissText",
 	"description": "(Made by Arti)\nBroke: \"MISS\"\nWoke: \"HITN\"T\"\n----\nRandom text whenever you miss a block!",
