@@ -643,4 +643,9 @@
 	"description": "A plugin for rotating the player using controller inputs.",
 	"newname": "摇杆转身|SnapTurn",
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
+}, {
+	"name": "Saber Factory",
+	"description": "Create your own sabers in-game with lots of customization options",
+	"newname": "光剑工坊|Saber Factory",
+	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。"
 }]
