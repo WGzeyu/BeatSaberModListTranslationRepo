@@ -611,8 +611,8 @@
 }, {
 	"name": "CustomMenuPointers",
 	"description": "Use a custom pointer or saber in the menu and the pause menu!",
-	"newname": "自定义光标|CustomMenuPointers",
-	"newdescription": "在主菜单和暂停菜单中使用自定义光标或光剑。"
+	"newname": "自定义菜单光标|CustomMenuPointers",
+	"newdescription": "在主菜单和暂停菜单中使用自定义光标或光剑。注意：这不是自定义光剑Mod。"
 }, {
 	"name": "AutoPauseStealth",
 	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
