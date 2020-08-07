@@ -1,2 +1,0 @@
-# BeatSaberModListTranslationRepo
-为ModAssistant中文版其中的Mod列表提供翻译的存储库
