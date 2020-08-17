@@ -141,6 +141,7 @@
 }, {
 	"name": "Song Request Manager",
 	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. 1.8.0",
+	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is an Alpha release for the 1.11. Now with deck support! Chatcore required.",
 	"newname": "点歌管理器|Song Request Manager",
 	"newdescription": "点歌管理器是个集成可定制的点歌机器人和BeatSaber控制台。可根据歌曲时长、NJS过滤。"
 }, {
@@ -653,4 +654,9 @@
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
 	"newname": "闯关进度粒子禁用器|CampaignObjectiv",
 	"newdescription": "移除在闯关任务中达到要求时出现的，会分散注意力的粒子效果。"
+}, {
+	"name": "ChatCore",
+	"description": "ChatCore is a .NET Standard library that allows for developers to implement rich chat experiences across several chat services with ease.",
+	"newname": "聊天核心|ChatCore",
+	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。"
 }]
