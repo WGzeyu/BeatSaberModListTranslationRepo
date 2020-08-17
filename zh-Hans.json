@@ -10,7 +10,7 @@
 	"newdescription": "在游戏内使用BeatSaver下载歌曲，提供了More Song选项。"
 }, {
 	"name": "CameraPlus",
-	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement.\nAdded profile switching between game scene and menu scene.",
+	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement, which makes for a much more pleasant overall spectator experience.",
 	"newname": "相机增强|CameraPlus",
 	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度、碎片调整……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
@@ -620,7 +620,7 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Tracks your song plays and recommendations to your profile on https://www.beatfollower.com.  Twitch Extension available to display under your channels.",
+	"description": "Tracks your song plays, recommendations and various other stats to your profile on https://www.beatfollower.com. Twitch Extension available to display under your streams.",
 	"newname": "BeatFollower",
 	"newdescription": "将你的游戏记录与推荐上传到 https://www.beatfollower.com 的个人资料中。Twitch扩展可将资料显示在您的频道中。"
 }, {
@@ -648,4 +648,9 @@
 	"description": "Create your own sabers in-game with lots of customization options",
 	"newname": "光剑工坊|Saber Factory",
 	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。"
+}, {
+	"name": "CampaignObjectiveParticleDisabler",
+	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
+	"newname": "闯关进度粒子禁用器|CampaignObjectiv",
+	"newdescription": "移除在闯关任务中达到要求时出现的，会分散注意力的粒子效果。"
 }]
