@@ -647,7 +647,7 @@
 	"name": "Saber Factory",
 	"description": "Create your own sabers in-game with lots of customization options",
 	"newname": "光剑工坊|Saber Factory",
-	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。"
+	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。【注意，这不是自定义光剑！自定义光剑Mod选这个：自定义光剑|Custom Sabers】"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
