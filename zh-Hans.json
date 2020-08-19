@@ -350,9 +350,9 @@
 	"newdescription": "这是c++ libSkiaSharp库的c#包装器。详情请查看Mod信息。"
 }, {
 	"name": "StepBackWall",
-	"description": "Adds an option to re-enable the glorious \"Step Back\" walls again",
-	"newname": "阶梯墙|StepBackWall",
-	"newdescription": "添加了一个选项以重新启用辉煌的\"Step Back\"墙"
+	"description": "Adds an option to re-enable the glorious \"Step Back\" walls",
+	"newname": "后退墙|StepBackWall",
+	"newdescription": "添加了一个选项以重新启用绚丽的\"后退\"墙。"
 }, {
 	"name": "Song Refresh Button",
 	"description": "Adds various refresh buttons in game.",
@@ -658,4 +658,9 @@
 	"description": "ChatCore is a .NET Standard library that allows for developers to implement rich chat experiences across several chat services with ease.",
 	"newname": "聊天核心|ChatCore",
 	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。"
+}, {
+	"name": "DynamicOpenVR",
+	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime.",
+	"newname": "动态OpenVR|DynamicOpenVR",
+	"newdescription": "允许在运行时动态创建OpenVR动作的Unity脚本。"
 }]
