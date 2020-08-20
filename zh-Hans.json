@@ -662,5 +662,5 @@
 	"name": "DynamicOpenVR",
 	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime.",
 	"newname": "动态OpenVR|DynamicOpenVR",
-	"newdescription": "允许在运行时动态创建OpenVR动作的Unity脚本。"
+	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本。【此Mod曾给游戏、手柄带来许多隐性问题，新版可能已解决，建议谨慎使用】"
 }]
