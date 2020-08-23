@@ -575,9 +575,9 @@
 	"newdescription": "取消平滑相机设置的限制，并启用自带的第三人称相机。"
 }, {
 	"name": "Chroma",
-	"description": "Welcome to Chroma 2.0, featuring a complete code rework that prioritizes performance to bring you amazing features like the RGB lights that you all know and love and a rainbow lights mode.",
+	"description": "Welcome to Chroma 2.0, featuring a complete code rework that prioritizes performance to bring you amazing features like the RGB lights that you all know and love.",
 	"newname": "炫彩灯光|Chroma",
-	"newdescription": "经过重构的全新Chroma 2.0，用于让游戏支持将背景灯光颜色显示为任意颜色，以及RGB/彩虹灯模式。"
+	"newdescription": "经过重构的全新Chroma 2.0，给游戏带来了惊艳的效果支持，例如彩色背景灯、RGB墙、变色Note。"
 }, {
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
@@ -645,7 +645,7 @@
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }, {
 	"name": "Saber Factory",
-	"description": "Create your own sabers in-game with lots of customization options",
+	"description": "Create your own sabers in-game with lots of customization options (loads custom sabers (.saber) too)",
 	"newname": "光剑工坊|Saber Factory",
 	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。【注意，这不是自定义光剑！自定义光剑Mod选这个：自定义光剑|Custom Sabers】"
 }, {
