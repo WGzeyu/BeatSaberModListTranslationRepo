@@ -637,7 +637,7 @@
 	"name": "SiraUtil",
 	"description": "A utility/library which provides useful tools to Beat Saber modders.",
 	"newname": "SiraUtil",
-	"newdescription": "为Mod作者提供实用功能的支持库。"
+	"newdescription": "用于给Mod提供实用功能的支持库。"
 }, {
 	"name": "SnapTurn",
 	"description": "A plugin for rotating the player using controller inputs.",
