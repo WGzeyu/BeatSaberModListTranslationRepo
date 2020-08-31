@@ -56,7 +56,7 @@
 }, {
 	"name": "Custom Campaigns",
 	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
-	"newname": "自定义闯关|Custom Campaigns",
+	"newname": "【注意】自定义闯关|Custom Campaigns",
 	"newdescription": "【此Mod比平均大百倍，不一定用得上，容易下载失败出现报错】为游戏增加了自定义闯关的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
 }, {
 	"name": "CustomCampaignLeaderboardLibrary",
