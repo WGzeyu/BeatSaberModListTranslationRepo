@@ -85,9 +85,9 @@
 	"newdescription": "用于让游戏支持将背景灯光颜色显示为任意颜色。（需铺面也支持才有效果）"
 }, {
 	"name": "JustRainbowLights",
-	"description": "Makes the background lighting rainbow, for a more colourful experience.",
+	"description": "The name says it all",
 	"newname": "彩虹灯效|JustRainbowLights",
-	"newdescription": "将背景灯变为彩虹灯，带来更加丰富多彩（光污染）的游戏体验。"
+	"newdescription": "名字说明了一切，将背景灯变为彩虹灯，带来更加丰富多彩（光污染）的游戏体验。"
 }, {
 	"name": "PauseMenuRotationFix",
 	"description": "Fixes wrong controller orientation when pausing in 90/360 levels.",
@@ -491,8 +491,8 @@
 }, {
 	"name": "MusicEscape",
 	"description": "Music Escape lets you escape your music with \"escape\"",
-	"newname": "音乐逃生|MusicEscape",
-	"newdescription": "音乐逃生让您通过“逃生”逃离音乐。原文：Music Escape lets you escape your music with \"escape\"看不太懂，谷歌翻译的"
+	"newname": "音乐控制|MusicEscape",
+	"newdescription": "可以通过键盘控制暂停、重新开始、停止歌曲的Mod工具。'Esc'键退出歌曲，'左Shift+ESC'重新开始，'F2'暂停。"
 }, {
 	"name": "Hidden Blocks",
 	"description": "Based off the popular HD mod for osu, HiddenBlocks makes any notes/bombs disappear when they come within range of your player.",
@@ -500,7 +500,7 @@
 	"newdescription": "隐藏方块基于适用于osu的流行高清模块，可以使任何音符/炸弹在播放器范围内消失。"
 }, {
 	"name": "Music Video Player",
-	"description": "Music Video Player is a mod that allows players to  download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
+	"description": "Music Video Player is a mod that allows players to download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
 	"newname": "MV视频播放器|Music Video Player",
 	"newdescription": "MV视频播放器是一个让玩家可以下载并在游戏时和音乐同步播放视频的Mod"
 }, {
@@ -617,7 +617,7 @@
 	"name": "AutoPauseStealth",
 	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
 	"newname": "AutoPauseStealth",
-	"newdescription": "在每首歌曲开始时悄悄暂停游戏，等待潜在的卡顿结束。"
+	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
 	"description": "Tracks your song plays, recommendations and various other stats to your profile on https://www.beatfollower.com. Twitch Extension available to display under your streams.",
@@ -663,4 +663,24 @@
 	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime.",
 	"newname": "动态OpenVR|DynamicOpenVR",
 	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本。【此Mod曾给游戏、手柄带来许多隐性问题，新版可能已解决，建议谨慎使用】"
+}, {
+	"name": "DiscordIntegration ",
+	"description": "Allows Beat Saber to display current beatmap information on your Discord profile. Comes with multiple customization options and support for many languages.",
+	"newname": "Discord集成|DiscordIntegration",
+	"newdescription": "让你当前游玩BeatSaber的歌曲状态可以显示在Discord的个人信息中，带有很多设置项并支持多种语言。"
+}, {
+	"name": "Discord Game SDK",
+	"description": "Official Discord SDK for implementing Discord functionality in games.",
+	"newname": "Discord Game SDK",
+	"newdescription": "用于在游戏中实现Discord功能的官方SDK。"
+}, {
+	"name": "BS_PP_BOOSTER",
+	"description": "This plugin will allow you to generate ranked playlist according to your level or choosen settings, it's fully integrated in the game and will automaticly download songs & generate playlist.",
+	"newname": "打分增强|BS_PP_BOOSTER",
+	"newdescription": "此插件可以根据您的等级或设置来生成排位曲歌单，完全与游戏集成，可自动下载歌曲。"
+}, {
+	"name": "Technicolor",
+	"description": "Rainbow? To hell with rainbows! Technicolor is where it's at! Sounds fancier! Because it is. Technicolor is basically a customizable powerful version of rainbow mod.",
+	"newname": "彩色|Technicolor",
+	"newdescription": "彩虹？见鬼去吧！彩色才是最重要的！它确实很花里胡哨，彩色|Technicolor基本上是个更强大的，可自定义的彩虹灯效Mod。"
 }]
