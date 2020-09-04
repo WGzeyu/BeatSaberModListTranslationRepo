@@ -607,7 +607,7 @@
 	"name": "ScorePercentage",
 	"description": "Adds score percentage, percentage difference and score difference to results screen and score percentage to song info.",
 	"newname": "完成度|ScorePercentage",
-	"newdescription": "将完成度（总分百分比）、完成度变化以及分数变化添加到分数界面，以及将完成度添加到歌曲信息。"
+	"newdescription": "将完成度（总分百分比）、完成度变化及分数变化添加到结算页面与歌曲列表中。"
 }, {
 	"name": "CustomMenuPointers",
 	"description": "Use a custom pointer or saber in the menu and the pause menu!",
