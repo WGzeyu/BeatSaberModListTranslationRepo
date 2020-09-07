@@ -57,7 +57,7 @@
 	"name": "Custom Campaigns",
 	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
 	"newname": "【注意】自定义闯关|CustomCampaigns",
-	"newdescription": "【此Mod比平均大百倍，不一定用得上，可能下载失败导致报错】为游戏增加了自定义闯关的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
+	"newdescription": "【此Mod比平均大百倍，若下载时报错请在选项中切换下载源】为游戏增加了自定义闯关的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
 }, {
 	"name": "CustomCampaignLeaderboardLibrary",
 	"description": "A library required for custom campaign leaderboards.",
@@ -502,7 +502,7 @@
 	"name": "Music Video Player",
 	"description": "Music Video Player is a mod that allows players to download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
 	"newname": "【注意】MV视频播放器|Music Video Pla",
-	"newdescription": "【此Mod比平均大百倍，不一定用得上，可能下载失败导致报错】音乐视频播放器可以让玩家下载并与音乐同步播放视频（例如MV视频或舞蹈视频）"
+	"newdescription": "【此Mod比平均大百倍，若下载时报错请在选项中切换下载源】音乐视频播放器可以让玩家下载并与音乐同步播放视频（例如MV视频或舞蹈视频）"
 }, {
 	"name": "CustomWalls",
 	"description": "A plugin for custom walls in Beat Saber",
