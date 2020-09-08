@@ -166,7 +166,7 @@
 }, {
 	"name": "NoteSpawnEffectRemover",
 	"description": "Removes the note spawn effect (the bright light cone) of notes and bombs.",
-	"newname": "方块光锥效果移除器|NoteSpawnEffectR",
+	"newname": "出生光锥效果移除器|NoteSpawnEffectR",
 	"newdescription": "消除音符和炸弹在刚出现时闪现的纵向光锥效果。"
 }, {
 	"name": "Custom Exit",
