@@ -612,7 +612,7 @@
 	"name": "CustomMenuPointers",
 	"description": "Use a custom pointer or saber in the menu and the pause menu!",
 	"newname": "自定义菜单光标|CustomMenuPointers",
-	"newdescription": "在主菜单和暂停菜单中使用自定义光标或光剑。【注意，这不是自定义光剑！自定义光剑Mod选这个：自定义光剑|Custom Sabers】"
+	"newdescription": "在主菜单和暂停菜单中使用自定义光标或光剑。"
 }, {
 	"name": "AutoPauseStealth",
 	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
@@ -647,7 +647,7 @@
 	"name": "Saber Factory",
 	"description": "Create your own sabers in-game with lots of customization options (loads custom sabers (.saber) too)",
 	"newname": "光剑工坊|Saber Factory",
-	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。【注意，这不是自定义光剑！自定义光剑Mod选这个：自定义光剑|Custom Sabers】"
+	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项。"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
