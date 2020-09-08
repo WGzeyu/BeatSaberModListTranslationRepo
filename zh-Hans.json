@@ -6,7 +6,7 @@
 }, {
 	"name": "BeatSaverDownloader",
 	"description": "Enables you to download songs from BeatSaver in-game.",
-	"newname": "BeatSaver歌曲下载器|BeatSaverDownlo",
+	"newname": "歌曲下载器|BeatSaverDownloader",
 	"newdescription": "在游戏内使用BeatSaver下载歌曲，提供了More Song选项。"
 }, {
 	"name": "CameraPlus",
@@ -36,7 +36,7 @@
 }, {
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver.",
-	"newname": "BeatSaver投票|BeatSaverVoting",
+	"newname": "歌曲投票|BeatSaverVoting",
 	"newdescription": "可以在完成歌曲后投票顶/踩，提交到BeatSver。"
 }, {
 	"name": "ScoreSaberSharp",
@@ -61,7 +61,7 @@
 }, {
 	"name": "CustomCampaignLeaderboardLibrary",
 	"description": "A library required for custom campaign leaderboards.",
-	"newname": "自定义闯关排行榜库|CustomCampaignL",
+	"newname": "CustomCampaignLeaderboardLibrary",
 	"newdescription": "自定义闯关排行榜所需的支持库。"
 }, {
 	"name": "SongDataCore",
@@ -97,12 +97,12 @@
 	"name": "NoFailCheck",
 	"description": "Ever get tired of starting a song with No Fail on, and getting annoyed, let this mod annoy you instead to remind you!",
 	"newname": "NoFail检查|NoFailCheck",
-	"newdescription": "在打开NoFail后，将PLAY按钮将显示为NoFail以防忘记关闭。"
+	"newdescription": "打开NoFail会显示到PLAY按钮中，需要双击才能开始，以防忘记关闭NoFail。"
 }, {
 	"name": "YUR Fit Calorie Tracker",
 	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam and SideQuest!",
-	"newname": "YUR卡路里追踪器|YUR Fit Calorie Track",
-	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam/SideQuest上搜索我们。"
+	"newname": "卡路里追踪器|YUR Fit Calorie Tracker",
+	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam/SideQuest上搜索我们。（需登录账号）"
 }, {
 	"name": "TransparentWall",
 	"description": "Enable transparent walls for your own view in VR! (No... It does not affect CameraPlus)",
@@ -546,7 +546,7 @@
 }, {
 	"name": "BailOutMode",
 	"description": "Allows you to continue playing songs without posting a score if you fail, but allows you to post scores if you don't.",
-	"newname": "BailOutMode",
+	"newname": "失败不死|BailOutMode",
 	"newdescription": "平时正常传分，失败时自动重置血条，不会中断歌曲，也不会上传分数。"
 }, {
 	"name": "PlaylistLoaderLite",
@@ -561,7 +561,7 @@
 }, {
 	"name": "CustomJSONData",
 	"description": "Lets mappers include arbitrary data in beatmaps, and lets modders access that data. Why did I make this? Good question.",
-	"newname": "自定义JSON数据|CustomJSONData",
+	"newname": "CustomJSONData",
 	"newdescription": "让作者可以在铺面中添加任意数据，并且让开发者可以访问这些数据。"
 }, {
 	"name": "RumbleMod",
@@ -576,7 +576,7 @@
 }, {
 	"name": "Chroma",
 	"description": "Welcome to Chroma 2.0, featuring a complete code rework that prioritizes performance to bring you amazing features like the RGB lights that you all know and love.",
-	"newname": "炫彩灯光|Chroma",
+	"newname": "炫彩效果|Chroma",
 	"newdescription": "经过重构的全新Chroma 2.0，给游戏带来了惊艳的效果支持，例如彩色背景灯、RGB墙、变色Note。"
 }, {
 	"name": "Noodle Extensions",
@@ -616,12 +616,12 @@
 }, {
 	"name": "AutoPauseStealth",
 	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
-	"newname": "AutoPauseStealth",
+	"newname": "暂停防卡|AutoPauseStealth",
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
 	"description": "Tracks your song plays, recommendations and various other stats to your profile on https://www.beatfollower.com. Twitch Extension available to display under your streams.",
-	"newname": "BeatFollower",
+	"newname": "游戏记录|BeatFollower",
 	"newdescription": "将你的游戏记录与推荐上传到 https://www.beatfollower.com 的个人资料中。Twitch扩展可将资料显示在您的频道中。"
 }, {
 	"name": "FastFail",
@@ -656,12 +656,12 @@
 }, {
 	"name": "ChatCore",
 	"description": "ChatCore is a .NET Standard library that allows for developers to implement rich chat experiences across several chat services with ease.",
-	"newname": "聊天核心|ChatCore",
+	"newname": "ChatCore",
 	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。"
 }, {
 	"name": "DynamicOpenVR",
 	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime.",
-	"newname": "动态OpenVR|DynamicOpenVR",
+	"newname": "DynamicOpenVR",
 	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本。【此Mod曾给游戏、手柄带来许多隐性问题，新版可能已解决，建议谨慎使用】"
 }, {
 	"name": "DiscordIntegration ",
