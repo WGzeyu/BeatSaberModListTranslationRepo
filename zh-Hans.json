@@ -1,7 +1,7 @@
 [{
 	"name": "BSIPA",
 	"description": "A mod loader for Beat Saber. Provides a number of useful tools and utilities.",
-	"newname": "BSIPA",
+	"newname": "Mod注入器|BSIPA",
 	"newdescription": "用于注入Mod的工具。【注意：若报错未处理的异常…已取消一个任务，推荐查看简介里的中文教程，可在选项中切换下载源解决】"
 }, {
 	"name": "BeatSaverDownloader",
@@ -26,7 +26,7 @@
 }, {
 	"name": "SongCore",
 	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the new format.",
-	"newname": "SongCore",
+	"newname": "歌曲核心|SongCore",
 	"newdescription": "用于处理自定义歌曲并转换格式的插件。"
 }, {
 	"name": "BeatSaberMarkupLanguage",
@@ -201,7 +201,7 @@
 }, {
 	"name": "ScoreSaber",
 	"description": "Allows you to upload scores to an online leaderboard, earn PP from ranked maps, and compare scores with others.",
-	"newname": "ScoreSaber 排行榜",
+	"newname": "排行榜|ScoreSaber",
 	"newdescription": "支持自定义歌曲的排行榜插件！装了它打Rank曲，可以加pp分，统计你的全球/全国排名！"
 }, {
 	"name": "CustomMenuText",
