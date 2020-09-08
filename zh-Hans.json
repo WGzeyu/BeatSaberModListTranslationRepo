@@ -37,7 +37,7 @@
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver.",
 	"newname": "歌曲投票|BeatSaverVoting",
-	"newdescription": "可以在完成歌曲后投票顶/踩，提交到BeatSver。"
+	"newdescription": "可以在完成歌曲后投票顶/踩，提交到BeatSaver。"
 }, {
 	"name": "ScoreSaberSharp",
 	"description": "Official C# Library to interact with the ScoreSaber API",
