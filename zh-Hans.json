@@ -72,7 +72,7 @@
 	"name": "MappingExtensions",
 	"description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
 	"newname": "映射扩展|MappingExtensions",
-	"newdescription": "为游戏添加诸如多轨等铺面功能支持。需要安装此Mod才能玩这些铺面。查看Mod信息以获取详情。"
+	"newdescription": "为游戏添加诸如多轨等功能支持，使其可以游玩多轨类特殊铺面。查看Mod信息以获取详情。"
 }, {
 	"name": "Ini Parser",
 	"description": "A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#. Not made by myself, refer to github link for author.",
@@ -577,12 +577,12 @@
 	"name": "Chroma",
 	"description": "Welcome to Chroma 2.0, featuring a complete code rework that prioritizes performance to bring you amazing features like the RGB lights that you all know and love.",
 	"newname": "炫彩效果|Chroma",
-	"newdescription": "经过重构的全新Chroma 2.0，给游戏带来了惊艳的效果支持，例如彩色背景灯、RGB墙、变色Note。"
+	"newdescription": "经过重构的全新Chroma 2.0，给游戏带来了惊艳的颜色效果支持，例如彩色背景灯、RGB墙、变色Note。"
 }, {
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
 	"newname": "面条扩展|Noodle Extensions",
-	"newdescription": "类似映射扩展，它能让作者精确控制铺面元素的各个方面。此Mod不能代替映射扩展。"
+	"newdescription": "类似映射扩展，它能让作者精确控制铺面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "TrickSaber",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
