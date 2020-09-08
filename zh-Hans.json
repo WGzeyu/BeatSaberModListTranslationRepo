@@ -490,7 +490,7 @@
 	"newdescription": "添加一个计数器，记录游戏中歌曲中剩余的音符，可以在选择歌曲时在“游戏性”修改器面板中进行切换"
 }, {
 	"name": "MusicEscape",
-	"description": "Music Escape lets you escape your music with \"escape\"",
+	"description": "Tool for modders to allow Pausing/Restarting/Quitting a song with keyboard controls. 'Esc' to exit song, 'Left Shift + Esc' to restart, 'F2' to pause.",
 	"newname": "音乐控制|MusicEscape",
 	"newdescription": "可以通过键盘控制暂停、重新开始、停止歌曲的Mod工具。'Esc'键退出歌曲，'左Shift+ESC'重新开始，'F2'暂停。"
 }, {
