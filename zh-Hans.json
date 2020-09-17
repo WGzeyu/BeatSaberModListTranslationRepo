@@ -552,7 +552,7 @@
 	"name": "PlaylistLoaderLite",
 	"description": "This plugin uses the official Playlist UI and loads custom playlist files in Beat Saber.",
 	"newname": "歌单文件加载器|PlaylistLoaderLite",
-	"newdescription": "使用官方歌单加载器来加载自定义歌单文件playlist（非曲包）的插件。"
+	"newdescription": "加载自定义歌单文件playlist（非曲包）到官方歌单界面的插件。（此插件与WGzeyu的歌单编辑器无关）"
 }, {
 	"name": "Yeet Debris",
 	"description": "Returns the 'Reduce Debris' option to it's previous behavior of no longer spawning debris at all when enabled.",
