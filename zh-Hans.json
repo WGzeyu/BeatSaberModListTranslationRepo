@@ -550,7 +550,7 @@
 	"newdescription": "平时正常传分，失败时自动重置血条，不会中断歌曲，也不会上传分数。"
 }, {
 	"name": "PlaylistLoaderLite",
-	"description": "This plugin uses the official Playlist loader to load custom playlist files in Beat Saber.",
+	"description": "This plugin uses the official Playlist UI and loads custom playlist files in Beat Saber.",
 	"newname": "歌单文件加载器|PlaylistLoaderLite",
 	"newdescription": "使用官方歌单加载器来加载自定义歌单文件playlist（非曲包）的插件。"
 }, {
