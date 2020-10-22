@@ -160,9 +160,9 @@
 	"newdescription": "讨厌在歌曲结束后刷新高分时出现的烟花？安装这个Mod将禁用烟花，仅此而已，没有设置选项。"
 }, {
 	"name": "SaberTailor",
-	"description": "Tweak things about your sabers, including grip position/angle, trail length and saber length/width. Created by Ruu. Additional contributions by Pespiri.",
+	"description": "Tweak things about your sabers, including grip position/angle, trail appearance and saber length/width. Created by Ruu. Additional contributions by Pespiri.",
 	"newname": "光剑调整|SaberTailor",
-	"newdescription": "用于调整光剑的位置、角度，调整长度或伸长。由Ruu创建，Pespiri做出额外贡献。"
+	"newdescription": "用于调整光剑的位置、角度，调整模型和光剑的长度/宽度。由Ruu创建，Pespiri做出额外贡献。"
 }, {
 	"name": "NoteSpawnEffectRemover",
 	"description": "Removes the note spawn effect (the bright light cone) of notes and bombs.",
@@ -200,7 +200,7 @@
 	"newdescription": "将Beat Saber主菜单的底部面板（歌曲包）进一步向下移动（或任意放置），以减少误触。"
 }, {
 	"name": "ScoreSaber",
-	"description": "Allows you to upload scores to an online leaderboard, earn PP from ranked maps, and compare scores with others.",
+	"description": "Allows you to upload scores to an online leaderboard at https://scoresaber.com. Earn PP from ranked maps, and compare scores with others.",
 	"newname": "排行榜|ScoreSaber",
 	"newdescription": "支持自定义歌曲以及回放的排行榜插件！装了它打Rank曲，可以加pp分，统计你的全球/全国排名！"
 }, {
@@ -255,9 +255,9 @@
 	"newdescription": "自定义平台和环境的插件。"
 }, {
 	"name": "Particle Overdrive",
-	"description": "Enable/disable camera noise, and global particle haze, configure slash particle and explosion particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
+	"description": "Enable/disable camera noise, and global particle haze, configure note slash/explosion and saber clash particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
 	"newname": "粒子超速|Particle Overdrive",
-	"newdescription": "设置相机噪点、全局粒子雾特效，配置随机粒子和爆炸粒子数量。 由lolPant创建，并由Steven🎀和Zingabop贡献。"
+	"newdescription": "设置相机噪点、全局粒子雾特效，配置音符随机粒子和爆炸粒子数量。 由lolPant创建，并由Steven🎀和Zingabop贡献。"
 }, {
 	"name": "AutoPause",
 	"description": "Will pause your game if it detects a tracking error or an fps drop.",
@@ -620,7 +620,7 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Tracks your song plays, recommendations and various other stats to your profile on https://www.beatfollower.com. Twitch Extension available to display under your streams.",
+	"description": "Share song recommendations with your friends or your stream via your profile on https://www.beatfollower.com. Twitch Extension available to display under your streams.",
 	"newname": "游戏记录|BeatFollower",
 	"newdescription": "将你的游戏记录与推荐上传到 https://www.beatfollower.com 的个人资料中。Twitch扩展可将资料显示在您的频道中。"
 }, {
@@ -683,4 +683,9 @@
 	"description": "Rainbow? To hell with rainbows! Technicolor is where it's at! Sounds fancier! Because it is. Technicolor is basically a customizable powerful version of rainbow mod.",
 	"newname": "彩色|Technicolor",
 	"newdescription": "彩虹？见鬼去吧！彩色才是最好用的！它确实很花里胡哨，彩色|Technicolor基本上是个更强大的，可自定义的彩虹灯效Mod。"
+}, {
+	"name": "BetterMenu",
+	"description": "Reorganizes the main menu into a grid layout",
+	"newname": "菜单增强|BetterMenu",
+	"newdescription": "将主菜单界面改为网格布局"
 }]
