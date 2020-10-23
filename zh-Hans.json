@@ -687,7 +687,7 @@
 	"name": "BetterMenu",
 	"description": "Reorganizes the main menu into a grid layout",
 	"newname": "菜单增强|BetterMenu",
-	"newdescription": "将主菜单界面改为网格布局"
+	"newdescription": "调整主菜单界面排布，将其排列整齐。强迫症必备。"
 }, {
 	"name": "SpeedyPractice",
 	"description": "Fixes the practice speed slider to go up in steps of 5% again and lets you increase the maximum speed.",
