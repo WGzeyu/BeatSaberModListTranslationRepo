@@ -565,7 +565,7 @@
 	"newdescription": "让作者可以在铺面中添加任意数据，并且让开发者可以访问这些数据。"
 }, {
 	"name": "RumbleMod",
-	"description": "A Beat Saber mod to modify the rumble parameters on hitting notes or touch sabers/walls/ui.",
+	"description": "Modify the rumble parameters on hitting a note, saber, wall and ui.",
 	"newname": "震动调整|RumbleMod",
 	"newdescription": "用于修改击打Note、光剑/墙壁碰撞及游戏界面的震动参数。"
 }, {
@@ -688,4 +688,14 @@
 	"description": "Reorganizes the main menu into a grid layout",
 	"newname": "菜单增强|BetterMenu",
 	"newdescription": "将主菜单界面改为网格布局"
+}, {
+	"name": "SpeedyPractice",
+	"description": "Fixes the practice speed slider to go up in steps of 5% again and lets you increase the maximum speed.",
+	"newname": "练习速度|SpeedyPractice",
+	"newdescription": "修复练习模式速度滑动条步进为5%，并提高最大速度。"
+}, {
+	"name": "Maximize SFX",
+	"description": "A plugin for turn cut note and miss SFX Volume to maximize in Beat Saber. No config UI.",
+	"newname": "增大音效|Maximize SFX",
+	"newdescription": "用于将切方块等音效音量调至最大的Mod，没有设置界面。"
 }]
