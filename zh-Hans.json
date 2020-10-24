@@ -32,7 +32,7 @@
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
 	"newname": "BeatSaberMarkupLanguage",
-	"newdescription": "基于XML的Mod界面系统。"
+	"newdescription": "基于XML的Mod界面系统，还提供了切换语言功能"
 }, {
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver.",
