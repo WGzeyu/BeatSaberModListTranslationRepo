@@ -300,9 +300,9 @@
 	"newdescription": "TOML的.NET库"
 }, {
 	"name": "Music Spatializer",
-	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the triangle.",
+	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the notes origin.",
 	"newname": "空间音效|Music Spatializer",
-	"newdescription": "戴耳机时增加3D音频。在360°歌曲中，音乐方位跟随方块出口跳转而移动。"
+	"newdescription": "戴耳机时增加3D音效。在360°歌曲中，音乐方位跟随方块出口跳转而移动。"
 }, {
 	"name": "Particular",
 	"description": "Make Beat Saber prettier with P A R T I C L E S",
@@ -665,9 +665,9 @@
 	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。"
 }, {
 	"name": "DynamicOpenVR",
-	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime.",
+	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime. Does nothing on its own.",
 	"newname": "DynamicOpenVR",
-	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本。【此Mod曾给游戏、手柄带来许多隐性问题，新版可能已解决，建议谨慎使用】"
+	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本，单独使用时不会有任何效果。"
 }, {
 	"name": "DiscordIntegration ",
 	"description": "Allows Beat Saber to display current beatmap information on your Discord profile. Comes with multiple customization options and support for many languages.",
