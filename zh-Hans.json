@@ -140,7 +140,7 @@
 	"newdescription": "直播核心是基于IPA的Mod，让开发人员可以轻松创建交互式聊天体验。"
 }, {
 	"name": "Song Request Manager",
-	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. Now with deck support! Chatcore required.",
+	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is an Alpha release for the 1.12. Fixed issues with deck selection/highlighting. Multiplayer.",
 	"newname": "点歌管理器|Song Request Manager",
 	"newdescription": "点歌管理器是个集成可定制的点歌机器人和BeatSaber控制台。可根据歌曲时长、NJS过滤。"
 }, {
@@ -530,9 +530,9 @@
 	"newdescription": "提供达斯摩尔、长矛、反向、单色等更多游戏选项。支持混搭，开发新的游戏玩法！"
 }, {
 	"name": "SongPlayHistory",
-	"description": "Track all your scores.",
+	"description": "A score tracker with simple in-game UI.",
 	"newname": "打歌历史|SongPlayHistory",
-	"newdescription": "追踪你的分数。"
+	"newdescription": "可以追踪你的分数并显示在简易界面中的Mod。"
 }, {
 	"name": "HonkSaber",
 	"description": "honk",
