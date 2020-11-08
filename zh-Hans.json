@@ -32,7 +32,7 @@
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
 	"newname": "BeatSaberMarkupLanguage",
-	"newdescription": "基于XML的Mod界面系统，还提供了切换语言功能"
+	"newdescription": "基于XML的Mod界面系统。"
 }, {
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver.",
@@ -595,9 +595,9 @@
 	"newdescription": "可以实现扔剑（类似回旋镖）和旋转效果的Mod。"
 }, {
 	"name": "LevelTweaks",
-	"description": "Modify and save the NJS and Offset values for different levels.",
+	"description": "Set custom note offset and note jump speed for levels and save them into profiles.",
 	"newname": "关卡调整|LevelTweaks",
-	"newdescription": "针对不同的歌曲调整NJS（方块速度）和offset（出生点距离）。调整后将停止提交分数。"
+	"newdescription": "为关卡调整方块出生点距离与速度并保存至配置文件，可能会影响分数提交。"
 }, {
 	"name": "LagKiller",
 	"description": "A rewritten \"TheTrashMan\" that takes into account Unity-specific incremental GC mode. It manually triggers incremental GC with the specified budget, + tracks frame drop/lag statistics.",
@@ -703,4 +703,9 @@
 	"description": "A plugin for turn cut note and miss SFX Volume to maximize in Beat Saber. No config UI.",
 	"newname": "增大音效|Maximize SFX",
 	"newdescription": "用于将切方块等音效音量调至最大的Mod，没有设置界面。"
+}, {
+	"name": "SiraLocalizer",
+	"description": "Adds community translations to the game. Currently supports [French] and [Chinese].",
+	"newname": "语言切换|SiraLocalizer",
+	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【中文】与【法语】，安装后可在Settings -> Other找到。"
 }]
