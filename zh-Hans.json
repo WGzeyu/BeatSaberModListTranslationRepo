@@ -707,5 +707,5 @@
 	"name": "SiraLocalizer",
 	"description": "Adds community translations to the game. Currently supports [French] and [Chinese].",
 	"newname": "语言切换|SiraLocalizer",
-	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【中文】与【法语】，安装后可在Settings -> Other找到。"
+	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【中文】与【法语】，安装后可在SETTINGS → OTHERS找到。"
 }]
