@@ -650,9 +650,9 @@
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }, {
 	"name": "Saber Factory",
-	"description": "Create your own sabers in-game with lots of customization options (loads custom sabers (.saber) too)",
+	"description": "Load, create, and modify custom sabers in game with lots of customization options.",
 	"newname": "光剑工坊|Saber Factory",
-	"newdescription": "在游戏中制作你自己的光剑，有许多定制选项，也可以读取自定义光剑.saber文件。"
+	"newdescription": "在游戏中加载、创建和修改自定义光剑，有许多定制选项。"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
