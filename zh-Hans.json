@@ -250,9 +250,9 @@
 	"newdescription": "每次错过note时将随机显示信息。因为，人们喜欢这些。"
 }, {
 	"name": "Custom Platforms",
-	"description": "A plugin for using custom platforms and environments",
+	"description": "A plugin to support custom platforms and environments",
 	"newname": "自定义场景|Custom Platforms",
-	"newdescription": "自定义平台和环境的插件。"
+	"newdescription": "用于支持自定义平台和环境的插件。"
 }, {
 	"name": "Particle Overdrive",
 	"description": "Enable/disable camera noise, and global particle haze, configure note slash/explosion and saber clash particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
@@ -705,9 +705,9 @@
 	"newdescription": "用于将切方块等音效音量调至最大的Mod，没有设置界面。"
 }, {
 	"name": "SiraLocalizer",
-	"description": "Adds community translations to the game. Currently supports [French] and [Chinese].",
+	"description": "Adds community translations to the game. Currently supports [French] and [Simplified Chinese].",
 	"newname": "语言切换|SiraLocalizer",
-	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【中文】与【法语】，安装后可在SETTINGS → OTHERS找到。"
+	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【简体中文】与【法语】，安装后可在SETTINGS → OTHERS找到。"
 }, {
 	"name": "ServerBrowser",
 	"description": "Adds a Server Browser to the Online menu, making it easy to find and join custom games without having to leave the game or exchange server codes.",
@@ -717,7 +717,7 @@
 	"name": "NoMissText",
 	"description": "Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.",
 	"newname": "隐藏Miss提示|NoMissText",
-	"newdescription": "一个很小的Mod，可以在漏击音符时隐藏Miss提示文本，隐藏自己的真实水平。"
+	"newdescription": "一个很小的Mod，可以在漏击音符时隐藏Miss提示文本，从而隐藏自己的真实水平。"
 }, {
 	"name": "DiscordCore",
 	"description": "A utility/library for easily doing Discord management for mods and handling priority between rich presence systems.",
