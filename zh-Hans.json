@@ -56,8 +56,8 @@
 }, {
 	"name": "Custom Campaigns",
 	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
-	"newname": "【注意】自定义闯关|CustomCampaigns",
-	"newdescription": "【此Mod比平均大百倍，若下载时报错请在选项中切换下载源】为游戏增加了自定义闯关的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
+	"newname": "自定义闯关|Custom Campaigns",
+	"newdescription": "为游戏增加了自定义闯关的功能。包括庆祝Beat Saber Mod群组成立一周年的特别活动。"
 }, {
 	"name": "CustomCampaignLeaderboardLibrary",
 	"description": "A library required for custom campaign leaderboards.",
@@ -501,8 +501,8 @@
 }, {
 	"name": "Music Video Player",
 	"description": "Music Video Player is a mod that allows players to download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
-	"newname": "【注意】MV视频播放器|Music Video Pla",
-	"newdescription": "【此Mod比平均大百倍，若下载时报错请在选项中切换下载源】可以与音乐同步播放YouTube视频的Mod（例如MV视频或舞蹈视频）"
+	"newname": "MV视频播放器|Music Video Player",
+	"newdescription": "可以与音乐同步播放YouTube视频的Mod（例如MV视频或舞蹈视频）"
 }, {
 	"name": "CustomWalls",
 	"description": "A plugin for custom walls in Beat Saber",
@@ -728,4 +728,9 @@
 	"description": "This mod gives you a fully customizable Rich Presence in Discord so you can show off what you are playing.",
 	"newname": "BS游戏状态|BeatSaberPresence",
 	"newdescription": "该Mod为你提供了可完全自定义的Discord状态显示，让你可以展示你的游戏状态。"
+}, {
+	"name": "DiColors",
+	"description": "Allows you to change the colors various in the menu and game including the menu lights, arrow glow color, and menu sign!",
+	"newname": "双色|DiColors",
+	"newdescription": "可以更改游戏中的各种颜色的Mod，例如菜单灯光、箭头颜色，以及菜单标志。"
 }]
