@@ -695,9 +695,9 @@
 	"newdescription": "将主界面的按钮重新排列整齐，强迫症必备。"
 }, {
 	"name": "SpeedyPractice",
-	"description": "Fixes the practice speed slider to go up in steps of 5% again and lets you increase the maximum speed.",
+	"description": "Increases the maximum practice mode speed multiplier to 300% (configurable).",
 	"newname": "练习速度|SpeedyPractice",
-	"newdescription": "修复练习模式速度滑动条步进为5%，并提高最大速度。"
+	"newdescription": "将练习模式最高速度提升至300%。"
 }, {
 	"name": "Maximize SFX",
 	"description": "A plugin for turn cut note and miss SFX Volume to maximize in Beat Saber. No config UI.",
@@ -733,4 +733,14 @@
 	"description": "Allows you to change the colors various in the menu and game including the menu lights, arrow glow color, and menu sign!",
 	"newname": "双色|DiColors",
 	"newdescription": "可以更改游戏中的各种颜色的Mod，例如菜单灯光、箭头颜色，以及菜单标志。"
+}, {
+	"name": "DataPuller",
+	"description": "Sends out game data such as PP, BSR, health e.t.c. over a websocket to be displayed on an overlay such as BSDP-Overlay or to be used by further mods.",
+	"newname": "拉取数据|DataPuller",
+	"newdescription": "将游戏数据（例如PP，歌曲ID，生命值等等）通过WebSocket提供给如BSDP-Overlay或其他组件来让其显示在录像中。"
+}, {
+	"name": "websocket-sharp",
+	"description": "A C# implementation of the WebSocket protocol client and server",
+	"newname": "websocket-sharp",
+	"newdescription": "WebSocket协议客户端和服务器的C＃实现"
 }]
