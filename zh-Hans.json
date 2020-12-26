@@ -32,7 +32,7 @@
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
 	"newname": "BeatSaberMarkupLanguage",
-	"newdescription": "基于XML的Mod界面系统。【不含中文翻译，翻译已移至单独的Mod，若找不到该Mod可按简介中的教程手动下载安装，可能仍在审核中】"
+	"newdescription": "基于XML的Mod界面系统。【不含中文翻译，翻译已移至单独的Mod】"
 }, {
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver.",
