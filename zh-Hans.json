@@ -692,7 +692,7 @@
 	"name": "BetterMenu",
 	"description": "Rearranges the main menu buttons into a more familiar grid layout",
 	"newname": "菜单增强|BetterMenu",
-	"newdescription": "将主界面的按钮重新排列整齐，强迫症必备。"
+	"newdescription": "将主界面的按钮按网格重新排列整齐，强迫症必备。"
 }, {
 	"name": "SpeedyPractice",
 	"description": "Increases the maximum practice mode speed multiplier to 300% (configurable).",
@@ -743,4 +743,24 @@
 	"description": "A C# implementation of the WebSocket protocol client and server",
 	"newname": "websocket-sharp",
 	"newdescription": "WebSocket协议客户端和服务器的C＃实现"
+}, {
+	"name": "DebrisTweaks",
+	"description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+	"newname": "碎片调整|DebrisTweaks",
+	"newdescription": "可以完全自定义音符碎片的各种参数，包括尺寸、存活时长与速度。"
+}, {
+	"name": "BeatPresence",
+	"description": "Discord Rich Presence for Beat Saber, because all the other solutions suck. Displays your active song, gamemode, difficulty, modifiers, and map type.",
+	"newname": "节奏状态|BeatPresence",
+	"newdescription": "在Discord中显示Beat Saber游戏状态，其他解决方案都很辣鸡。显示你游玩中的歌曲、模式、难度、游戏选项及铺面类型。"
+}, {
+	"name": "StreamMarkers",
+	"description": "This is a mod that automatically adds a Stream Marker while streaming on Twich.\nThe marker of the played song will be displayed in the Video Producer of Twich, and you will be able to seek to the star",
+	"newname": "推流标记|StreamMarkers",
+	"newdescription": "这是可以自动为Twich推流添加标记的Mod。标记的歌曲将显示在Twitch的视频进度条中，让你能够轻松找到并收藏。"
+}, {
+	"name": "MultiplayerExtensions",
+	"description": "A Beat Saber mod that expands Beat Saber's multiplayer functionality. Credit belongs to Zingabopp, Goobwabber, Joris Coenen, Roy de Jong, pg98, LivKX and Temper on GitHub. UPLOADED FOR MODASSISTENT!",
+	"newname": "联机扩展|MultiplayerExtensions",
+	"newdescription": "为BeatSaber联机模式拓展自定义歌曲等功能的Mod。由Zingabopp、Goobwabber、Joris Coenen、Roy de Jong、pg98、LivKX和Temper创建。"
 }]
