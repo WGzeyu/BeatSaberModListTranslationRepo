@@ -763,4 +763,24 @@
 	"description": "A Beat Saber mod that expands Beat Saber's multiplayer functionality. Credit belongs to Zingabopp, Goobwabber, Joris Coenen, Roy de Jong, pg98, LivKX and Temper on GitHub. UPLOADED FOR MODASSISTENT!",
 	"newname": "联机扩展|MultiplayerExtensions",
 	"newdescription": "为BeatSaber联机模式拓展自定义歌曲等功能的Mod。由Zingabopp、Goobwabber、Joris Coenen、Roy de Jong、pg98、LivKX和Temper创建。"
+}, {
+	"name": "PerformanceMeter",
+	"description": "Displays a graph at the end of a level showing how your energy bar, score percentage, or cut score changed over the duration of the level.",
+	"newname": "得分统计|PerformanceMeter",
+	"newdescription": "在关卡结束后显示你的完成度，单方块分数等数据在游戏过程中的统计图。"
+}, {
+	"name": "MultiplayerNameChanger",
+	"description": "Simply change your name in Beat Saber Multiplayer.",
+	"newname": "联机模式名称修改|MultiplayerNameChan",
+	"newdescription": "可以很方便地修改你在联机模式中的名称的Mod。"
+}, {
+	"name": "No360HUD",
+	"description": "Disables 360 HUD for maps that have no valid rotation events.",
+	"newname": "360°HUD修复|No360HUD",
+	"newdescription": "对于没有有效旋转事件的铺面禁用360°模式HUD界面。"
+}, {
+	"name": "BeatTogether",
+	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest with custom song support.",
+	"newname": "跨平台联机|BeatTogether",
+	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机与自定义歌曲（PC需额外安装联机扩展Mod才能支持自定义歌曲）。"
 }]
