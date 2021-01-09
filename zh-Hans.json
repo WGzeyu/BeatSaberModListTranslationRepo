@@ -10,7 +10,7 @@
 	"newdescription": "在游戏内使用BeatSaver下载歌曲，提供了More Song选项。"
 }, {
 	"name": "CameraPlus",
-	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement, which makes for a much more pleasant overall spectator experience.\nSee More Info below for details.",
+	"description": "CameraPlus is a Beat Saber mod that allows for multiple wide FOV cameras with smoothed movement, which makes for a much more pleasant overall spectator experience. See More Info below for details.",
 	"newname": "相机增强|CameraPlus",
 	"newdescription": "第三人称、扩大视角、顺滑运动、偏移角度、碎片调整……大佬的视频看着舒服就是因为用了这个插件。"
 }, {
@@ -695,9 +695,9 @@
 	"newdescription": "将主界面的按钮按网格重新排列整齐，强迫症必备。"
 }, {
 	"name": "SpeedyPractice",
-	"description": "Increases the maximum practice mode speed multiplier to 300% (configurable).",
+	"description": "Lets you configure the minimum and maximum practice mode speed multiplier. By default the maximum is increased to 300%.",
 	"newname": "练习速度|SpeedyPractice",
-	"newdescription": "将练习模式最高速度提升至300%。"
+	"newdescription": "让你可以修改练习模式下最低和最高速度的可调整范围，默认设置为将最高速度增加至300%。"
 }, {
 	"name": "Maximize SFX",
 	"description": "A plugin for turn cut note and miss SFX Volume to maximize in Beat Saber. No config UI.",
@@ -705,7 +705,7 @@
 	"newdescription": "用于将切方块等音效音量调至最大的Mod，没有设置界面。"
 }, {
 	"name": "SiraLocalizer",
-	"description": "Adds community translations to the game. Currently supports [French] and [Simplified Chinese].",
+	"description": "Adds community translations to the game. Currently supports French and Simplified Chinese.",
 	"newname": "语言切换|SiraLocalizer",
 	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【简体中文】与【法语】，安装后可在SETTINGS → OTHERS找到。"
 }, {
