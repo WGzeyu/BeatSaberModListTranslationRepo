@@ -772,7 +772,7 @@
 	"name": "MultiplayerNameChanger",
 	"description": "Simply change your name in Beat Saber Multiplayer.",
 	"newname": "联机模式名称修改|MultiplayerNameChan",
-	"newdescription": "可以很方便地修改你在联机模式中的名称的Mod。"
+	"newdescription": "可以很简单地修改你在联机模式中的名称的Mod。"
 }, {
 	"name": "No360HUD",
 	"description": "Disables 360 HUD for maps that have no valid rotation events.",
@@ -783,4 +783,14 @@
 	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest with custom song support.",
 	"newname": "跨平台联机|BeatTogether",
 	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机与自定义歌曲（PC需额外安装联机扩展Mod才能支持自定义歌曲）。"
+}, {
+	"name": "Cinema",
+	"description": "Add music videos to your maps with awesome graphical effects",
+	"newname": "影院|Cinema",
+	"newdescription": "效果出色的MV视频播放器，将视频添加到铺面中。"
+}, {
+	"name": "NoHealthAndSafety",
+	"description": "A plugin to skip the health and safety warning at the beginning of the game. It works by automatically pressing the \"Continue\" button after a short delay.",
+	"newname": "跳过健康与安全声明|NoHealthAndSafety",
+	"newdescription": "可在启动游戏时自动跳过健康与安全警告的插件。"
 }]
