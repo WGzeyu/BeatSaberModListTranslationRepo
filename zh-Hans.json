@@ -215,7 +215,7 @@
 	"newdescription": "此Mod可以从当前的光剑列表中随机选择光剑，以及设置要启用/禁用特定的光剑。"
 }, {
 	"name": "Custom Avatars",
-	"description": "Enables the use of custom player models for body presence.",
+	"description": "Allows the use of custom player models for body presence.",
 	"newname": "自定义人物|Custom Avatars",
 	"newdescription": "在BeatSaber中使用自定义人物模型的插件。"
 }, {
@@ -665,9 +665,9 @@
 	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。"
 }, {
 	"name": "DynamicOpenVR",
-	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime. Does nothing on its own.",
+	"description": "Collection of Unity scripts that allow dynamic creation of OpenVR actions at runtime. Does nothing on its own.",
 	"newname": "DynamicOpenVR",
-	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本，单独使用时不会有任何效果。"
+	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本合集，单独使用时不会有任何效果。"
 }, {
 	"name": "DiscordIntegration ",
 	"description": "Allows Beat Saber to display current beatmap information on your Discord profile. Comes with multiple customization options and support for many languages.",
