@@ -70,9 +70,9 @@
 	"newdescription": "下载并缓存ScoreSaber和BeatSaver的歌曲数据，通过歌曲Hash提供信息给其他插件。"
 }, {
 	"name": "MappingExtensions",
-	"description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
+	"description": "This adds some additional things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
 	"newname": "映射扩展|MappingExtensions",
-	"newdescription": "为游戏添加诸如多轨等功能支持，使其可以游玩多轨类特殊铺面。查看Mod信息以获取详情。"
+	"newdescription": "为游戏添加诸如多轨等功能支持，使其可以游玩这类特殊铺面。查看Mod信息以获取详情。"
 }, {
 	"name": "Ini Parser",
 	"description": "A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#. Not made by myself, refer to github link for author.",
@@ -710,9 +710,9 @@
 	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【简体中文】与【法语】，安装后可在SETTINGS → OTHERS找到。"
 }, {
 	"name": "ServerBrowser",
-	"description": "Adds a Server Browser to the Online menu, making it easy to find and join custom games without having to leave the game or exchange server codes.",
+	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
 	"newname": "房间列表|ServerBrowser",
-	"newdescription": "为联机模式添加房间列表，可以更方便地找到联机房间。"
+	"newdescription": "为联机模式添加房间列表，可以更方便地分享或寻找联机房间。"
 }, {
 	"name": "NoMissText",
 	"description": "Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.",
@@ -735,9 +735,9 @@
 	"newdescription": "可以更改游戏中的各种颜色的Mod，例如菜单灯光、箭头颜色，以及菜单标志。"
 }, {
 	"name": "DataPuller",
-	"description": "Sends out game data such as PP, BSR, health e.t.c. over a websocket to be displayed on an overlay such as BSDP-Overlay or to be used by further mods.",
+	"description": "Gathers data about the current map you are playing to then be sent out over a websocket for other software to use, e.g. A web overlay like BSDP-Overlay. This mod works with multi PC setups!",
 	"newname": "拉取数据|DataPuller",
-	"newdescription": "将游戏数据（例如PP，歌曲ID，生命值等等）通过WebSocket提供给如BSDP-Overlay或其他组件来让其显示在录像中。"
+	"newdescription": "将游戏数据（例如PP，歌曲ID，生命值等等）通过WebSocket提供给如BSDP-Overlay或其他组件来让其显示在直播或录像画面中。"
 }, {
 	"name": "websocket-sharp",
 	"description": "A C# implementation of the WebSocket protocol client and server",
@@ -760,9 +760,9 @@
 	"newdescription": "这是可以自动为Twich推流添加标记的Mod。标记的歌曲将显示在Twitch的视频进度条中，让你能够轻松找到并收藏。"
 }, {
 	"name": "MultiplayerExtensions",
-	"description": "A Beat Saber mod that expands Beat Saber's multiplayer functionality. Credit belongs to Zingabopp, Goobwabber, Joris Coenen, Roy de Jong, pg98, LivKX and Temper on GitHub. UPLOADED FOR MODASSISTENT!",
+	"description": "Expands the functionality of Beat Saber Multiplayer. Adds custom song support and a variety of other features.",
 	"newname": "联机扩展|MultiplayerExtensions",
-	"newdescription": "为BeatSaber联机模式拓展自定义歌曲等功能的Mod。由Zingabopp、Goobwabber、Joris Coenen、Roy de Jong、pg98、LivKX和Temper创建。"
+	"newdescription": "扩展游戏的联机模式，提供了诸如自定义歌曲、10人联机等功能。"
 }, {
 	"name": "PerformanceMeter",
 	"description": "Displays a graph at the end of a level showing how your energy bar, score percentage, or cut score changed over the duration of the level.",
@@ -793,4 +793,39 @@
 	"description": "A plugin to skip the health and safety warning at the beginning of the game. It works by automatically pressing the \"Continue\" button after a short delay.",
 	"newname": "跳过健康与安全声明|NoHealthAndSafety",
 	"newdescription": "可在启动游戏时自动跳过健康与安全警告的插件。"
+}, {
+	"name": "BeatSaberPlaylistsLib",
+	"description": "A library to centralize management of playlists. Does nothing on its own.",
+	"newname": "BeatSaberPlaylistsLib",
+	"newdescription": "用于集中管理歌曲列表的支持库，本身没有什么功能。"
+}, {
+	"name": "CustomKeyEvent",
+	"description": "For Custom Events To Trigger Avatar Animations https://github.com/PureDark/BSCustomKeyEvents",
+	"newname": "自定义按键事件|CustomKeyEvent",
+	"newdescription": "自定义按键对应人物模型的动画触发事件"
+}, {
+	"name": "Custom Key Events",
+	"description": "For Custom Events To Trigger Avatar Animations https://github.com/PureDark/BSCustomKeyEvents",
+	"newname": "自定义按键事件|Custom Key Events",
+	"newdescription": "自定义按键对应人物模型的动画触发事件"
+}, {
+	"name": "LastFmScrobbler",
+	"description": "This plugin allows you to submit tracks you play in game to last.fm",
+	"newname": "LastFm记录|LastFmScrobbler",
+	"newdescription": "该插件可以将你游玩过的歌曲提交到last.fm"
+}, {
+	"name": "InstaFailAccuracy",
+	"description": "Makes you fail if you're under a specific accuracy!",
+	"newname": "准度失败|InstaFailAccuracy",
+	"newdescription": "让你在准度不高时立即失败！"
+}, {
+	"name": "DiTails",
+	"description": "View extra details about a map like the rating, description, upload date, and more!",
+	"newname": "尾巴|DiTails",
+	"newdescription": "查看有关铺面的其他详细信息，例如评分，介绍，上传时间等各种信息！"
+}, {
+	"name": "DiSounds",
+	"description": "Customize your sounds! Change the menu music, add intro and outro sounds, custom songs for failing a level or getting a high score, and custom click sounds!",
+	"newname": "声音|DiSounds",
+	"newdescription": "自定义你的声音！更改菜单音乐，添加前奏或尾奏音乐，自定义关卡失败或刷新记录时的音效以及点击音效！"
 }]
