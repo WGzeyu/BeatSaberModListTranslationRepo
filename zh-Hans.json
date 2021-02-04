@@ -25,9 +25,9 @@
 	"newdescription": "用于给Mod提供基础功能的支持库。"
 }, {
 	"name": "SongCore",
-	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the current format.",
+	"description": "A plugin for handling custom songs in Beat Saber.",
 	"newname": "歌曲核心|SongCore",
-	"newdescription": "用于处理自定义歌曲并转换格式的插件。"
+	"newdescription": "用于处理自定义歌曲的插件。"
 }, {
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
@@ -105,9 +105,9 @@
 	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam/SideQuest上搜索我们。（需登录账号）"
 }, {
 	"name": "TransparentWall",
-	"description": "Enable transparent walls for your own view in VR! (No... It does not affect CameraPlus)",
+	"description": "Enable transparent walls in VR, or disable them in LIV! (No... It does not affect CameraPlus)",
 	"newname": "透明墙壁|TransparentWall",
-	"newdescription": "为你自己的VR视角启用透明墙壁（不会影响到相机增强）"
+	"newdescription": "为VR视角启用，或为LIV视角禁用透明墙壁！（不会影响到相机增强）"
 }, {
 	"name": "PerfectionDisplay",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
@@ -780,9 +780,9 @@
 	"newdescription": "对于没有有效旋转事件的铺面禁用360°模式HUD界面。"
 }, {
 	"name": "BeatTogether",
-	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest with custom song support.",
+	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
 	"newname": "跨平台联机|BeatTogether",
-	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机与自定义歌曲（PC需额外安装联机扩展Mod才能支持自定义歌曲）。"
+	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机。"
 }, {
 	"name": "Cinema",
 	"description": "Add music videos to your maps with awesome graphical effects",
@@ -795,9 +795,9 @@
 	"newdescription": "可在启动游戏时自动跳过健康与安全警告的插件。"
 }, {
 	"name": "BeatSaberPlaylistsLib",
-	"description": "A library to centralize management of playlists. Does nothing on its own.",
+	"description": "A library to centralize management of playlists.",
 	"newname": "BeatSaberPlaylistsLib",
-	"newdescription": "用于集中管理歌曲列表的支持库，本身没有什么功能。"
+	"newdescription": "用于集中管理歌曲列表的支持库。"
 }, {
 	"name": "CustomKeyEvent",
 	"description": "For Custom Events To Trigger Avatar Animations https://github.com/PureDark/BSCustomKeyEvents",
