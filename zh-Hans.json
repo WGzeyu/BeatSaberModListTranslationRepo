@@ -35,9 +35,9 @@
 	"newdescription": "基于XML的Mod界面系统。【不含中文翻译，翻译已移至单独的Mod】"
 }, {
 	"name": "BeatSaverVoting",
-	"description": "A plugin for up/downvoting songs on BeatSaver.",
+	"description": "A plugin for up/downvoting songs on BeatSaver by Kyle 1413",
 	"newname": "歌曲投票|BeatSaverVoting",
-	"newdescription": "可以在完成歌曲后投票顶/踩，提交到BeatSaver。"
+	"newdescription": "可以在完成歌曲后投票顶/踩，提交到BeatSaver。作者Kyle1413"
 }, {
 	"name": "ScoreSaberSharp",
 	"description": "Official C# Library to interact with the ScoreSaber API",
