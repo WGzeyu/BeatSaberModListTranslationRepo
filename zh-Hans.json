@@ -72,7 +72,7 @@
 	"name": "MappingExtensions",
 	"description": "This adds some additional things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
 	"newname": "映射扩展|MappingExtensions",
-	"newdescription": "为游戏添加诸如多轨等功能支持，使其可以游玩这类特殊铺面。查看Mod信息以获取详情。"
+	"newdescription": "为游戏添加诸如多轨等功能支持，使其可以游玩这类特殊谱面。查看Mod信息以获取详情。"
 }, {
 	"name": "Ini Parser",
 	"description": "A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#. Not made by myself, refer to github link for author.",
@@ -82,7 +82,7 @@
 	"name": "ChromaLite",
 	"description": "A slimmed down version of Chroma that only handles maps that utilize Chroma events, such as Chroma's famous RGB lighting events.",
 	"newname": "ChromaLite",
-	"newdescription": "用于让游戏支持将背景灯光颜色显示为任意颜色。（需铺面也支持才有效果）"
+	"newdescription": "用于让游戏支持将背景灯光颜色显示为任意颜色。（需谱面也支持才有效果）"
 }, {
 	"name": "JustRainbowLights",
 	"description": "The name says it all",
@@ -327,7 +327,7 @@
 	"name": "RandomSongPlayer",
 	"description": "Downloads a completely random map from BeatSaver and plays it immediately",
 	"newname": "随机歌曲|RandomSongPlayer",
-	"newdescription": "从BeatSaver随机下载铺面并立即开始游玩。"
+	"newdescription": "从BeatSaver随机下载谱面并立即开始游玩。"
 }, {
 	"name": "NoArrowsRandom",
 	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won't affect One Saber or mapped No Arrows modes.",
@@ -500,9 +500,9 @@
 	"newdescription": "隐藏方块基于适用于osu的流行高清模块，可以使任何音符/炸弹在播放器范围内消失。"
 }, {
 	"name": "Music Video Player",
-	"description": "Music Video Player is a mod that allows players to download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
+	"description": "Lets you download and have a video play in sync with the music during a beat saber level (i.e. the songs music video, a dance video of for the song)",
 	"newname": "MV视频播放器|Music Video Player",
-	"newdescription": "可以与音乐同步播放YouTube视频的Mod（例如MV视频或舞蹈视频）"
+	"newdescription": "可以从YouTube下载视频并与Beat Saber谱面同步播放的Mod。（例如MV视频或舞蹈视频）"
 }, {
 	"name": "CustomWalls",
 	"description": "A plugin for custom walls in Beat Saber",
@@ -567,7 +567,7 @@
 	"name": "CustomJSONData",
 	"description": "Lets mappers include arbitrary data in beatmaps, and lets modders access that data. Why did I make this? Good question.",
 	"newname": "CustomJSONData",
-	"newdescription": "让作者可以在铺面中添加任意数据，并且让开发者可以访问这些数据。"
+	"newdescription": "让作者可以在谱面中添加任意数据，并且让开发者可以访问这些数据。"
 }, {
 	"name": "RumbleMod",
 	"description": "Modify the rumble parameters on hitting a note, saber, wall and ui.",
@@ -587,7 +587,7 @@
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
 	"newname": "面条扩展|Noodle Extensions",
-	"newdescription": "类似映射扩展，它能让作者精确控制铺面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
+	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "TrickSaber",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
@@ -625,9 +625,9 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Share song recommendations with your friends or your stream via your profile on https://www.beatfollower.com. Twitch Extension available to display under your streams.",
+	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com",
 	"newname": "游戏记录|BeatFollower",
-	"newdescription": "将你的游戏记录与推荐上传到 https://www.beatfollower.com 的个人资料中。Twitch扩展可将资料显示在您的频道中。"
+	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展与个人资料可在 https://www.beatfollower.com 查看。"
 }, {
 	"name": "FastFail",
 	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
@@ -672,7 +672,7 @@
 	"name": "DiscordIntegration ",
 	"description": "Allows Beat Saber to display current beatmap information on your Discord profile. Comes with multiple customization options and support for many languages.",
 	"newname": "Discord集成|DiscordIntegration",
-	"newdescription": "让你当前游玩BeatSaber的歌曲状态可以显示在Discord的个人信息中，带有很多设置项并支持多种语言。"
+	"newdescription": "将你当前游玩BeatSaber的歌曲状态显示在Discord的个人信息中，带有很多设置项并支持多种语言。"
 }, {
 	"name": "DiscordGameSDK",
 	"description": "SDK for interfacing with Discord.",
@@ -705,9 +705,9 @@
 	"newdescription": "用于将切方块等音效音量调至最大的Mod，没有设置界面。"
 }, {
 	"name": "SiraLocalizer",
-	"description": "Adds community translations to the game. Currently supports French and Simplified Chinese.",
+	"description": "Adds community translations to the game. Currently supports Chinese (Simplified), French, German, Italian, Korean, Portuguese (Brazilian), and Russian.",
 	"newname": "语言切换|SiraLocalizer",
-	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，目前支持【简体中文】与【法语】，安装后可在SETTINGS → OTHERS找到。"
+	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，安装后可在SETTINGS → OTHERS找到，目前支持 中文（简体）、法语、德语、意大利语、韩语、葡萄牙语（巴西）和俄语。"
 }, {
 	"name": "ServerBrowser",
 	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
@@ -727,7 +727,7 @@
 	"name": "BeatSaberPresence",
 	"description": "This mod gives you a fully customizable Rich Presence in Discord so you can show off what you are playing.",
 	"newname": "BS游戏状态|BeatSaberPresence",
-	"newdescription": "该Mod为你提供了可完全自定义的Discord状态显示，让你可以展示你的游戏状态。"
+	"newdescription": "该Mod为你提供了可完全自定义的Discord状态显示，可以展示你的游戏状态。"
 }, {
 	"name": "DiColors",
 	"description": "Allows you to change the colors various in the menu and game including the menu lights, arrow glow color, and menu sign!",
@@ -752,7 +752,7 @@
 	"name": "BeatPresence",
 	"description": "Discord Rich Presence for Beat Saber, because all the other solutions suck. Displays your active song, gamemode, difficulty, modifiers, and map type.",
 	"newname": "节奏状态|BeatPresence",
-	"newdescription": "在Discord中显示Beat Saber游戏状态，其他解决方案都很辣鸡。显示你游玩中的歌曲、模式、难度、游戏选项及铺面类型。"
+	"newdescription": "在Discord中显示Beat Saber游戏状态，其他解决方案都很辣鸡。显示你游玩中的歌曲、模式、难度、游戏选项及谱面类型。"
 }, {
 	"name": "StreamMarkers",
 	"description": "This is a mod that automatically adds a Stream Marker while streaming on Twich.\nThe marker of the played song will be displayed in the Video Producer of Twich, and you will be able to seek to the star",
@@ -777,7 +777,7 @@
 	"name": "No360HUD",
 	"description": "Disables 360 HUD for maps that have no valid rotation events.",
 	"newname": "360°HUD修复|No360HUD",
-	"newdescription": "对于没有有效旋转事件的铺面禁用360°模式HUD界面。"
+	"newdescription": "对于没有有效旋转事件的谱面禁用360°模式HUD界面。"
 }, {
 	"name": "BeatTogether",
 	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
@@ -787,7 +787,7 @@
 	"name": "Cinema",
 	"description": "Add music videos to your maps with awesome graphical effects",
 	"newname": "影院|Cinema",
-	"newdescription": "效果出色的MV视频播放器，将视频添加到铺面中。"
+	"newdescription": "效果出色的MV视频播放器，将视频添加到谱面中。"
 }, {
 	"name": "NoHealthAndSafety",
 	"description": "A plugin to skip the health and safety warning at the beginning of the game. It works by automatically pressing the \"Continue\" button after a short delay.",
@@ -822,10 +822,25 @@
 	"name": "DiTails",
 	"description": "View extra details about a map like the rating, description, upload date, and more!",
 	"newname": "尾巴|DiTails",
-	"newdescription": "查看有关铺面的其他详细信息，例如评分，介绍，上传时间等各种信息！"
+	"newdescription": "查看有关谱面的其他详细信息，例如评分，介绍，上传时间等各种信息！"
 }, {
 	"name": "DiSounds",
 	"description": "Customize your sounds! Change the menu music, add intro and outro sounds, custom songs for failing a level or getting a high score, and custom click sounds!",
 	"newname": "声音|DiSounds",
 	"newdescription": "自定义你的声音！更改菜单音乐，添加前奏或尾奏音乐，自定义关卡失败或刷新记录时的音效以及点击音效！"
+}, {
+	"name": "BeatSaviorData",
+	"description": "BeatSaviorData is a Beat Saber plugin that collects and shows a lot of data about your plays, such as per-hand accuracy, speed, distance travelled, overswing percentages, ...",
+	"newname": "得分详情|BeatSaviorData",
+	"newdescription": "BeatSaviorData是一个可以收集并显示大量数据的插件，例如每只手的准度，速度，移动距离，挥击角度等等..."
+}, {
+	"name": "SpectroSaber",
+	"description": "SpectroSaber is a mod that adds visualizers onto your sabers!  The look of the visualizers can be customized through the mod's settings and is perfect for streams/recordings or just looking cool.",
+	"newname": "乐谱剑|SpectroSaber",
+	"newdescription": "SpectroSaber可以在你的光剑上显示音频可视化！可以在Mod设置中调整不同可视化样式，在直播/视频中看起来很酷。"
+}, {
+	"name": "MultiplayerColors",
+	"description": "Shows the color scheme of other players in multiplayer. For players that also have the mod installed you will see their selected color scheme, otherwise a random color scheme will be generated.",
+	"newname": "联机颜色|MultiplayerColors",
+	"newdescription": "显示联机模式中其他玩家的配色方案。对于同样安装了Mod的玩家，你可以看到他们选择的配色方案，否则将随机显示配色方案。"
 }]
