@@ -662,7 +662,7 @@
 	"name": "ChatCore",
 	"description": "ChatCore is a .NET Standard library that allows for developers to implement rich chat experiences across several chat services with ease.",
 	"newname": "ChatCore",
-	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。"
+	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。（安装后将在启动时弹出设置页面）"
 }, {
 	"name": "DynamicOpenVR",
 	"description": "Collection of Unity scripts that allow dynamic creation of OpenVR actions at runtime. Does nothing on its own.",
