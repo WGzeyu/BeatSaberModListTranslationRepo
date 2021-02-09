@@ -843,4 +843,9 @@
 	"description": "Shows the color scheme of other players in multiplayer. For players that also have the mod installed you will see their selected color scheme, otherwise a random color scheme will be generated.",
 	"newname": "联机颜色|MultiplayerColors",
 	"newdescription": "显示联机模式中其他玩家的配色方案。对于同样安装了Mod的玩家，你可以看到他们选择的配色方案，否则将随机显示配色方案。"
+}, {
+	"name": "SearchByMapperName",
+	"description": "Super simple mod that makes the base game map search function also search the level author (mapper) field",
+	"newname": "按谱师名称搜索|SearchByMapperName",
+	"newdescription": "很简单的一个Mod，让原版游戏的搜索功能可以搜索铺面作者。"
 }]
