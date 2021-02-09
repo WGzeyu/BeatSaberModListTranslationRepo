@@ -847,5 +847,5 @@
 	"name": "SearchByMapperName",
 	"description": "Super simple mod that makes the base game map search function also search the level author (mapper) field",
 	"newname": "按谱师名称搜索|SearchByMapperName",
-	"newdescription": "很简单的一个Mod，让原版游戏的搜索功能可以搜索铺面作者。"
+	"newdescription": "很简单的一个Mod，让原版游戏的搜索功能可以搜索谱面作者。"
 }]
