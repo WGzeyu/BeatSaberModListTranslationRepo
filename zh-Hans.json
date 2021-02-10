@@ -848,4 +848,9 @@
 	"description": "Super simple mod that makes the base game map search function also search the level author (mapper) field",
 	"newname": "按谱师名称搜索|SearchByMapperName",
 	"newdescription": "很简单的一个Mod，让原版游戏的搜索功能可以搜索谱面作者。"
+}, {
+	"name": "NoBoom",
+	"description": "A Simple mod that disables the particle effect when hitting a bomb. Can be toggled through the modifiers menu",
+	"newname": "不爆炸|NoBoom",
+	"newdescription": "很简单的一个Mod，禁用击中炸弹时的粒子效果。可以在修改项菜单中切换"
 }]
