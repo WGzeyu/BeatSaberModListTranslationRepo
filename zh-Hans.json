@@ -650,9 +650,9 @@
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }, {
 	"name": "Saber Factory",
-	"description": "Load, create, and modify custom sabers in game with lots of customization options.",
+	"description": "A customizable saber mod for Beat Saber",
 	"newname": "光剑工坊|Saber Factory",
-	"newdescription": "在游戏中加载、创建和修改自定义光剑，有许多定制选项。"
+	"newdescription": "可以自定义Beat Saber光剑的Mod。"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
@@ -835,7 +835,7 @@
 	"newdescription": "BeatSaviorData是一个可以收集并显示大量数据的插件，例如每只手的准度，速度，移动距离，挥击角度等等..."
 }, {
 	"name": "SpectroSaber",
-	"description": "SpectroSaber is a mod that adds visualizers onto your sabers!  The look of the visualizers can be customized through the mod's settings and is perfect for streams/recordings or just looking cool.",
+	"description": "SpectroSaber is a mod that adds visualizers onto your sabers! The look of the visualizers can be customized through the mod's settings and is perfect for streaming/recordings or just looking cool.",
 	"newname": "乐谱剑|SpectroSaber",
 	"newdescription": "SpectroSaber可以在你的光剑上显示音频可视化！可以在Mod设置中调整不同可视化样式，在直播/视频中看起来很酷。"
 }, {
