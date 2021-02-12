@@ -782,7 +782,7 @@
 	"name": "BeatTogether",
 	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
 	"newname": "跨平台联机|BeatTogether",
-	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机。"
+	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接】"
 }, {
 	"name": "Cinema",
 	"description": "Add music videos to your maps with awesome graphical effects",
