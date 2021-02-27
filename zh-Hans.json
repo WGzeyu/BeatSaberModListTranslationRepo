@@ -207,7 +207,7 @@
 	"name": "CustomMenuText",
 	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else? With this plugin, you can change the game's title in the main menu!",
 	"newname": "自定义标题文字|CustomMenuText",
-	"newdescription": "用于自定义主面板上方\"BEAT SABER\"显示文字的插件"
+	"newdescription": "看倦了BEAT SABER？安装这个插件，你可以更改游戏主菜单场景的标题！"
 }, {
 	"name": "Random Sabers",
 	"description": "This mod enables selection of a random saber from the current downloaded pool of sabers, as well as selecting specific sabers for which to enable/disable selection.\n",
@@ -853,4 +853,19 @@
 	"description": "A Simple mod that disables the particle effect when hitting a bomb. Can be toggled through the modifiers menu",
 	"newname": "不爆炸|NoBoom",
 	"newdescription": "很简单的一个Mod，禁用击中炸弹时的粒子效果。可以在修改项菜单中切换"
+}, {
+	"name": "360fyer",
+	"description": "Play any beatmap in 360 or 90 degree mode!",
+	"newname": "360转换|360fyer",
+	"newdescription": "以360°、90°模式游玩任何铺面！"
+}, {
+	"name": "CustomKeyEvents",
+	"description": "This plugin allows you to set event triggers to controller actions. You will need CustomKeyEvents.dll  in your plugins folder in order to see animation on your avatar and see them in game.",
+	"newname": "自定义按键事件|CustomKeyEvents",
+	"newdescription": "这个插件让你可以为按键绑定事件触发器，例如人物模型动画事件。"
+}, {
+	"name": "Cover Color Saber",
+	"description": "Takes the colors from the song cover and makes a usable color scheme.",
+	"newname": "封面颜色光剑|Cover Color Saber",
+	"newdescription": "通过歌曲封面颜色来制定配色方案。"
 }]
