@@ -200,7 +200,7 @@
 	"newdescription": "将Beat Saber主菜单的底部面板（歌曲包）进一步向下移动（或任意放置），以减少误触。"
 }, {
 	"name": "ScoreSaber",
-	"description": "Allows you to upload scores to an online leaderboard at https://scoresaber.com. Earn PP from ranked maps, and compare scores with others.",
+	"description": "Allows you to upload scores to an online leaderboard at https://scoresaber.com. Earn PP from ranked maps and compare scores with others.",
 	"newname": "排行榜|ScoreSaber",
 	"newdescription": "支持自定义歌曲以及回放的排行榜插件！装了它打Rank曲，可以加pp分，统计你的全球/全国排名！"
 }, {
