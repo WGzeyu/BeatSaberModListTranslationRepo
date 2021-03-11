@@ -140,7 +140,7 @@
 	"newdescription": "直播核心是基于IPA的Mod，让开发人员可以轻松创建交互式聊天体验。"
 }, {
 	"name": "Song Request Manager",
-	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is an Alpha release for the 1.13.2. Fixed issues with deck selection/highlighting.",
+	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is an Alpha release for the 1.13.4",
 	"newname": "点歌管理器|Song Request Manager",
 	"newdescription": "点歌管理器是个集成可定制的点歌机器人和BeatSaber控制台。可根据歌曲时长、NJS过滤。"
 }, {
