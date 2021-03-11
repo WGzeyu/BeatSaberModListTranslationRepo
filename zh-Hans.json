@@ -780,12 +780,12 @@
 	"newdescription": "对于没有有效旋转事件的谱面禁用360°模式HUD界面。"
 }, {
 	"name": "BeatTogether",
-	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest with custom song support.",
 	"newname": "跨平台联机|BeatTogether",
-	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接】"
+	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台自定义歌曲跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接】"
 }, {
 	"name": "Cinema",
-	"description": "Add music videos to your maps with awesome graphical effects",
+	"description": "Add music videos with awesome graphical effects to your maps",
 	"newname": "影院|Cinema",
 	"newdescription": "效果出色的MV视频播放器，将视频添加到谱面中。"
 }, {
@@ -868,4 +868,34 @@
 	"description": "Takes the colors from the song cover and makes a usable color scheme.",
 	"newname": "封面颜色光剑|Cover Color Saber",
 	"newdescription": "通过歌曲封面颜色来制定配色方案。"
+}, {
+	"name": "PlaylistManager",
+	"description": "Load, Create, Edit and Download Songs of Playlists in Beat Saber.",
+	"newname": "歌单管理器|PlaylistManager",
+	"newdescription": "读取，创建，修改或下载BeatSaber歌单列表(.bplist)。（虽与WGzeyu的编辑器无关，但扔建议安装，可解决显示数量限制）"
+}, {
+	"name": "Camera2",
+	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
+	"newname": "相机v2|Camera2",
+	"newdescription": "添加了很多的选项与功能，来为桌面画面创建更高级的观看体验，例如多相机，角度和位置调整等等。详细信息请参阅GitHub链接。"
+}, {
+	"name": "FFmpeg",
+	"description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.",
+	"newname": "FFmpeg",
+	"newdescription": "FFmpeg是领先的媒体框架，能够解码、编码、转码、混合、去混合、流媒体、过滤，以及播放几乎所有人类和机器创建的东西。"
+}, {
+	"name": "youtube-dl",
+	"description": "youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.",
+	"newname": "youtube-dl",
+	"newdescription": "youtube-dl是一个可以从YouTube.com等网站下载视频的命令行程序。"
+}, {
+	"name": "NoBuzz",
+	"description": "Removes the Beat Saber logo buzzing sound.",
+	"newname": "去Buzz|NoBuzz",
+	"newdescription": "移除Beat Saber图标的buzzing音效。"
+}, {
+	"name": "DiBris",
+	"description": "Customize your debris with a variety of settings!",
+	"newname": "碎片|DiBris",
+	"newdescription": "使用各种设置自定义你的碎片！"
 }]
