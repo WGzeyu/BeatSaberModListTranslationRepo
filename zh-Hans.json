@@ -877,7 +877,7 @@
 	"name": "Camera2",
 	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
 	"newname": "相机v2|Camera2",
-	"newdescription": "添加了很多的选项与功能，来为桌面画面创建更高级的观看体验，例如多相机，角度和位置调整等等。详细信息请参阅GitHub链接。"
+	"newdescription": "为游戏添加了诸如第三人称、多视角、角度、位置、平滑调整等各种选项、工具，来为桌面画面创造更高级的观看体验。详细信息请参阅GitHub链接。"
 }, {
 	"name": "FFmpeg",
 	"description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.",
