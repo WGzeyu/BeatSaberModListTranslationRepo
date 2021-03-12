@@ -787,7 +787,7 @@
 	"name": "Cinema",
 	"description": "Add music videos with awesome graphical effects to your maps",
 	"newname": "影院|Cinema",
-	"newdescription": "效果出色的MV视频播放器，将视频添加到谱面中。"
+	"newdescription": "效果出色的MV视频播放器，将YouTube视频添加到谱面中。"
 }, {
 	"name": "NoHealthAndSafety",
 	"description": "A plugin to skip the health and safety warning at the beginning of the game. It works by automatically pressing the \"Continue\" button after a short delay.",
