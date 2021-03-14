@@ -898,4 +898,9 @@
 	"description": "Customize your debris with a variety of settings!",
 	"newname": "碎片|DiBris",
 	"newdescription": "使用各种设置自定义你的碎片！"
+}, {
+	"name": "Extended Color Schemes",
+	"description": "Adds additional custom slots to color schemes.",
+	"newname": "扩展配色方案|Extended Color Schemes",
+	"newdescription": "扩展可添加的配色方案数量。"
 }]
