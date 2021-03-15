@@ -580,9 +580,9 @@
 	"newdescription": "取消平滑相机设置的限制，并启用自带的第三人称相机。"
 }, {
 	"name": "Chroma",
-	"description": "Welcome to Chroma 2.0, featuring a complete code rework that prioritizes performance to bring you amazing features like the RGB lights that you all know and love.",
+	"description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
 	"newname": "炫彩效果|Chroma",
-	"newdescription": "经过重构的全新Chroma 2.0，给游戏带来了惊艳的颜色效果支持，例如彩色背景灯、RGB墙、变色Note。"
+	"newdescription": "Chroma™拥有你能见到的最强大的自定义色彩效果，可让谱师将方块，灯光，光剑和墙壁更改为任意颜色！（需铺面支持才有效）"
 }, {
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
@@ -765,9 +765,9 @@
 	"newdescription": "扩展游戏的联机模式，提供了诸如自定义歌曲、10人联机等功能。"
 }, {
 	"name": "PerformanceMeter",
-	"description": "Displays a graph at the end of a level showing how your energy bar, score percentage, or cut score changed over the duration of the level.",
+	"description": "Shows a graph of your energy bar, percentage level, or cut value throughout a map on the end screen.",
 	"newname": "得分统计|PerformanceMeter",
-	"newdescription": "在关卡结束后显示你的完成度，单方块分数等数据在游戏过程中的统计图。"
+	"newdescription": "在成绩页面上显示能量条、完成度或切割分数的统计图。"
 }, {
 	"name": "MultiplayerNameChanger",
 	"description": "Simply change your name in Beat Saber Multiplayer.",
