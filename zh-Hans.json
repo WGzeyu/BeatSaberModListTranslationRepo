@@ -780,9 +780,9 @@
 	"newdescription": "对于没有有效旋转事件的谱面禁用360°模式HUD界面。"
 }, {
 	"name": "BeatTogether",
-	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest with custom song support.",
+	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest. Requires MultiplayerExtensions for custom song support.",
 	"newname": "跨平台联机|BeatTogether",
-	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台自定义歌曲跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接】"
+	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台自定义歌曲跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接，需先安装[联机扩展|MultiplayerExtensions]以支持自定义歌曲】"
 }, {
 	"name": "Cinema",
 	"description": "Add music videos with awesome graphical effects to your maps",
