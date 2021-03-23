@@ -589,6 +589,11 @@
 	"newname": "面条扩展|Noodle Extensions",
 	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
+	"name": "NoodleExtensions",
+	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
+	"newname": "面条扩展|NoodleExtensions",
+	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
+}, {
 	"name": "TrickSaber",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
 	"newname": "特技光剑|TrickSaber",
