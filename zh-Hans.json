@@ -922,5 +922,5 @@
 	"name": "CAS Sharpening ReShade for Beat Saber",
 	"description": "AMD's new Contrast Adaptive Sharpening tech makes Beat Saber look super sharp and clear even on older headsets. (also works on NVIDIA GPUs) This preset has been specifically tailored for Beat Saber",
 	"newname": "CAS清晰锐化|CAS Sharpening ReShade",
-	"newdescription": "AMD新推出的自适应对比度锐化技术（CAS）可以让BS在老设备上看起来超级清晰，新设备则更加清晰。同时兼容A卡与N卡，该预设专为Beat Saber定制。"
+	"newdescription": "【支持A卡与N卡】AMD新推出的自适应对比度锐化技术（CAS）可以让BS在老设备上看起来超级清晰，新设备则更加清晰。该预设专为Beat Saber定制。"
 }]
