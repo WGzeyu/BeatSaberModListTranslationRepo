@@ -711,8 +711,8 @@
 }, {
 	"name": "SiraLocalizer",
 	"description": "Adds community translations to the game. Currently supports Chinese (Simplified), French, German, Italian, Korean, Portuguese (Brazilian), and Russian.",
-	"newname": "语言切换|SiraLocalizer",
-	"newdescription": "将社区翻译添加进游戏中，为游戏提供语言切换功能，安装后可在SETTINGS → OTHERS找到，目前支持 中文（简体）、法语、德语、意大利语、韩语、葡萄牙语（巴西）和俄语。"
+	"newname": "社区翻译|SiraLocalizer",
+	"newdescription": "将社区翻译添加进游戏中，为游戏提供更多语言选项，安装后可在SETTINGS → OTHERS找到，目前支持 中文（简体）、法语、德语、意大利语、韩语、葡萄牙语（巴西）和俄语。"
 }, {
 	"name": "ServerBrowser",
 	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
