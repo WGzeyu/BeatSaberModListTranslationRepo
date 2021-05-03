@@ -904,9 +904,9 @@
 	"newname": "碎片|DiBris",
 	"newdescription": "使用各种设置自定义你的碎片！"
 }, {
-	"name": "Extended Color Schemes",
+	"name": "ExtendedColorSchemes",
 	"description": "Adds additional custom slots to color schemes.",
-	"newname": "扩展配色方案|Extended Color Schemes",
+	"newname": "扩展配色方案|ExtendedColorSchemes",
 	"newdescription": "扩展可添加的配色方案数量。"
 }, {
 	"name": "protobuf-net",
