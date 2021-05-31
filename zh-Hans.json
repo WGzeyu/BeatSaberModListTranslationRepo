@@ -655,9 +655,9 @@
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }, {
 	"name": "Saber Factory",
-	"description": "A customizable saber mod for Beat Saber",
+	"description": "A saber mod with lots of options",
 	"newname": "光剑工坊|Saber Factory",
-	"newdescription": "可以自定义Beat Saber光剑的Mod。"
+	"newdescription": "功能非常多的光剑Mod"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
@@ -875,9 +875,9 @@
 	"newdescription": "通过歌曲封面颜色来制定配色方案。"
 }, {
 	"name": "PlaylistManager",
-	"description": "Load, Create, Edit, Organize Playlists and Download their Songs in Beat Saber.",
+	"description": "Playlist loading and organization mod for Beat Saber. Click \"Mod Info\" for a guide on how to use the mod.",
 	"newname": "歌单管理器|PlaylistManager",
-	"newdescription": "读取、创建、修改、建立.bplist歌单列表并下载其中的歌曲。（虽与WGzeyu的编辑器无关，但仍建议安装，可解决显示数量限制）"
+	"newdescription": "读取与管理.bplist格式歌曲列表的Mod。（虽然与歌曲路径管理器无关，但仍建议安装，可解决显示数量限制）"
 }, {
 	"name": "Camera2",
 	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
