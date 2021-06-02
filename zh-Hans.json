@@ -923,4 +923,24 @@
 	"description": "AMD's new Contrast Adaptive Sharpening tech makes Beat Saber look super sharp and clear even on older headsets. (also works on NVIDIA GPUs) This preset has been specifically tailored for Beat Saber",
 	"newname": "CAS清晰锐化|CAS Sharpening ReShade",
 	"newdescription": "【支持A卡与N卡】AMD新推出的自适应对比度锐化技术（CAS）可以让BS在老设备上看起来超级清晰，新设备则更加清晰。该预设专为Beat Saber定制。"
+}, {
+	"name": "Custom Menu Buttons",
+	"description": "Allows you to customize your menu buttons in the main menu",
+	"newname": "自定义菜单按钮|Custom Menu Buttons",
+	"newdescription": "让你可以自定义主菜单中的按钮"
+}, {
+	"name": "ModelDownloader",
+	"description": "A PC Beat Saber mod that allows you to download Sabers, Notes, Platforms, and Avatars directly from ModelSaber, all from a convenient window within your game.",
+	"newname": "模型下载器|ModelDownloader",
+	"newdescription": "让你可以在游戏中直接从ModelSaber下载光剑、方块、场景和人物模型的Mod。"
+}, {
+	"name": "Custom Energy Bars",
+	"description": "Adds support for custom energy bars to the game.  Click \"More Info\" to learn how to make your own!",
+	"newname": "自定义能量条|Custom Energy Bars",
+	"newdescription": "为游戏添加自定义能量条（血条）支持。点击\"Mod信息\"可以查看制作教程。"
+}, {
+	"name": "ImageFactory",
+	"description": "Place images and gifs in your game and customize how they appear!",
+	"newname": "图片工厂|ImageFactory",
+	"newdescription": "在游戏中放置图片与动图并调整他们的显示方式！"
 }]
