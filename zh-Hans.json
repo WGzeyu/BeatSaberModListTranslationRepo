@@ -32,7 +32,7 @@
 	"name": "BeatSaberMarkupLanguage",
 	"description": "An XML based UI system.",
 	"newname": "BeatSaberMarkupLanguage",
-	"newdescription": "基于XML的Mod界面系统。【不含中文翻译，翻译已移至单独的Mod】"
+	"newdescription": "基于XML的Mod界面系统。"
 }, {
 	"name": "BeatSaverVoting",
 	"description": "A plugin for up/downvoting songs on BeatSaver",
@@ -300,7 +300,7 @@
 	"newdescription": "TOML的.NET库"
 }, {
 	"name": "Music Spatializer",
-	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the notes origin.",
+	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the notes.",
 	"newname": "空间音效|Music Spatializer",
 	"newdescription": "戴耳机时增加3D音效。在360°歌曲中，音乐方位跟随方块出口跳转而移动。"
 }, {
@@ -680,9 +680,9 @@
 	"newdescription": "将你当前游玩BeatSaber的歌曲状态显示在Discord的个人信息中，带有很多设置项并支持多种语言。"
 }, {
 	"name": "DiscordGameSDK",
-	"description": "SDK for interfacing with Discord.",
+	"description": "Discord's game SDK",
 	"newname": "DiscordGameSDK",
-	"newdescription": "用于与Discord交互的SDK。"
+	"newdescription": "Discord的游戏SDK"
 }, {
 	"name": "BS_PP_BOOSTER",
 	"description": "This plugin will allow you to generate ranked playlist according to your level or choosen settings, it's fully integrated in the game and will automaticly download songs & generate playlist.",
@@ -725,14 +725,14 @@
 	"newdescription": "一个很小的Mod，可以在漏击音符时隐藏Miss提示文本，从而隐藏自己的真实水平。"
 }, {
 	"name": "DiscordCore",
-	"description": "A utility/library for easily doing Discord management for mods and handling priority between rich presence systems.",
+	"description": "A utility mod for easily doing Discord management and handling priority between rich presence systems.",
 	"newname": "DiscordCore",
-	"newdescription": "一个可以让Mod轻松处理Discord的工具/支持库，还可以处理游戏状态系统之间的优先级。"
+	"newdescription": "一个可以轻松处理Discord的工具，还可以处理游戏状态系统之间的优先级。"
 }, {
 	"name": "BeatSaberPresence",
-	"description": "This mod gives you a fully customizable Rich Presence in Discord so you can show off what you are playing.",
+	"description": "Gives you Discord Rich Presence for Beat Saber",
 	"newname": "BS游戏状态|BeatSaberPresence",
-	"newdescription": "该Mod为你提供了可完全自定义的Discord状态显示，可以展示你的游戏状态。"
+	"newdescription": "为你提供了Beat Saber的Discord游戏状态。"
 }, {
 	"name": "DiColors",
 	"description": "Allows you to change the colors various in the menu and game including the menu lights, arrow glow color, and menu sign!",
