@@ -2,7 +2,7 @@
 	"name": "BSIPA",
 	"description": "A mod loader for Beat Saber. Provides a number of useful tools and utilities.",
 	"newname": "Mod注入器 | BSIPA",
-	"newdescription": "用于注入Mod的工具。【注意：若下载时报错未处理的异常…已取消一个任务，请查看简介里的中文教程，可在选项中切换下载源解决】"
+	"newdescription": "用于注入Mod的工具。【注意：若下载时报错未处理的异常…已取消一个任务，请看简介的问题解答，可在选项中切换下载源解决】"
 }, {
 	"name": "BeatSaverDownloader",
 	"description": "Enables you to download songs from BeatSaver in-game.",
@@ -91,7 +91,7 @@
 }, {
 	"name": "PauseMenuRotationFix",
 	"description": "Fixes wrong controller orientation when pausing in 90/360 levels.",
-	"newname": "暂停菜单角度修复 | PauseMenuRotationFix",
+	"newname": "暂停菜单角度修复 | PauseMenuRotationFi",
 	"newdescription": "修复了在90/360°模式中再次暂停后手柄处于错误的角度。"
 }, {
 	"name": "NoFailCheck",
@@ -196,7 +196,7 @@
 }, {
 	"name": "Level Pack Panel Mover",
 	"description": "Moves the bottom panel (containing the level packs) of the Beat Saber main menu further down (or wherever you want). No more accidental missclicks while scrolling down the song list.",
-	"newname": "歌曲包面板移动器 | Level Pack Panel Mov",
+	"newname": "歌曲包面板移动器 | Level Pack Panel Mo",
 	"newdescription": "将Beat Saber主菜单的底部面板（歌曲包）进一步向下移动（或任意放置），以减少误触。"
 }, {
 	"name": "ScoreSaber",
@@ -276,7 +276,7 @@
 }, {
 	"name": "EnhancedSearchAndFilters",
 	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen and song filtering.",
-	"newname": "搜索过滤增强 | EnhancedSearchAndFilters",
+	"newname": "搜索过滤增强 | EnhancedSearchAndFilter",
 	"newdescription": "与歌曲浏览器兼容，它也可以搜索/过滤来找歌并支持自动刷新！启用分别搜索时，输入\"goat\"可以搜索到\"G.O.A.T.\"。"
 }, {
 	"name": "Enhanced Search And Filters",
@@ -471,7 +471,7 @@
 }, {
 	"name": "Custom Menu Music",
 	"description": "A mod that adds custom music to your menu! Uses either your CustomSongs library or music of your choosing.",
-	"newname": "自定义菜单背景音乐 | Custom Menu Mus",
+	"newname": "自定义菜单背景音乐 | Custom Menu Music",
 	"newdescription": "将主菜单界面中播放的背景音乐更换为其他音乐的插件。"
 }, {
 	"name": "Rumble Enhancer",
