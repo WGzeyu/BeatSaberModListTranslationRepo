@@ -932,7 +932,7 @@
 	"name": "ModelDownloader",
 	"description": "A PC Beat Saber mod that allows you to download Sabers, Notes, Platforms, and Avatars directly from ModelSaber, all from a convenient window within your game.",
 	"newname": "模型下载器 | ModelDownloader",
-	"newdescription": "让你可以在游戏中直接从ModelSaber下载光剑、方块、场景和人物模型的Mod。"
+	"newdescription": "让你可以在游戏中直接从ModelSaber下载各种模型的Mod。【该Mod仅含下载模型的功能，不支持加载、应用、使用任何模型，具体请看ModAssistant简介页面中的新手教程】"
 }, {
 	"name": "Custom Energy Bars",
 	"description": "Adds support for custom energy bars to the game.  Click \"More Info\" to learn how to make your own!",
