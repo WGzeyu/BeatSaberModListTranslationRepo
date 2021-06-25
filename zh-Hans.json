@@ -590,9 +590,9 @@
 	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "NoodleExtensions",
-	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
+	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt.",
 	"newname": "面条扩展 | NoodleExtensions",
-	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
+	"newdescription": "这个Mod可以加载作者在谱面中放置的各种牛逼东西（例如特效谱）。遇到问题请反馈给Reaxt。"
 }, {
 	"name": "TrickSaber",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
@@ -690,7 +690,7 @@
 	"newdescription": "此插件可以根据您的等级或设置来生成排位曲歌单，完全与游戏集成，可自动下载歌曲。"
 }, {
 	"name": "Technicolor",
-	"description": "Rainbow? Technicolor is where it's at! Technicolor lets you add rainbow colors to your lights, notes, walls, sabers, and even bombs. ",
+	"description": "Rainbow? Technicolor is where it's at! Technicolor lets you add rainbow colors to your lights, notes, walls, sabers, and even bombs.",
 	"newname": "彩色 | Technicolor",
 	"newdescription": "彩虹？彩色才是最好用的！它让你可以为灯光、方块、墙、光剑甚至炸弹添加彩虹色彩。"
 }, {
@@ -735,7 +735,7 @@
 	"newdescription": "为你提供了Beat Saber的Discord游戏状态。"
 }, {
 	"name": "DiColors",
-	"description": "Allows you to change the colors various in the menu and game including the menu lights, arrow glow color, and menu sign!",
+	"description": "Allows you to change the colors various in the menu including the menu lights and menu sign!",
 	"newname": "色彩 | DiColors",
 	"newdescription": "可以更改游戏中的各种颜色的Mod，例如菜单灯光、箭头颜色，以及菜单标志。"
 }, {
@@ -948,4 +948,9 @@
 	"description": "A collection of various tweaks which by themselves are to simple for their own designated mods",
 	"newname": "预设55 | Tweaks55",
 	"newdescription": "各种调整预设的合集，可以很方便的用于设置其他Mod。"
+}, {
+	"name": "SongDetailsCache",
+	"description": "A library which provides access to the ScoreSaber and BeatSaver information of all Songs using a cached local database",
+	"newname": "SongDetailsCache",
+	"newdescription": "一个可以缓存ScoreSaber和BeatSaver全部歌曲信息的本地数据库"
 }]
