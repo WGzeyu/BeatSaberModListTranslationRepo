@@ -545,9 +545,9 @@
 	"newdescription": "在游戏内显示歌曲难度曲线。"
 }, {
 	"name": "ImageCoverExpander",
-	"description": "Expands and customize the image cover container in the song selection!",
+	"description": "Expands the artwork cover of a song! Click \"Mod Info\" for images!",
 	"newname": "歌曲封面扩展 | ImageCoverExpander",
-	"newdescription": "扩展右侧上半条歌曲信息的背景封面大小。"
+	"newdescription": "扩展歌曲封面尺寸！点击\"Mod信息\"以查看截图"
 }, {
 	"name": "BailOutMode",
 	"description": "Allows you to continue playing songs without posting a score if you fail, but allows you to post scores if you don't.",
@@ -953,4 +953,29 @@
 	"description": "A library which provides access to the ScoreSaber and BeatSaver information of all Songs using a cached local database",
 	"newname": "SongDetailsCache",
 	"newdescription": "一个可以缓存ScoreSaber和BeatSaver全部歌曲信息的本地数据库"
+}, {
+	"name": "PinkCute",
+	"description": "Pink Cute! That's all there is to it",
+	"newname": "PinkCute | PinkCute",
+	"newdescription": "将游戏内所有文本替换为Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute"
+}, {
+	"name": "MorePlaylists",
+	"description": "Download playlists from BeastSaber and HitBloq ingame!",
+	"newname": "歌单下载器 | MorePlaylists",
+	"newdescription": "在游戏内从BEASTSABER与HitBloq下载歌单！（.bplist格式歌曲列表）"
+}, {
+	"name": "EnvironmentMinifier",
+	"description": "Minifies the environment chroma style.",
+	"newname": "环境禁用器 | EnvironmentMinifier",
+	"newdescription": "通过类似Chroma的方式来移除游戏内的环境组件。"
+}, {
+	"name": "FizzyUtils",
+	"description": "Some utilities for mods (mostly FizzyApple12's) to use. Doesn't do anything user facing in game.",
+	"newname": "FizzyUtils",
+	"newdescription": "提供了一些可供Mod调用的实用功能。本身没有任何用户交互功能。"
+}, {
+	"name": "JDFixer",
+	"description": "View and set a map's Jump Distance. Automates JD fixing with saved preferences and customization like thresholds",
+	"newname": "跳跃距离修复 | JDFixer",
+	"newdescription": "浏览并设置谱面的跳跃距离，或使用保存的自定义预设自动执行跳跃距离修复。"
 }]
