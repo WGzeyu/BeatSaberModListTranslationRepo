@@ -978,4 +978,9 @@
 	"description": "View and set a map's Jump Distance. Automates JD fixing with saved preferences and customization like thresholds",
 	"newname": "跳跃距离修复 | JDFixer",
 	"newdescription": "浏览并设置谱面的跳跃距离，或使用保存的自定义预设自动执行跳跃距离修复。"
+}, {
+	"name": "ControllerTweaks",
+	"description": "Remap Oculus Controllers, Enable Controller Swap or change Controller Offsets from Practice!",
+	"newname": "手柄调整 | ControllerTweaks",
+	"newdescription": "重映射Oculus手柄、互换手柄或在练习模式中调整手柄偏移！"
 }]
