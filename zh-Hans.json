@@ -790,9 +790,9 @@
 	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台自定义歌曲跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接，需先安装[联机扩展|MultiplayerExtensions]以支持自定义歌曲】"
 }, {
 	"name": "Cinema",
-	"description": "Add music videos with awesome graphical effects to your maps",
+	"description": "Add music videos to the background of your maps",
 	"newname": "影院 | Cinema",
-	"newdescription": "效果出色的MV视频播放器，将YouTube视频添加到谱面中。"
+	"newdescription": "将YouTube上面的MV视频添加到谱面背景"
 }, {
 	"name": "NoHealthAndSafety",
 	"description": "A plugin to skip the health and safety warning at the beginning of the game. It works by automatically pressing the \"Continue\" button after a short delay.",
@@ -935,7 +935,7 @@
 	"newdescription": "让你可以在游戏中直接从ModelSaber下载各种模型的Mod。【该Mod仅含下载模型的功能，不支持加载、应用、使用任何模型，具体请看ModAssistant简介页面中的新手教程】"
 }, {
 	"name": "Custom Energy Bars",
-	"description": "Adds support for custom energy bars to the game.  Click \"More Info\" to learn how to make your own!",
+	"description": "Adds support for custom energy bars to the game.  Click \"Mod Info\" to learn how to make your own!",
 	"newname": "自定义能量条 | Custom Energy Bars",
 	"newdescription": "为游戏添加自定义能量条（血条）支持。点击\"Mod信息\"可以查看制作教程。"
 }, {
