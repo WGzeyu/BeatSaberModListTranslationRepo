@@ -983,4 +983,9 @@
 	"description": "Remap Oculus Controllers, Enable Controller Swap or change Controller Offsets from Practice!",
 	"newname": "手柄调整 | ControllerTweaks",
 	"newdescription": "重映射Oculus手柄、互换手柄或在练习模式中调整手柄偏移！"
+}, {
+	"name": "ScoreRequirement",
+	"description": "This mod allows you to disable ScoreSaber submission entirely with 5 parameters - independently toggleable! If you want more info, head on over to the GitHub repository - Click more info on this mod!",
+	"newname": "分数要求 | ScoreRequirement",
+	"newdescription": "这个Mod可以让你设置5个参数来禁用ScoreSaber分数提交！选中后点击Mod信息以查看详情。"
 }]
