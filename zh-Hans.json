@@ -988,4 +988,9 @@
 	"description": "This mod allows you to disable ScoreSaber submission entirely with 5 parameters - independently toggleable! If you want more info, head on over to the GitHub repository - Click more info on this mod!",
 	"newname": "分数要求 | ScoreRequirement",
 	"newdescription": "这个Mod可以让你设置5个参数来禁用ScoreSaber分数提交！选中后点击Mod信息以查看详情。"
+}, {
+	"name": "_Heck",
+	"description": "Provides track support for other mods. Used by Chroma and NoodleExtensions.",
+	"newname": "_Heck",
+	"newdescription": "为其他Mod提供支持。目前是由[炫彩效果|Chroma]以及[面条扩展|NoodleExtensions]调用的支持库之一。"
 }]
