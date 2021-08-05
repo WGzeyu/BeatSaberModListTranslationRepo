@@ -250,9 +250,9 @@
 	"newdescription": "每次错过note时将随机显示信息。因为，人们喜欢这些。"
 }, {
 	"name": "Custom Platforms",
-	"description": "A plugin to support custom platforms and environments",
+	"description": "A BSIPA Plugin for Beat Saber that adds support for custom environments (platforms) ",
 	"newname": "自定义场景 | Custom Platforms",
-	"newdescription": "用于支持自定义平台和环境的插件。"
+	"newdescription": "用于支持自定义平台和环境的BeatSaber插件。"
 }, {
 	"name": "Particle Overdrive",
 	"description": "Enable/disable camera noise, and global particle haze, configure note slash/explosion and saber clash particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
@@ -590,9 +590,9 @@
 	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "NoodleExtensions",
-	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt.",
+	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
 	"newname": "面条扩展 | NoodleExtensions",
-	"newdescription": "这个Mod可以加载作者在谱面中放置的各种牛逼东西（例如特效谱）。遇到问题请反馈给Reaxt。"
+	"newdescription": "类似映射扩展，它能让作者通过各种方式精确控制谱面的各种元素，可以实现很惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "TrickSaber",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
@@ -993,4 +993,9 @@
 	"description": "Provides track support for other mods. Used by Chroma and NoodleExtensions.",
 	"newname": "_Heck",
 	"newdescription": "为其他Mod提供支持。目前是由[炫彩效果|Chroma]以及[面条扩展|NoodleExtensions]调用的支持库之一。"
+}, {
+	"name": "UITweaks",
+	"description": "Allows you to color various parts of the in-game HUD to your liking!",
+	"newname": "界面调整 | UITweaks",
+	"newdescription": "让你可以将游戏内的各个HUD调整为自己喜欢的颜色。"
 }]
