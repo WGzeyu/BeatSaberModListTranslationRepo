@@ -581,7 +581,7 @@
 }, {
 	"name": "Chroma",
 	"description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
-	"newname": "炫彩效果 | Chroma",
+	"newname": "炫彩扩展 | Chroma",
 	"newdescription": "Chroma™拥有你能见到的最强大的自定义色彩效果，可让谱师将方块，灯光，光剑和墙壁更改为任意颜色！（需铺面支持才有效）"
 }, {
 	"name": "Noodle Extensions",
@@ -992,7 +992,7 @@
 	"name": "_Heck",
 	"description": "Provides track support for other mods. Used by Chroma and NoodleExtensions.",
 	"newname": "_Heck",
-	"newdescription": "为其他Mod提供支持。目前是由[炫彩效果|Chroma]以及[面条扩展|NoodleExtensions]调用的支持库之一。"
+	"newdescription": "为其他Mod提供支持。目前是由[炫彩扩展|Chroma]以及[面条扩展|NoodleExtensions]调用的支持库之一。"
 }, {
 	"name": "UITweaks",
 	"description": "Allows you to color various parts of the in-game HUD to your liking!",
