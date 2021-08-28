@@ -100,9 +100,9 @@
 	"newdescription": "打开NoFail会显示到PLAY按钮中，需要双击才能开始，以防忘记关闭NoFail。"
 }, {
 	"name": "YUR Fit Calorie Tracker",
-	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam and SideQuest!",
+	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam, SideQuest, Google Play and the iOS App Store!",
 	"newname": "卡路里追踪器 | YUR Fit Calorie Tracker",
-	"newdescription": "在玩Beat Saber时跟踪卡路里！可在Steam/SideQuest上搜索我们。（需登录账号）"
+	"newdescription": "在玩Beat Saber时跟踪卡路里（需登录账号）！可在Steam/SideQuest/GooglePlay/iOSAPPStore上搜索我们。"
 }, {
 	"name": "TransparentWall",
 	"description": "Enable transparent walls in VR, or disable them in LIV! (No... It does not affect CameraPlus)",
@@ -625,7 +625,7 @@
 	"newdescription": "在主菜单和暂停菜单中使用自定义光标或光剑。"
 }, {
 	"name": "AutoPauseStealth",
-	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
+	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.\r\n",
 	"newname": "暂停防卡 | AutoPauseStealth",
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
