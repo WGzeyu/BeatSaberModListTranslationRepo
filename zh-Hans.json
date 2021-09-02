@@ -998,4 +998,9 @@
 	"description": "Allows you to color various parts of the in-game HUD to your liking!",
 	"newname": "界面调整 | UITweaks",
 	"newdescription": "让你可以将游戏内的各个HUD调整为自己喜欢的颜色。"
+}, {
+	"name": "Burnout",
+	"description": "A Beat Saber plugin for customizing saber burn marks.",
+	"newname": "燃尽 | Burnout",
+	"newdescription": "用于自定义BeatSaber光剑烧痕的插件。"
 }]
