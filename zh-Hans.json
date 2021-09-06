@@ -1020,8 +1020,8 @@
 	"newdescription": "添加一个直达成绩页面的按钮，很简单的Mod。"
 }, {
 	"name": "SongPlayHistoryContinued",
-	"description": "",
-	"newname": "打歌历史 | SongPlayHistoryContinue",
+	"description": "A local score tracker with simple in-game UI. Created by peperoro.",
+	"newname": "打歌历史 | SongPlayHistoryContinued",
 	"newdescription": "可以记录并在游戏内显示本地成绩历史记录的Mod。"
 }, {
 	"name": "I Forgor",
@@ -1043,4 +1043,9 @@
 	"description": "When you get a bad cut, replace the \"x\" effect with text of the bad cut reason. Has settings to enable/disable, change font size/color, write your own text for each bad cut type.",
 	"newname": "失误类型 | BadCutType",
 	"newdescription": "当你出现错误挥砍时，用错误原因来替代\"x\"效果。可以在设置中启用/禁用，调整字体大小/颜色，自定义每种错误类型的提示文本。"
+}, {
+	"name": "SearchFixes",
+	"description": "An improved search algorithm for Beat Saber.",
+	"newname": "搜索补丁 | SearchFixes",
+	"newdescription": "优化BeatSaber的搜索算法。"
 }]
