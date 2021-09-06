@@ -610,9 +610,9 @@
 	"newdescription": "重构的“垃圾人”，让您可以通过调整垃圾回收来减少卡顿。考虑到了Unity特定的增量GC模式，它以指定的消耗手动触发增量GC，以及追踪丢帧/延迟统计。"
 }, {
 	"name": "Claws",
-	"description": "Gameplay modifier that shrinks sabers by 70% (from 1m to 0.3m) & alters grip.",
+	"description": "Play Beat Saber like wolverine - 70% shorter hitboxes means you have to work /hard/. Reduces strain on your wrists significantly! Enable in song select or the multiplayer lobby.",
 	"newname": "兽爪 | Claws",
-	"newdescription": "可将光剑缩短70%（1m → 0.3m）并更改为爪子的插件。"
+	"newdescription": "像金刚狼一样玩光剑 - 缩短70%的碰撞体积，需要更加使劲挥动手臂，大大减轻手腕压力！可以在歌曲选择界面或联机界面中启用。"
 }, {
 	"name": "ScorePercentage",
 	"description": "Adds score percentage, percentage difference and score difference to results screen and score percentage to song info.",
@@ -630,9 +630,9 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com",
+	"description": "Share song plays and recommendations with your stream. Twitch extension, playlists and public profiles available at https://www.beatfollower.com",
 	"newname": "游戏记录 | BeatFollower",
-	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展与个人资料可在 https://www.beatfollower.com 查看。"
+	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展、歌单、个人资料可在 https://www.beatfollower.com 查看。"
 }, {
 	"name": "FastFail",
 	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
@@ -655,9 +655,9 @@
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }, {
 	"name": "Saber Factory",
-	"description": "A saber mod with lots of options",
+	"description": "Customizable custom saber mod",
 	"newname": "光剑工坊 | Saber Factory",
-	"newdescription": "功能非常多的光剑Mod"
+	"newdescription": "可以自定义光剑的Mod"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
@@ -800,9 +800,9 @@
 	"newdescription": "可在启动游戏时自动跳过健康与安全警告的插件。"
 }, {
 	"name": "BeatSaberPlaylistsLib",
-	"description": "A library to centralize management of playlists.",
+	"description": "A library for reading and writing Beat Saber playlists.",
 	"newname": "BeatSaberPlaylistsLib",
-	"newdescription": "用于集中管理歌曲列表的支持库。"
+	"newdescription": "用于读写歌曲列表的支持库。"
 }, {
 	"name": "CustomKeyEvent",
 	"description": "For Custom Events To Trigger Avatar Animations https://github.com/PureDark/BSCustomKeyEvents",
@@ -990,9 +990,9 @@
 	"newdescription": "这个Mod可以让你设置5个参数来完全禁用ScoreSaber分数提交！选中后点击Mod信息以查看详情。"
 }, {
 	"name": "_Heck",
-	"description": "Provides track support for other mods. Used by Chroma and NoodleExtensions.",
+	"description": "Library for Aeroluna's mods.",
 	"newname": "_Heck",
-	"newdescription": "为其他Mod提供支持。目前是由[炫彩扩展|Chroma]以及[面条扩展|NoodleExtensions]调用的支持库之一。"
+	"newdescription": "Aeroluna's的Mod所使用的支持库。"
 }, {
 	"name": "UITweaks",
 	"description": "Allows you to color various parts of the in-game HUD to your liking!",
@@ -1003,4 +1003,44 @@
 	"description": "A Beat Saber plugin for customizing saber burn marks.",
 	"newname": "燃尽 | Burnout",
 	"newdescription": "用于自定义BeatSaber光剑烧痕的插件。"
+}, {
+	"name": "CustomBanners",
+	"description": "Display images as banners or cycle through them automatically",
+	"newname": "自定义旗帜 | CustomBanners",
+	"newdescription": "以旗帜形式显示图片，可循环播放。"
+}, {
+	"name": "Nya",
+	"description": "A Beat Saber mod for displaying and downloading nya-tastic images from web APIs",
+	"newname": "喵 | Nya",
+	"newdescription": "用于从网络下载和显示猫猫图片的Mod。"
+}, {
+	"name": "TakeMeToResults",
+	"description": "A simple mod that adds a button which takes you to the results screen.",
+	"newname": "告我结果 | TakeMeToResults",
+	"newdescription": "添加一个直达成绩页面的按钮，很简单的Mod。"
+}, {
+	"name": "SongPlayHistoryContinued",
+	"description": "",
+	"newname": "打歌历史 | SongPlayHistoryContinue",
+	"newdescription": "可以记录并在游戏内显示本地成绩历史记录的Mod。"
+}, {
+	"name": "I Forgor",
+	"description": "Displays the direction of the last notes you hit and saber angles in the pause menu.",
+	"newname": "我忘了 | I Forgor",
+	"newdescription": "在暂停界面中显示最后挥砍的音符方向与角度。"
+}, {
+	"name": "BetterSongSearch",
+	"description": "Search and download songs with a lot of filtering and sorting options and without frustration!",
+	"newname": "更好用的歌曲搜索 | BetterSongSearch",
+	"newdescription": "使用大量的过滤和排序选项搜索和下载歌曲，不会沮丧！"
+}, {
+	"name": "BetterSongList",
+	"description": "Adds Various improvements to the Basegame song list like Filters, a persisted state and much more",
+	"newname": "更好用的歌曲列表 | BetterSongList",
+	"newdescription": "为原版游戏的歌曲列表添加了各种改进，例如过滤方式，持续状态等等。"
+}, {
+	"name": "BadCutType",
+	"description": "When you get a bad cut, replace the \"x\" effect with text of the bad cut reason. Has settings to enable/disable, change font size/color, write your own text for each bad cut type.",
+	"newname": "失误类型 | BadCutType",
+	"newdescription": "当你出现错误挥砍时，用错误原因来替代\"x\"效果。可以在设置中启用/禁用，调整字体大小/颜色，自定义每种错误类型的提示文本。"
 }]
