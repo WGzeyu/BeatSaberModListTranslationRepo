@@ -992,7 +992,7 @@
 	"name": "_Heck",
 	"description": "Library for Aeroluna's mods.",
 	"newname": "_Heck",
-	"newdescription": "Aeroluna's的Mod所使用的支持库。"
+	"newdescription": "Aeroluna的Mod所使用的支持库。"
 }, {
 	"name": "UITweaks",
 	"description": "Allows you to color various parts of the in-game HUD to your liking!",
