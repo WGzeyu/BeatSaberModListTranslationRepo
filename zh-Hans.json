@@ -1022,7 +1022,7 @@
 	"name": "SongPlayHistoryContinued",
 	"description": "A local score tracker with simple in-game UI. Created by peperoro.",
 	"newname": "打歌历史 | SongPlayHistoryContinued",
-	"newdescription": "可以记录并在游戏内显示本地成绩历史记录的Mod。"
+	"newdescription": "可以在本地记录并在游戏内显示成绩历史的Mod。"
 }, {
 	"name": "I Forgor",
 	"description": "Displays the direction of the last notes you hit and saber angles in the pause menu.",
