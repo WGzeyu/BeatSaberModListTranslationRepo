@@ -1037,7 +1037,7 @@
 	"name": "BetterSongList",
 	"description": "Adds Various improvements to the Basegame song list like Filters, a persisted state and much more",
 	"newname": "更好用的歌曲列表 | BetterSongList",
-	"newdescription": "为原版游戏的歌曲列表添加了各种改进，例如过滤方式，持续状态等等。"
+	"newdescription": "为游戏的歌曲列表添加了更好用的排序、筛选等功能，安装后[歌曲浏览器|SongBrowser]将被该Mod取代。"
 }, {
 	"name": "BadCutType",
 	"description": "When you get a bad cut, replace the \"x\" effect with text of the bad cut reason. Has settings to enable/disable, change font size/color, write your own text for each bad cut type.",
