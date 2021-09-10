@@ -582,7 +582,7 @@
 	"name": "Chroma",
 	"description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
 	"newname": "炫彩扩展 | Chroma",
-	"newdescription": "Chroma™拥有你能见到的最强大的自定义色彩效果，可让谱师将方块，灯光，光剑和墙壁更改为任意颜色！（需铺面支持才有效）"
+	"newdescription": "Chroma™拥有你能见到的最强大的自定义色彩效果，可让谱师将方块，灯光，光剑和墙壁更改为任意颜色！（需谱面支持才有效）"
 }, {
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
@@ -590,9 +590,9 @@
 	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "NoodleExtensions",
-	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
+	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt. ",
 	"newname": "面条扩展 | NoodleExtensions",
-	"newdescription": "类似映射扩展，它能让作者通过各种方式精确控制谱面的各种元素，可以实现很惊艳的效果。此Mod不能代替映射扩展。"
+	"newdescription": "这个Mod能让你看到谱师在谱面中放置的各种炫酷的特殊元素。如遇问题请反馈给Reaxt。"
 }, {
 	"name": "TrickSaber",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
@@ -862,7 +862,7 @@
 	"name": "360fyer",
 	"description": "Play any beatmap in 360 or 90 degree mode!",
 	"newname": "360转换 | 360fyer",
-	"newdescription": "以360°、90°模式游玩任何铺面！"
+	"newdescription": "以360°、90°模式游玩任何谱面！"
 }, {
 	"name": "CustomKeyEvents",
 	"description": "This plugin allows you to set event triggers to controller actions. You will need CustomKeyEvents.dll  in your plugins folder in order to see animation on your avatar and see them in game.",
