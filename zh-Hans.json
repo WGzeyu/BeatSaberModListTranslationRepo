@@ -1048,4 +1048,9 @@
 	"description": "An improved search algorithm for Beat Saber.",
 	"newname": "搜索补丁 | SearchFixes",
 	"newdescription": "优化BeatSaber的搜索算法。"
+}, {
+	"name": "HitSoundChanger",
+	"description": "Allows you to change the sounds used for cutting notes and bad hits.",
+	"newname": "击打音效修改 | HitSoundChanger",
+	"newdescription": "让你可以修改切割音符时的音效。"
 }]
