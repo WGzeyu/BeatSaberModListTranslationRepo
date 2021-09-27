@@ -250,7 +250,7 @@
 	"newdescription": "每次错过note时将随机显示信息。因为，人们喜欢这些。"
 }, {
 	"name": "Custom Platforms",
-	"description": "A BSIPA Plugin for Beat Saber that adds support for custom environments (platforms) ",
+	"description": "A BSIPA Plugin for Beat Saber that adds support for custom environments (platforms)",
 	"newname": "自定义场景 | Custom Platforms",
 	"newdescription": "用于支持自定义平台和环境的BeatSaber插件。"
 }, {
@@ -1053,4 +1053,9 @@
 	"description": "Allows you to change the sounds used for cutting notes and bad hits.",
 	"newname": "击打音效修改 | HitSoundChanger",
 	"newdescription": "让你可以修改切割音符时的音效。"
+}, {
+	"name": "yt-dlp",
+	"description": "A youtube-dl fork with additional features and fixes",
+	"newname": "yt-dlp",
+	"newdescription": "youtube-dl（YouTube视频下载）的分支，添加了一些功能并进行了一些修复。"
 }]
