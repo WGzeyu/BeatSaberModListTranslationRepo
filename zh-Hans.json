@@ -975,9 +975,9 @@
 	"newdescription": "提供了一些可供Mod调用的实用功能。本身没有任何用户交互功能。"
 }, {
 	"name": "JDFixer",
-	"description": "View and set a map's Jump Distance. Automates JD fixing with saved preferences and customization like thresholds",
+	"description": "Allows changing of Jump Distance and Reaction Time, including automation through preferences and thresholds",
 	"newname": "跳跃距离修复 | JDFixer",
-	"newdescription": "浏览并设置谱面的跳跃距离，或使用保存的自定义预设自动执行跳跃距离修复。"
+	"newdescription": "可以修改出生距离与反应时间，还能通过阈值设置实现自动化修改。"
 }, {
 	"name": "ControllerTweaks",
 	"description": "Remap Oculus Controllers, Enable Controller Swap or change Controller Offsets from Practice!",
