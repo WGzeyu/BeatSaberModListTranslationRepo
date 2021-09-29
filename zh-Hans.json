@@ -350,9 +350,9 @@
 	"newdescription": "这是c++ libSkiaSharp库的c#包装器。详情请查看Mod信息。"
 }, {
 	"name": "StepBackWall",
-	"description": "Adds an option to re-enable the glorious \"Step Back\" walls",
-	"newname": "后退墙 | StepBackWall",
-	"newdescription": "添加了一个选项以重新启用绚丽的\"后退\"墙。"
+	"description": "Adds the option to re-enable the glorious \"Step Back\" walls",
+	"newname": "阶梯墙 | StepBackWall",
+	"newdescription": "添加了选项以重新启用绚丽的\"阶梯\"墙。"
 }, {
 	"name": "Song Refresh Button",
 	"description": "Adds various refresh buttons in game.",
@@ -510,7 +510,7 @@
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
 	"name": "Custom Walls",
-	"description": "A plugin for custom walls in Beat Saber",
+	"description": "A plugin for custom walls in Beat Saber\n",
 	"newname": "自定义墙壁 | Custom Walls",
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
@@ -625,7 +625,7 @@
 	"newdescription": "在主菜单和暂停菜单中使用自定义光标或光剑。"
 }, {
 	"name": "AutoPauseStealth",
-	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.\r\n",
+	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
 	"newname": "暂停防卡 | AutoPauseStealth",
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
@@ -800,9 +800,9 @@
 	"newdescription": "可在启动游戏时自动跳过健康与安全警告的插件。"
 }, {
 	"name": "BeatSaberPlaylistsLib",
-	"description": "A library for reading and writing Beat Saber playlists.",
+	"description": "A library for reading and writing Beat Saber playlists. Does not do anything by itself.",
 	"newname": "BeatSaberPlaylistsLib",
-	"newdescription": "用于读写歌曲列表的支持库。"
+	"newdescription": "用于读写歌曲列表的支持库。只安装该支持库时不会提供任何功能。"
 }, {
 	"name": "CustomKeyEvent",
 	"description": "For Custom Events To Trigger Avatar Animations https://github.com/PureDark/BSCustomKeyEvents",
