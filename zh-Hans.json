@@ -1010,9 +1010,9 @@
 	"newdescription": "以旗帜形式显示图片，可循环播放。"
 }, {
 	"name": "Nya",
-	"description": "A Beat Saber mod for displaying and downloading nya-tastic images from web APIs",
+	"description": "Beat Saber mod for displaying nya-tastic images from various anime themed web APIs",
 	"newname": "喵 | Nya",
-	"newdescription": "用于从网络下载和显示猫猫图片的Mod。"
+	"newdescription": "用于从网络下载和显示各种动漫主题猫娘图片的Mod。"
 }, {
 	"name": "TakeMeToResults",
 	"description": "A simple mod that adds a button which takes you to the results screen.",
