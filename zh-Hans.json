@@ -130,9 +130,9 @@
 	"newdescription": "用于支持第三方程序通过WebSocket获取实时游戏数据，并将其录制在画面中。"
 }, {
 	"name": "Enhanced Stream Chat",
-	"description": "Enhanced Stream Chat is a rich text chat integration mod with full unicode, emote, cheermote, and emoji support. Supports Twitch and YouTube.",
+	"description": "Enhanced Stream Chat is a rich text chat integration mod, with full unicode, emote, and emoji support.",
 	"newname": "增强直播聊天 | Enhanced Stream Chat",
-	"newdescription": "增强直播聊天是一种富文本聊天集成模块，具有完全的unicode，emote，cheermote和emoji支持。支持Twitch和YouTube。"
+	"newdescription": "增强直播聊天是一种富文本聊天集成模块，具有完全的unicode，emote，cheermote和emoji支持。"
 }, {
 	"name": "Stream Core",
 	"description": "Stream Core is an IPA based mod designed to allow developers to create interactive chat experiences with ease.",
