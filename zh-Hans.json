@@ -860,7 +860,7 @@
 	"newdescription": "很简单的一个Mod，禁用击中炸弹时的粒子效果。可以在修改项菜单中切换"
 }, {
 	"name": "360fyer",
-	"description": "Play any beatmap in 360 or 90 degree mode!",
+	"description": "Play any map in 360 or 90 degree mode!",
 	"newname": "360转换 | 360fyer",
 	"newdescription": "以360°、90°模式游玩任何谱面！"
 }, {
