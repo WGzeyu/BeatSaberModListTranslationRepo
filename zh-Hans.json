@@ -1072,5 +1072,5 @@
 	"name": "Link",
 	"description": "Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat. ",
 	"newname": "链接 | Link",
-	"newdescription": "为你的直播添加!link命令，可以获取当前正在玩的谱面链接。"
+	"newdescription": "为你的直播添加 !link 命令，可以获取当前正在玩的谱面链接。"
 }]
