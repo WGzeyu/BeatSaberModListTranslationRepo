@@ -1068,4 +1068,9 @@
 	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, or disable all scores.",
 	"newname": "先试试 | PlayFirst",
 	"newdescription": "可以在暂停菜单或结算页面中选择是否提交分数，或者禁用所有分数提交，以防止上传失败的NF成绩。"
+}, {
+	"name": "Link",
+	"description": "Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat. ",
+	"newname": "链接 | Link",
+	"newdescription": "为你的直播添加!link命令，可以获取当前正在玩的谱面链接。"
 }]
