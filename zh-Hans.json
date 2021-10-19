@@ -1040,9 +1040,9 @@
 	"newdescription": "为游戏的歌曲列表添加了更好用的排序、筛选等功能，安装后[歌曲浏览器|SongBrowser]将被该Mod取代。"
 }, {
 	"name": "BadCutType",
-	"description": "When you get a bad cut, replace the \"x\" effect with text of the bad cut reason. Has settings to enable/disable, change font size/color, write your own text for each bad cut type.",
+	"description": "Replace \"X\" bad cut effect with custom text for each bad cut type.",
 	"newname": "失误类型 | BadCutType",
-	"newdescription": "当你出现错误挥砍时，用错误原因来替代\"x\"效果。可以在设置中启用/禁用，调整字体大小/颜色，自定义每种错误类型的提示文本。"
+	"newdescription": "将每种错误挥砍的\"x\"替换为单独的自定义文本。"
 }, {
 	"name": "SearchFixes",
 	"description": "An improved search algorithm for Beat Saber.",
