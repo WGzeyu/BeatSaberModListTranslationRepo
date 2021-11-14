@@ -630,9 +630,9 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Share song plays and recommendations with your stream. Twitch extension, playlists and public profiles available at https://www.beatfollower.com",
+	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com",
 	"newname": "游戏记录 | BeatFollower",
-	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展、歌单、个人资料可在 https://www.beatfollower.com 查看。"
+	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展、个人资料可在 https://www.beatfollower.com 查看。"
 }, {
 	"name": "FastFail",
 	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
