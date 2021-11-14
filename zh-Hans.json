@@ -767,7 +767,7 @@
 	"name": "MultiplayerExtensions",
 	"description": "Expands the functionality of Beat Saber Multiplayer. Adds custom song support and a variety of other features.",
 	"newname": "联机扩展 | MultiplayerExtensions",
-	"newdescription": "扩展联机功能，提供了自定义歌曲、10人联机等功能。【10人联机功能需安装[跨平台联机|BeatTogether]，用不到可以不装】"
+	"newdescription": "为联机增加自定义歌曲功能。【需要同时安装[跨平台联机|BeatTogether]】"
 }, {
 	"name": "PerformanceMeter",
 	"description": "Shows a graph of your energy bar, percentage level, or cut value throughout a map on the end screen.",
@@ -787,7 +787,7 @@
 	"name": "BeatTogether",
 	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest. Requires MultiplayerExtensions for custom song support.",
 	"newname": "跨平台联机 | BeatTogether",
-	"newdescription": "由Mod社区提供的联机服务器，可支持PC与Quest平台自定义歌曲跨平台联机。【暂时仅支持纯英文ID，中文ID因BUG无法连接，需先安装[联机扩展|MultiplayerExtensions]以支持自定义歌曲】"
+	"newdescription": "由社区提供的联机服务器，支持跨平台联机。【需要同时安装[联机扩展|MultiplayerExtensions]】"
 }, {
 	"name": "Cinema",
 	"description": "Add music videos to the background of your maps",
