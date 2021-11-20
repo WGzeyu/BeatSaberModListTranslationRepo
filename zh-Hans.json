@@ -1031,12 +1031,12 @@
 }, {
 	"name": "BetterSongSearch",
 	"description": "Search and download songs with a lot of filtering and sorting options and without frustration!",
-	"newname": "更好用的歌曲搜索 | BetterSongSearch",
+	"newname": "更好的歌曲搜索 | BetterSongSearch",
 	"newdescription": "使用大量的过滤和排序选项搜索和下载歌曲，不会沮丧！"
 }, {
 	"name": "BetterSongList",
 	"description": "Adds various improvements to the Basegame song list like Filters, a persisted state and much more",
-	"newname": "更好用的歌曲列表 | BetterSongList",
+	"newname": "更好的歌曲列表 | BetterSongList",
 	"newdescription": "为游戏的歌曲列表添加了更好用的排序、筛选等功能，安装后[歌曲浏览器|SongBrowser]将被该Mod取代。"
 }, {
 	"name": "BadCutType",
