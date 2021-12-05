@@ -995,7 +995,7 @@
 	"newdescription": "Aeroluna的Mod所使用的支持库。"
 }, {
 	"name": "UITweaks",
-	"description": "Customize your in-level HUD to your liking!",
+	"description": "Customize the in-level HUD to your liking!",
 	"newname": "界面调整 | UITweaks",
 	"newdescription": "按你自己的喜好调整游戏时的HUD信息显示！"
 }, {
@@ -1073,4 +1073,9 @@
 	"description": "Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat. ",
 	"newname": "链接 | Link",
 	"newdescription": "为你的直播添加 !link 命令，可以获取当前正在玩的谱面链接。"
+}, {
+	"name": "LookupID",
+	"description": "A single method written in C++ for Chroma because regex in mono is unbelievably slow. Also beatmods sucks.",
+	"newname": "LookupID",
+	"newdescription": "用C++为Chroma编写的单一方法，因为mono中的regex慢得离谱。另外，Beatmods也很烂。"
 }]
