@@ -825,9 +825,9 @@
 	"newdescription": "让你在准度不高时立即失败！"
 }, {
 	"name": "DiTails",
-	"description": "View extra details about a map like the rating, description, upload date, and more!",
-	"newname": "尾巴 | DiTails",
-	"newdescription": "查看有关谱面的其他详细信息，例如评分，介绍，上传时间等各种信息！"
+	"description": "View extra details about a map by clicking the cover image!",
+	"newname": "详情 | DiTails",
+	"newdescription": "点击封面可以查看谱面的详细信息。"
 }, {
 	"name": "DiSounds",
 	"description": "Customize your sounds! Change the menu music, add intro and outro sounds, custom songs for failing a level or getting a high score, and custom click sounds!",
@@ -1088,4 +1088,14 @@
 	"description": "A tool that shows your average cut angle and offset per note position/angle to help perfect your accuracy.",
 	"newname": "切片细节 | SliceDetails",
 	"newdescription": "可以显示平均切割角度和每个音符位置、角度偏移的工具，以帮助你完善准确度。"
+}, {
+	"name": "Small Menu",
+	"description": "Makes the main menu smaller & closer, just like it was in Beat Saber 1.13.0.",
+	"newname": "小菜单 | Small Menu",
+	"newdescription": "让主菜单尺寸更小离得更近，就像之前的Beat Saber 1.13.0。"
+}, {
+	"name": "FontChanger",
+	"description": "Simple mod, that allows you to change HUD font.",
+	"newname": "更换字体 | FontChanger",
+	"newdescription": "很简单的Mod，可以更改HUD字体。"
 }]
