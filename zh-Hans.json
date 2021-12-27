@@ -590,7 +590,7 @@
 	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
 }, {
 	"name": "NoodleExtensions",
-	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt. ",
+	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt.",
 	"newname": "面条扩展 | NoodleExtensions",
 	"newdescription": "这个Mod能让你看到谱师在谱面中放置的各种炫酷的特殊元素。如遇问题请反馈给Reaxt。"
 }, {
@@ -1098,4 +1098,9 @@
 	"description": "Simple mod, that allows you to change HUD font.",
 	"newname": "更换字体 | FontChanger",
 	"newdescription": "很简单的Mod，可以更改HUD字体。"
+}, {
+	"name": "SearchByCharacters",
+	"description": "A different map searching approach for beat saber.\r\n\r\n-Convert special characters to allow maps containing them to be researched.\r\n-Allow to search incomplete Map Name or Artist.\r\n-And more (see Github).",
+	"newname": "按字符搜索 | SearchByCharacters",
+	"newdescription": "为BeatSaber提供了一种不同的搜索方法。\r\n\r\n-转换特殊字符使包含它们的谱面可以被搜到；\r\n-可以搜索不完整的谱面或作者名称；\r\n-以及更多功能（详见GitHub）。"
 }]
