@@ -71,7 +71,7 @@
 }, {
 	"name": "MappingExtensions",
 	"description": "This adds some additional things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
-	"newname": "映射扩展 | MappingExtensions",
+	"newname": "谱面扩展 | MappingExtensions",
 	"newdescription": "为游戏添加诸如多轨等功能支持，使其可以游玩这类特殊谱面。查看Mod信息以获取详情。"
 }, {
 	"name": "Ini Parser",
@@ -587,7 +587,7 @@
 	"name": "Noodle Extensions",
 	"description": "A spiritual successor to Mapping Extensions, this allows mappers to precisely control aspects of map elements. Does not allow you to play Mapping Extensions maps!",
 	"newname": "面条扩展 | Noodle Extensions",
-	"newdescription": "类似映射扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替映射扩展。"
+	"newdescription": "类似谱面扩展，它能让作者精确控制谱面各种元素的各个方面，使其可以实现惊艳的效果。此Mod不能代替谱面扩展。"
 }, {
 	"name": "NoodleExtensions",
 	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt.",
