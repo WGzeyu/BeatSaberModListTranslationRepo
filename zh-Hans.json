@@ -215,9 +215,9 @@
 	"newdescription": "此Mod可以从当前的光剑列表中随机选择光剑，以及设置要启用/禁用特定的光剑。"
 }, {
 	"name": "Custom Avatars",
-	"description": "Allows the use of custom player models for body presence.",
+	"description": "Allows the use of custom player avatars for in-game body presence.",
 	"newname": "自定义人物 | Custom Avatars",
-	"newdescription": "在BeatSaber中使用自定义人物模型的插件。"
+	"newdescription": "在BeatSaber游戏中使用自定义人物模型的插件。"
 }, {
 	"name": "Custom Sabers",
 	"description": "A plugin for custom Beat Sabers.",
