@@ -510,7 +510,7 @@
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
 	"name": "Custom Walls",
-	"description": "A plugin for custom walls in Beat Saber\n",
+	"description": "A plugin for custom walls in Beat Saber",
 	"newname": "自定义墙壁 | Custom Walls",
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
@@ -960,9 +960,9 @@
 	"newdescription": "将游戏内所有文本替换为Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute"
 }, {
 	"name": "MorePlaylists",
-	"description": "Download playlists from BeastSaber and HitBloq ingame!",
+	"description": "Download playlists from BeatSaver, BeastSaber, Hitbloq and AccSaber ingame!",
 	"newname": "歌单下载器 | MorePlaylists",
-	"newdescription": "在游戏内从BEASTSABER与HitBloq下载歌单！（.bplist格式歌曲列表）"
+	"newdescription": "在游戏内从BeatSaver、BEASTSABER、HitBloq、AccSaber下载歌单！（.bplist格式歌曲列表）"
 }, {
 	"name": "EnvironmentMinifier",
 	"description": "Minifies the environment chroma style.",
