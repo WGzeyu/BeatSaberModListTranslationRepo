@@ -100,9 +100,9 @@
 	"newdescription": "打开NoFail会显示到PLAY按钮中，需要双击才能开始，以防忘记关闭NoFail。"
 }, {
 	"name": "YUR Fit Calorie Tracker",
-	"description": "Track YUR calories while playing Beat Saber! Check us out on Steam, SideQuest, Google Play and the iOS App Store!",
+	"description": "Track YUR calories while playing Beat Saber!",
 	"newname": "卡路里追踪器 | YUR Fit Calorie Tracker",
-	"newdescription": "在玩Beat Saber时跟踪卡路里（需登录账号）！可在Steam/SideQuest/GooglePlay/iOSAPPStore上搜索我们。"
+	"newdescription": "在玩Beat Saber时跟踪卡路里（需登录账号）！"
 }, {
 	"name": "TransparentWall",
 	"description": "Enable transparent walls in VR, or disable them in LIV! (No... It does not affect CameraPlus)",
@@ -162,7 +162,7 @@
 	"name": "SaberTailor",
 	"description": "Tweak things about your sabers, including grip position/angle, trail appearance and saber length/width. Created by Ruu. Additional contributions by Pespiri.",
 	"newname": "光剑调整 | SaberTailor",
-	"newdescription": "用于调整光剑的位置、角度、长度、宽度。由Ruu创建，Pespiri做出额外贡献。"
+	"newdescription": "用于调整光剑的位置、角度、长度、宽度。这不是用来更换光剑模型的Mod，[光剑工坊|SaberFactory]才能更换光剑模型！由Ruu创建，Pespiri做出额外贡献。"
 }, {
 	"name": "NoteSpawnEffectRemover",
 	"description": "Removes the note spawn effect (the bright light cone) of notes and bombs.",
@@ -965,7 +965,7 @@
 	"newdescription": "在游戏内从BeatSaver、BEASTSABER、HitBloq、AccSaber下载歌单！（.bplist格式歌曲列表）"
 }, {
 	"name": "EnvironmentMinifier",
-	"description": "Minifies the environment chroma style.",
+	"description": "Minifies the environment chroma style",
 	"newname": "环境禁用器 | EnvironmentMinifier",
 	"newdescription": "通过类似Chroma的方式来移除游戏内的环境组件。"
 }, {
@@ -1080,9 +1080,9 @@
 	"newdescription": "用C++为Chroma编写的单一方法，因为mono中的regex慢得离谱。另外，Beatmods也很烂。"
 }, {
 	"name": "EasyOffset",
-	"description": "Intuitive controller offset adjustment tool. Includes swing benchmark for config and grip analysis. Not compatible with SaberTailor",
+	"description": "Intuitive controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
 	"newname": "易调节 | EasyOffset",
-	"newdescription": "直观的手柄位置偏移调整工具，还支持挥动评分与握法分析。与该Mod不兼容：[光剑调整|SaberTailor]"
+	"newdescription": "直观的手柄位置偏移调整工具，还支持挥动评分与握法分析。"
 }, {
 	"name": "SliceDetails",
 	"description": "A tool that shows your average cut angle and offset per note position/angle to help perfect your accuracy.",
