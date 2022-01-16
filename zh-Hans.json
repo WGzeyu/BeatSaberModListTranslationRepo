@@ -1103,4 +1103,19 @@
 	"description": "A different map searching approach for beat saber.\r\n\r\n-Convert special characters to allow maps containing them to be researched.\r\n-Allow to search incomplete Map Name or Artist.\r\n-And more (see Github).",
 	"newname": "按字符搜索 | SearchByCharacters",
 	"newdescription": "为BeatSaber提供了一种不同的搜索方法。\r\n\r\n-转换特殊字符使包含它们的谱面可以被搜到；\r\n-可以搜索不完整的谱面或作者名称；\r\n-以及更多功能（详见GitHub）。"
+}, {
+	"name": "Hitbloq",
+	"description": "A competitive service that allows you to compete on leaderboards from a variety of user-created map pools.",
+	"newname": "打方块 | Hitbloq",
+	"newdescription": "排名竞争服务，让你可以在由用户创建的地图池排行榜上竞争。"
+}, {
+	"name": "OcuFix",
+	"description": "Automatically disable ASW and change services/runtime priority ",
+	"newname": "oc修复 | OcuFix",
+	"newdescription": "自动禁用ASW并调整服务优先级。（ASW会在帧率不足时主动降为一半帧率渲染再插帧回原帧率）"
+}, {
+	"name": "LeaderboardCore",
+	"description": "A utility for custom leaderboards that rely on ScoreSaber.",
+	"newname": "LeaderboardCore",
+	"newdescription": "通过ScoreSaber实现的自定义排行榜支持库。"
 }]
