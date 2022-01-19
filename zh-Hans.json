@@ -1118,4 +1118,14 @@
 	"description": "A utility for custom leaderboards that rely on ScoreSaber.",
 	"newname": "LeaderboardCore",
 	"newdescription": "通过ScoreSaber实现的自定义排行榜支持库。"
+}, {
+	"name": "SmoothCamPlus",
+	"description": "Extra options to configure Beat Saber's Smooth Camera even more, no Cam2 required.",
+	"newname": "顺滑相机 | SmoothCamPlus",
+	"newdescription": "为BeatSaber的顺滑相机提供了更多配置项来让相机更加平滑，无需安装[相机v2|Camera2]。（译者注：其实我个人更推荐使用相机v2，而不是这个。）"
+}, {
+	"name": "SoundReplacer",
+	"description": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.",
+	"newname": "声音替换器 | SoundReplacer",
+	"newdescription": "让你可以更改游戏内的各种声音，例如击打音效、菜单背景音乐、点击声音等。"
 }]
