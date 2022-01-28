@@ -725,14 +725,14 @@
 	"newdescription": "一个很小的Mod，可以在漏击音符时隐藏Miss提示文本，从而隐藏自己的真实水平。"
 }, {
 	"name": "DiscordCore",
-	"description": "A utility mod for easily doing Discord management and handling priority between rich presence systems.",
+	"description": "A plugin for Discord integration in Beat Saber",
 	"newname": "DiscordCore",
-	"newdescription": "一个可以轻松处理Discord的工具，还可以处理游戏状态系统之间的优先级。"
+	"newdescription": "用于将Discord集成到BeatSaber的插件"
 }, {
 	"name": "BeatSaberPresence",
-	"description": "Gives you Discord Rich Presence for Beat Saber",
+	"description": "Discord Rich Presence for Beat Saber",
 	"newname": "BS游戏状态 | BeatSaberPresence",
-	"newdescription": "为你提供了Beat Saber的Discord游戏状态。"
+	"newdescription": "Beat Saber的Discord游戏状态。"
 }, {
 	"name": "DiColors",
 	"description": "Allows you to change the colors various in the menu including the menu lights and menu sign!",
@@ -976,7 +976,7 @@
 }, {
 	"name": "JDFixer",
 	"description": "Change Jump Distance and Reaction Time, including automation through preferences and thresholds",
-	"newname": "跳跃距离修复 | JDFixer",
+	"newname": "出生距离调整 | JDFixer",
 	"newdescription": "修改出生距离与反应时间，还能通过阈值设置实现自动化修改。"
 }, {
 	"name": "ControllerTweaks",
@@ -1128,4 +1128,9 @@
 	"description": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.",
 	"newname": "声音替换器 | SoundReplacer",
 	"newdescription": "让你可以更改游戏内的各种声音，例如击打音效、菜单背景音乐、点击声音等。"
+}, {
+	"name": "FCPercentage",
+	"description": "Show your accuracy as a percentage without drops from misses or a lowered combo multiplier. Optional Counters+ custom counter available.",
+	"newname": "全连成绩 | FCPercentage",
+	"newdescription": "显示你在无失误情况下的准度百分比。可选[计数器+|Counters+]自定义计数器。"
 }]
