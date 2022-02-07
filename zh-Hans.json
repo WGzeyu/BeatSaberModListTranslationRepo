@@ -1030,9 +1030,9 @@
 	"newdescription": "在暂停界面中显示最后挥砍的音符方向与角度。"
 }, {
 	"name": "BetterSongSearch",
-	"description": "Search and download songs with a lot of filtering and sorting options and without frustration!",
+	"description": "Search and download songs with a lot of filtering and sorting options and without frustration! Also allows you to create Playlists!",
 	"newname": "更好的歌曲搜索 | BetterSongSearch",
-	"newdescription": "使用大量的过滤和排序选项搜索和下载歌曲，不会沮丧！"
+	"newdescription": "使用大量的过滤和排序选项搜索和下载歌曲，不会沮丧！还可以创建歌单！"
 }, {
 	"name": "BetterSongList",
 	"description": "Adds various improvements to the Basegame song list like Filters, a persisted state and much more",
