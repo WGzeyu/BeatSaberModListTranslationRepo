@@ -645,7 +645,7 @@
 	"newdescription": "让您可以轻松查看当前选中歌曲在BeatSaver中的数据。"
 }, {
 	"name": "SiraUtil",
-	"description": "A powerful utility mod which expands the capabilities and provides more tools to Beat Saber modders. ",
+	"description": "A powerful utility mod which expands the capabilities and provides more tools to Beat Saber modders.",
 	"newname": "SiraUtil",
 	"newdescription": "一个强大的基础Mod，扩展了功能，为Mod开发者提供了更多工具。"
 }, {
@@ -1133,4 +1133,9 @@
 	"description": "Show your accuracy as a percentage without drops from misses or a lowered combo multiplier. Optional Counters+ custom counter available.",
 	"newname": "全连成绩 | FCPercentage",
 	"newdescription": "显示你在无失误情况下的准度百分比。可选[计数器+|Counters+]自定义计数器。"
+}, {
+	"name": "Arcgap",
+	"description": "Fixes game softlock / crash on 1.20.0",
+	"newname": "修复 | Arcgap",
+	"newdescription": "修复1.20.0的游戏崩溃、卡死问题"
 }]
