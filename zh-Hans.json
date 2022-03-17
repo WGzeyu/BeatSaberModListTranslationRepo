@@ -185,9 +185,9 @@
 	"newdescription": "歌曲排序/筛选/搜索插件。支持各种排序方式和过滤条件，例如难度、PP、热门、时间、标题、作者、游玩次数、是否rank、收藏等，并将PP和其他统计信息添加到面板。信息来自BeatSaver和ScoreSaber。"
 }, {
 	"name": "Counters+",
-	"description": "A UI Enhancement mod that spruces up your Beat Saber HUD with more statistics to display.",
+	"description": "A suite of enhancements for Beat Saber's UI",
 	"newname": "计数器+ | Counters+",
-	"newdescription": "一个界面增强模块，可为游戏HUD添加更多数据信息。"
+	"newdescription": "Beat Saber的界面增强套件，可以增加各种数据实时显示在游戏过程中。"
 }, {
 	"name": "BS-RefreshButtons",
 	"description": "Adds refresh buttons in the mods panel in game, to refresh your custom songs.",
