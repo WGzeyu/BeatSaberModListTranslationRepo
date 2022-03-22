@@ -1138,4 +1138,14 @@
 	"description": "Fixes game softlock / crash on 1.20.0",
 	"newname": "修复 | Arcgap",
 	"newdescription": "修复1.20.0的游戏崩溃、卡死问题"
+}, {
+	"name": "DrinkWater",
+	"description": "Beat Saber mod to remind you of the importance of hydration",
+	"newname": "喝水 | DrinkWater",
+	"newdescription": "用于提醒您补充水分的Mod"
+}, {
+	"name": "MenuSaberColors",
+	"description": "Allows for your menu pointers to be the same color as your in-game sabers! ",
+	"newname": "菜单光剑颜色 | MenuSaberColors",
+	"newdescription": "让你在光剑菜单时的手柄光标颜色与游戏内的光剑颜色相同！"
 }]
