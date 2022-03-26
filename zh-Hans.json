@@ -105,9 +105,9 @@
 	"newdescription": "在玩Beat Saber时跟踪卡路里（需登录账号）！"
 }, {
 	"name": "TransparentWall",
-	"description": "Enable transparent walls in VR, or disable them in LIV! (No... It does not affect CameraPlus)",
+	"description": "Enable transparent walls in VR, or disable them in LIV.\r\n",
 	"newname": "透明墙壁 | TransparentWall",
-	"newdescription": "为VR视角启用，或为LIV视角禁用透明墙壁！（不会影响到相机增强）"
+	"newdescription": "为VR视角启用，或为LIV视角禁用透明墙壁！"
 }, {
 	"name": "PerfectionDisplay",
 	"description": "Adds more info to the results screen and during gameplay if enabled. Will use HitScoreVisualizer config if you have the plugin and integration is enabled.",
@@ -510,7 +510,7 @@
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
 	"name": "Custom Walls",
-	"description": "A plugin for custom walls in Beat Saber",
+	"description": "A plugin for custom walls in Beat Saber\r\n",
 	"newname": "自定义墙壁 | Custom Walls",
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
@@ -630,9 +630,9 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com",
+	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com . Make sure to login to create your profile!",
 	"newname": "游戏记录 | BeatFollower",
-	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展、个人资料可在 https://www.beatfollower.com 查看。"
+	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展、个人资料可在 https://www.beatfollower.com 查看，请确保先登录以创建个人资料。"
 }, {
 	"name": "FastFail",
 	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
@@ -995,9 +995,9 @@
 	"newdescription": "Aeroluna的Mod所使用的支持库。"
 }, {
 	"name": "UITweaks",
-	"description": "Customize the in-level HUD to your liking!",
+	"description": "Add some color to your in-game HUD!",
 	"newname": "界面调整 | UITweaks",
-	"newdescription": "按你自己的喜好调整游戏时的HUD信息显示！"
+	"newdescription": "给游戏内的HUD加点颜色！"
 }, {
 	"name": "Burnout",
 	"description": "A Beat Saber plugin for customizing saber burn marks.",
@@ -1148,4 +1148,19 @@
 	"description": "Allows for your menu pointers to be the same color as your in-game sabers! ",
 	"newname": "菜单光剑颜色 | MenuSaberColors",
 	"newdescription": "让你在光剑菜单时的手柄光标颜色与游戏内的光剑颜色相同！"
+}, {
+	"name": "PiFix",
+	"description": "A simple fix needed to play beatsaber on a Pimax headset without having double vision. Or needing Parallel Projections. PiFix corrects the double vision error shown on Pimax and Xtal headsets in game",
+	"newname": "小派修复 | PiFix",
+	"newdescription": "一个简单的修复工具，使用小派玩节奏光剑时不再会出现双重视野或需要平行投影。PiFix修复了小派和Xtal头显在游戏中的双重视野错误。"
+}, {
+	"name": "BeatSaverUpdater",
+	"description": "Alerts you of updates to beatmaps on BeatSaver and updates them to the latest version.",
+	"newname": "歌曲更新 | BeatSaverUpdater",
+	"newdescription": "可以提示你将谱面通过BeatSaver更新至最新版。"
+}, {
+	"name": "Greetings",
+	"description": "Beat Saber mod for playing a video on the game's start up",
+	"newname": "问好 | Greetings",
+	"newdescription": "用于在游戏启动时播放一段视频的Mod"
 }]
