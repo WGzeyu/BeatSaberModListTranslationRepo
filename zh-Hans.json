@@ -1163,4 +1163,24 @@
 	"description": "Beat Saber mod for playing a video on the game's start up",
 	"newname": "问好 | Greetings",
 	"newdescription": "用于在游戏启动时播放一段视频的Mod"
+}, {
+	"name": "bHaptics",
+	"description": "A library to interface with the bHaptics Player and play back haptic feedback patterns in the supported gear.",
+	"newname": "bHaptics",
+	"newdescription": "与bHaptics播放器交互并在支持的设备中播放触觉反馈模式的库。"
+}, {
+	"name": "bHapticsFunctional",
+	"description": "This mod adds haptic feedback in the bhaptics gear for slicing or missing blocks, exploding bombs, and hitting obstacles.",
+	"newname": "触感功能 | bHapticsFunctional",
+	"newdescription": "这个Mod为bhaptics设备添加了触觉反馈支持，用于在正确或错误切割方块、炸弹爆炸和撞击障碍物时提供触觉反馈。"
+}, {
+	"name": "bHapticsMusical",
+	"description": "This mod adds some haptics feedback on musical cues in the bhaptics gear.",
+	"newname": "触感音乐 | bHapticsMusical",
+	"newdescription": "这个Mod为bhaptics设备添加了一些关于音乐提示的触觉反馈。"
+}, {
+	"name": "ImageSharp",
+	"description": "A modern, cross-platform, 2D Graphics library for .NET",
+	"newname": "ImageSharp",
+	"newdescription": "一个现代的、跨平台的.NET 2D图形库"
 }]
