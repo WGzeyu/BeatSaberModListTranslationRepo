@@ -50,9 +50,9 @@
 	"newdescription": "调整方块碎片，使其尽量不遮挡视野，并落在砍中方块的方向上。"
 }, {
 	"name": "Custom Notes",
-	"description": "Adds support for custom notes in beat saber. Major contributions by Kyle1413 and Pespiri.",
+	"description": "Adds support for custom notes in beat saber. Major contributions by Kyle1413, Pespiri, Auros, and PixelBoom.",
 	"newname": "自定义方块 | Custom Notes",
-	"newdescription": "用于在BeatSaber中自定义方块的插件。主要贡献者：Kyle1413、Pespiri。"
+	"newdescription": "用于在BeatSaber中自定义方块的插件。主要贡献者：Kyle1413、Pespiri、Auros、PixelBoom。"
 }, {
 	"name": "Custom Campaigns",
 	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
@@ -250,7 +250,7 @@
 	"newdescription": "每次错过note时将随机显示信息。因为，人们喜欢这些。"
 }, {
 	"name": "Custom Platforms",
-	"description": "A BSIPA Plugin for Beat Saber that adds support for custom environments (platforms)",
+	"description": "A plugin to support custom platforms and environments",
 	"newname": "自定义场景 | Custom Platforms",
 	"newdescription": "用于支持自定义平台和环境的BeatSaber插件。"
 }, {
@@ -630,9 +630,9 @@
 	"newdescription": "在每首歌曲开始时悄悄暂停游戏，以等待潜在的卡顿结束。"
 }, {
 	"name": "BeatFollower",
-	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com . Make sure to login to create your profile!",
+	"description": "Share song plays, maps and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com . Make sure to login to create your profile!",
 	"newname": "游戏记录 | BeatFollower",
-	"newdescription": "将游玩记录与推荐分享至你的视频/直播中。Twitch扩展、个人资料可在 https://www.beatfollower.com 查看，请确保先登录以创建个人资料。"
+	"newdescription": "将游玩记录、谱面与推荐分享至你的视频/直播中。Twitch扩展、个人资料可在 https://www.beatfollower.com 查看，请确保先登录以创建个人资料。"
 }, {
 	"name": "FastFail",
 	"description": "Shortens the \"Level Failed\" animation by ~2 seconds. Optionally lets you skip the animation via button press instead of automatically.",
@@ -670,9 +670,9 @@
 	"newdescription": "ChatCore是一个.NET标准库，它允许开发人员在多个聊天服务中轻松实现丰富的聊天体验。（安装后将在启动时弹出设置页面）"
 }, {
 	"name": "DynamicOpenVR",
-	"description": "Collection of Unity scripts that allow dynamic creation of OpenVR actions at runtime. Does nothing on its own.",
+	"description": "Collection of Unity scripts that allow dynamic creation of OpenVR actions at runtime.",
 	"newname": "DynamicOpenVR",
-	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本合集，单独使用时不会有任何效果。"
+	"newdescription": "在运行时动态创建OpenVR动作的Unity脚本合集。"
 }, {
 	"name": "DiscordIntegration ",
 	"description": "Allows Beat Saber to display current beatmap information on your Discord profile. Comes with multiple customization options and support for many languages.",
@@ -690,7 +690,7 @@
 	"newdescription": "此插件可以根据您的等级或设置来生成排位曲歌单，完全与游戏集成，可自动下载歌曲。"
 }, {
 	"name": "Technicolor",
-	"description": "Rainbow? Technicolor is where it's at! Technicolor lets you add rainbow colors to your lights, notes, walls, sabers, and even bombs.",
+	"description": "Rainbow? To heck with rainbows! Technicolor is where it's at! Technicolor lets you add rainbow colors to your lights, notes, walls, sabers, and even bombs.",
 	"newname": "彩色 | Technicolor",
 	"newdescription": "彩虹？彩色才是最好用的！它让你可以为灯光、方块、墙、光剑甚至炸弹添加彩虹色彩。"
 }, {
@@ -1065,9 +1065,9 @@
 	"newdescription": "让你可以自定义你的静态灯光！你可以选择你想要的颜色以及环境颜色。"
 }, {
 	"name": "PlayFirst(SubmitLater)",
-	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, or disable all scores.",
+	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, based on song duration, or disable all scores.",
 	"newname": "先试试 | PlayFirst",
-	"newdescription": "可以在暂停菜单或结算页面中选择是否提交分数，或者禁用所有分数提交，以防止上传失败的NF成绩。"
+	"newdescription": "可以在暂停菜单或结算页面中选择是否提交分数，或者禁用所有分数提交，或者根据歌曲长度判断，以防止上传失败的NF成绩。"
 }, {
 	"name": "Link",
 	"description": "Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat. ",
@@ -1145,7 +1145,7 @@
 	"newdescription": "用于提醒您补充水分的Mod"
 }, {
 	"name": "MenuSaberColors",
-	"description": "Allows for your menu pointers to be the same color as your in-game sabers! ",
+	"description": "Allows your menu pointers to be the same colors as your in-game sabers.",
 	"newname": "菜单光剑颜色 | MenuSaberColors",
 	"newdescription": "让你在光剑菜单时的手柄光标颜色与游戏内的光剑颜色相同！"
 }, {
