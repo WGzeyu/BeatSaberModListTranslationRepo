@@ -105,7 +105,7 @@
 	"newdescription": "在玩Beat Saber时跟踪卡路里（需登录账号）！"
 }, {
 	"name": "TransparentWall",
-	"description": "Enable transparent walls in VR, or disable them in LIV.\r\n",
+	"description": "Enable transparent walls in VR, or disable them in LIV.",
 	"newname": "透明墙壁 | TransparentWall",
 	"newdescription": "为VR视角启用，或为LIV视角禁用透明墙壁！"
 }, {
@@ -510,7 +510,7 @@
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
 	"name": "Custom Walls",
-	"description": "A plugin for custom walls in Beat Saber\r\n",
+	"description": "A plugin for custom walls in Beat Saber",
 	"newname": "自定义墙壁 | Custom Walls",
 	"newdescription": "用于在BeatSaber中自定义墙壁的插件。"
 }, {
@@ -960,9 +960,9 @@
 	"newdescription": "将游戏内所有文本替换为Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute Pink Cute"
 }, {
 	"name": "MorePlaylists",
-	"description": "Download playlists from BeatSaver, BeastSaber, Hitbloq and AccSaber ingame!",
+	"description": "Download playlists from BeatSaver, Hitbloq and AccSaber ingame!",
 	"newname": "歌单下载器 | MorePlaylists",
-	"newdescription": "在游戏内从BeatSaver、BEASTSABER、HitBloq、AccSaber下载歌单！（.bplist格式歌曲列表）"
+	"newdescription": "在游戏内从BeatSaver、HitBloq、AccSaber下载歌单！（.bplist格式歌曲列表）"
 }, {
 	"name": "EnvironmentMinifier",
 	"description": "Minifies the environment chroma style",
@@ -1183,4 +1183,14 @@
 	"description": "A modern, cross-platform, 2D Graphics library for .NET",
 	"newname": "ImageSharp",
 	"newdescription": "一个现代的、跨平台的.NET 2D图形库"
+}, {
+	"name": "AdBlocker",
+	"description": "This mod simply removes the promo tile from the main menu",
+	"newname": "广告屏蔽 | AdBlocker",
+	"newdescription": "这个Mod只是移除了主菜单中的促销内容"
+}, {
+	"name": "BetterSort.LastPlayed",
+	"description": "Add last played date sort to BetterSongList.",
+	"newname": "排序→最后游玩 | BetterSort.LastPlayed",
+	"newdescription": "为[更好的歌曲列表|BetterSongList]添加最后游玩日期排序项。"
 }]
