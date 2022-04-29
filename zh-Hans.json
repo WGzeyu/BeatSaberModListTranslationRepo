@@ -877,7 +877,7 @@
 	"name": "PlaylistManager",
 	"description": "Playlist loading and organization mod for Beat Saber. Click \"Mod Info\" for a guide on how to use the mod.",
 	"newname": "歌单管理器 | PlaylistManager",
-	"newdescription": "读取与管理.bplist格式歌曲列表的Mod。（虽然与歌曲路径管理器无关，但仍建议安装，可解决显示数量限制）"
+	"newdescription": "读取与管理.bplist格式歌曲列表的Mod。"
 }, {
 	"name": "Camera2",
 	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
