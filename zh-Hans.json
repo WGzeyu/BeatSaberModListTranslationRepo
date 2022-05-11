@@ -1060,9 +1060,9 @@
 	"newdescription": "youtube-dl（YouTube视频下载）的分支，添加了一些功能并进行了一些修复。"
 }, {
 	"name": "BetterStaticLights",
-	"description": "Allows you to customize your lights when using Static Lights! You get to pick and choose which ones you want on and which environment color they use.",
+	"description": "Choose which lights you want active when using 'Static Lights'!",
 	"newname": "更好的静态灯光 | BetterStaticLights",
-	"newdescription": "让你可以自定义你的静态灯光！你可以选择你想要的颜色以及环境颜色。"
+	"newdescription": "选择使用“静态灯光”时想要激活的灯！"
 }, {
 	"name": "PlayFirst(SubmitLater)",
 	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, based on song duration, or disable all scores.",
@@ -1135,9 +1135,9 @@
 	"newdescription": "显示你在无失误情况下的准度百分比。可选[计数器+|Counters+]自定义计数器。"
 }, {
 	"name": "Arcgap",
-	"description": "Fixes game softlock / crash on 1.20.0 & 1.21.0",
+	"description": "Fixes game softlock / crash on 1.20+",
 	"newname": "修复 | Arcgap",
-	"newdescription": "修复1.20.0和1.21.0的游戏崩溃、卡死问题"
+	"newdescription": "修复1.20+的游戏崩溃、卡死问题"
 }, {
 	"name": "DrinkWater",
 	"description": "Beat Saber mod to remind you of the importance of hydration",
