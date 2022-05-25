@@ -1206,6 +1206,6 @@
 }, {
 	"name": "OverrideEnvironmentFix",
 	"description": "A mod that will override environments by default again since Beat Games took that away.",
-	"newname": "修复覆盖默认环境 | OverrideEnvironment",
+	"newname": "修复覆盖环境 | OverrideEnvironmentFix",
 	"newdescription": "可以覆盖默认环境的Mod，自从游戏官方移除后再次实现了该功能。"
 }]
