@@ -1193,4 +1193,19 @@
 	"description": "Add last played date sort to BetterSongList.",
 	"newname": "排序→最后游玩 | BetterSort.LastPlayed",
 	"newdescription": "为[更好的歌曲列表|BetterSongList]添加最后游玩日期排序项。"
+}, {
+	"name": "CatCore",
+	"description": "CatCore is a high-performance .NET Standard 2.0 library which provides a shared connection to mods for Twitch (and other future streaming platforms).",
+	"newname": "CatCore",
+	"newdescription": "CatCore 是一个高性能的.NET Standard 2.0库，它为Twitch(和其他未来的流媒体平台)提供到mod的共享连接。"
+}, {
+	"name": "MultiCode-inator",
+	"description": "Beat Saber mod that adds a !multicode command to your stream which posts the current multiplayer lobby code into your chat",
+	"newname": "联机房间号 | MultiCode-inator",
+	"newdescription": "可将!multicode命令添加至你的直播，在聊天中发送该命令将自动显示当前联机房间号。"
+}, {
+	"name": "OverrideEnvironmentFix",
+	"description": "A mod that will override environments by default again since Beat Games took that away.",
+	"newname": "修复覆盖默认环境 | OverrideEnvironmentFix",
+	"newdescription": "可以覆盖默认环境的Mod，自从游戏官方移除后再次实现了该功能。"
 }]
