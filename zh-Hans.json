@@ -120,9 +120,9 @@
 	"newdescription": "在分数展示页面和游戏中（如果启用）显示分数详情。若已安装击打分数上色将会使用其配置。"
 }, {
 	"name": "PracticePlugin",
-	"description": "Plugin for Beat Saber to adjust song parameters, seek through songs and set up looping sections.",
+	"description": "Plugin for Beat Saber to control playback speed",
 	"newname": "练习插件 | PracticePlugin",
-	"newdescription": "调节歌曲参数的插件，可设置播放位置及循环部分。"
+	"newdescription": "用于控制播放速度的BeatSaber插件"
 }, {
 	"name": "HTTP Status",
 	"description": "Create stream overlays or track your performance using third party programs. This plugin exposes live information about the current game status allowing other programs to visualize it in unique ways.",
@@ -1208,4 +1208,14 @@
 	"description": "A mod that will override environments by default again since Beat Games took that away.",
 	"newname": "修复覆盖环境 | OverrideEnvironmentFix",
 	"newdescription": "可以覆盖默认环境的Mod，自从游戏官方移除后再次实现了该功能。"
+}, {
+	"name": "MenuPillars",
+	"description": "Beat Saber mod that brings back the pillars from the 1.13.2 menu environment and adds customisable lights to them",
+	"newname": "菜单支柱 | MenuPillars",
+	"newdescription": "将1.13.2的菜单环境中的支柱带回来，并可以为其自定义灯光的Mod。"
+}, {
+	"name": "HitsoundTweaks",
+	"description": "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.",
+	"newname": "击打音效调整 | HitsoundTweaks",
+	"newdescription": "为击打音效添加更多的配置项，并修复了原版游戏的几个bug，使其更加可靠与一致。"
 }]
