@@ -717,7 +717,7 @@
 	"name": "ServerBrowser",
 	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
 	"newname": "房间列表 | ServerBrowser",
-	"newdescription": "为联机模式添加房间列表，可以更方便地分享或寻找联机房间。"
+	"newdescription": "为联机模式添加房间列表，更方便地分享或寻找房间。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
 }, {
 	"name": "NoMissText",
 	"description": "Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.",
@@ -785,9 +785,9 @@
 	"newdescription": "对于没有有效旋转事件的谱面禁用360°模式HUD界面。"
 }, {
 	"name": "BeatTogether",
-	"description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest. Requires MultiplayerExtensions for custom song support.",
+	"description": "A multiplayer private server for the modding community with support for crossplay between PC and Quest.",
 	"newname": "跨平台联机 | BeatTogether",
-	"newdescription": "由社区提供的联机服务器，支持跨平台联机。【需要同时安装[联机扩展|MultiplayerExtensions]】"
+	"newdescription": "由社区提供的联机服务器，支持PC与Quest的跨平台联机。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
 }, {
 	"name": "Cinema",
 	"description": "Add music videos to the background of your maps",
@@ -1145,9 +1145,9 @@
 	"newdescription": "用于提醒您补充水分的Mod"
 }, {
 	"name": "MenuSaberColors",
-	"description": "Allows your menu pointers to be the same colors as your in-game sabers.",
+	"description": "Allows your menu pointers to be the same colors as your current color scheme!",
 	"newname": "菜单光剑颜色 | MenuSaberColors",
-	"newdescription": "让你在光剑菜单时的手柄光标颜色与游戏内的光剑颜色相同！"
+	"newdescription": "让你在光剑菜单时的手柄光标颜色与当前配色方案相同！"
 }, {
 	"name": "PiFix",
 	"description": "A simple fix needed to play beatsaber on a Pimax headset without having double vision. Or needing Parallel Projections. PiFix corrects the double vision error shown on Pimax and Xtal headsets in game",
@@ -1218,4 +1218,9 @@
 	"description": "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.",
 	"newname": "击打音效调整 | HitsoundTweaks",
 	"newdescription": "为击打音效添加更多的配置项，并修复了原版游戏的几个bug，使其更加可靠与一致。"
+}, {
+	"name": "MultiplayerCore",
+	"description": "A Beat Saber mod that implements core custom multiplayer functionality. ",
+	"newname": "联机核心 | MultiplayerCore",
+	"newdescription": "实现了自定义联机核心功能的Mod。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
 }]
