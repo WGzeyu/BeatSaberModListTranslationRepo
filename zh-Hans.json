@@ -742,7 +742,7 @@
 	"name": "DataPuller",
 	"description": "Gathers data about the current map you are playing to then be sent out over a websocket for other software to use, e.g. A web overlay like BSDP-Overlay. This mod works with multi PC setups!",
 	"newname": "拉取数据 | DataPuller",
-	"newdescription": "将游戏数据（例如PP，歌曲ID，生命值等等）通过WebSocket提供给如BSDP-Overlay或其他组件来让其显示在直播或录像画面中。"
+	"newdescription": "将游戏数据（例如PP，歌曲ID，能量槽等等）通过WebSocket提供给如BSDP-Overlay或其他组件来让其显示在直播或录像画面中。"
 }, {
 	"name": "websocket-sharp",
 	"description": "A C# implementation of the WebSocket protocol client and server",
