@@ -1223,4 +1223,14 @@
 	"description": "A Beat Saber mod that implements core custom multiplayer functionality. ",
 	"newname": "联机核心 | MultiplayerCore",
 	"newdescription": "实现了自定义联机核心功能的Mod。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
+}, {
+	"name": "SmartSongSuggest",
+	"description": "Can make and update a playlist with ranked song suggestions, based on played and liked songs. Option to ban songs temporary or permanent. Can also make a playlist based on oldest ranked scores.",
+	"newname": "智能歌曲推荐 | SmartSongSuggest",
+	"newdescription": "可以根据游戏记录以及喜欢的歌曲来生成或更新推荐的排位曲歌单(playlist)。可以选择暂时或永久排除某首歌曲。还可以根据最旧的排位分数来生成歌单。"
+}, {
+	"name": "HighlightBombs",
+	"description": "Adds a slight outline to bombs to make them more visible in the dark.",
+	"newname": "高亮炸弹 | HighlightBombs",
+	"newdescription": "为炸弹添加轻微的轮廓，以增加在黑暗场景中的对比度。"
 }]
