@@ -1242,5 +1242,5 @@
 	"name": "LeaderboardCore",
 	"description": "A library for alternative leaderboards.",
 	"newname": "LeaderboardCore",
-	"newdescription": "选择性排行榜的支持库。"
+	"newdescription": "另一个排行榜的支持库。"
 }]
