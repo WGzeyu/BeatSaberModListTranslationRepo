@@ -1202,7 +1202,7 @@
 	"name": "MultiCode-inator",
 	"description": "Beat Saber mod that adds a !multicode command to your stream which posts the current multiplayer lobby code into your chat",
 	"newname": "联机房间号 | MultiCode-inator",
-	"newdescription": "可将!multicode命令添加至你的直播，在聊天中发送该命令将自动显示当前联机房间号。"
+	"newdescription": "可以为你的直播添加 !mc 命令，发送即可获取当前联机房间号"
 }, {
 	"name": "OverrideEnvironmentFix",
 	"description": "A mod that will override environments by default again since Beat Games took that away.",
@@ -1233,4 +1233,14 @@
 	"description": "Adds a slight outline to bombs to make them more visible in the dark.",
 	"newname": "高亮炸弹 | HighlightBombs",
 	"newdescription": "为炸弹添加轻微的轮廓，以增加在黑暗场景中的对比度。"
+}, {
+	"name": "BeatLeader",
+	"description": "An open-source leaderboard. With clans, map rank voting, detailed score statistic, and a web replay viewer.",
+	"newname": "排行榜 | BeatLeader",
+	"newdescription": "开源排行榜。支持clans、谱面排名投票、分数详情统计和基于网页的回放播放器。"
+}, {
+	"name": "LeaderboardCore",
+	"description": "A library for alternative leaderboards.",
+	"newname": "LeaderboardCore",
+	"newdescription": "另一个排行榜的支持库。"
 }]
