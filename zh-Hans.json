@@ -1237,10 +1237,10 @@
 	"name": "BeatLeader",
 	"description": "An open-source leaderboard. With clans, map rank voting, detailed score statistic, and a web replay viewer.",
 	"newname": "排行榜 | BeatLeader",
-	"newdescription": "开源排行榜。支持clans、谱面排名投票、分数详情统计和基于网页的回放播放器。"
+	"newdescription": "开源排行榜。支持俱乐部、排位谱投票、分数详情统计和基于网页的回放播放器。"
 }, {
 	"name": "LeaderboardCore",
 	"description": "A library for alternative leaderboards.",
 	"newname": "LeaderboardCore",
-	"newdescription": "另一个排行榜的支持库。"
+	"newdescription": "多个排行榜的支持库。"
 }]
