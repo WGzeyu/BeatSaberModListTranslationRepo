@@ -1200,7 +1200,7 @@
 	"newdescription": "CatCore 是一个高性能的.NET Standard 2.0库，它为Twitch(和其他未来的流媒体平台)提供到mod的共享连接。"
 }, {
 	"name": "MultiCode-inator",
-	"description": "Beat Saber mod that adds a !multicode command to your stream which posts the current multiplayer lobby code into your chat",
+	"description": "Beat Saber mod which adds a !mc command to post the current multiplayer lobby code into your stream chat",
 	"newname": "联机房间号 | MultiCode-inator",
 	"newdescription": "可以为你的直播添加 !mc 命令，发送即可获取当前联机房间号"
 }, {
