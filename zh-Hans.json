@@ -1246,6 +1246,6 @@
 }, {
 	"name": "AudioLink",
 	"description": "VRC AudioLink ported to Beat Saber.",
-	"newname": "音频链接 | AudioLink",
+	"newname": "音频链路 | AudioLink",
 	"newdescription": "这实际上是VRC中Udon Audio Link的一个端口，都是一样的东西。它在Beat Saber中的作用和在VRC中的作用完全一样，并将在所有的人物、场景、光剑或任何其他使用Audio Link兼容着色器的资源中普遍发挥作用。它将使用用户自定义颜色中的灯光并增强颜色来创建一个颜色主题，或者在条件允许时参考谱面中的自定义颜色。【译注：我也没明白是啥玩意，总之是把更详细的GitHub介绍搬来了，原介绍内容为：移植到Beat Saber的VRC AudioLink】"
 }]]
