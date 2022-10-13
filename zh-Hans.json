@@ -240,14 +240,9 @@
 	"newdescription": "击中音符后按分数显示颜色，可视化你的分数！不需要进行复杂设置，很多专业玩家都在用。"
 }, {
 	"name": "CustomMissText",
-	"description": "(Made by Arti)\nBroke: \"MISS\"\nWoke: \"HITN\"T\"\n----\nRandom text whenever you miss a block!",
+	"description": "Replaces the \"MISS\" text with a random string!",
 	"newname": "自定义Miss文字 | CustomMissText",
-	"newdescription": "每次错过note时将随机显示信息。"
-}, {
-	"name": "CustomMissText",
-	"description": "Random messages whenever you miss a note. Because apparently people like those.",
-	"newname": "自定义Miss文字 | CustomMissText",
-	"newdescription": "每次错过note时将随机显示信息。因为，人们喜欢这些。"
+	"newdescription": "将“MISS”文本替换为随机字符！"
 }, {
 	"name": "Custom Platforms",
 	"description": "A plugin to support custom platforms and environments",
