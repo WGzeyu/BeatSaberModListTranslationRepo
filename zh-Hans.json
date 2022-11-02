@@ -1243,4 +1243,14 @@
 	"description": "VRC AudioLink ported to Beat Saber.",
 	"newname": "音频链路 | AudioLink",
 	"newdescription": "这实际上是VRC中Udon Audio Link的一个端口，都是一样的东西。它在Beat Saber中的作用和在VRC中的作用完全一样，并将在所有的人物、场景、光剑或任何其他使用Audio Link兼容着色器的资源中普遍发挥作用。它将使用用户自定义颜色中的灯光并增强颜色来创建一个颜色主题，或者在条件允许时参考谱面中的自定义颜色。【译注：我也没明白是啥玩意，总之是把更详细的GitHub介绍搬来了，原介绍内容为：移植到Beat Saber的VRC AudioLink】"
+}, {
+	"name": "No Auto-Exposure",
+	"description": "Turns off the auto-exposure added in 1.24.0, no configuration. Just install this plugin, and enjoy!",
+	"newname": "关自动曝光 | No Auto-Exposure",
+	"newdescription": "关闭1.24.0版本开始添加的自动曝光功能，无需进行设置。只需要安装这个Mod，然后享受吧！"
+}, {
+	"name": "SaberHaptics",
+	"description": "Change the haptic feedback of slicing notes (& other collisions).",
+	"newname": "光剑触感 | SaberHaptics",
+	"newdescription": "更改切割音符（与其他碰撞）的触觉反馈。"
 }]
