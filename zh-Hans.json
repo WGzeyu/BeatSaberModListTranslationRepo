@@ -1221,8 +1221,8 @@
 }, {
 	"name": "SmartSongSuggest",
 	"description": "Can make and update a playlist with ranked song suggestions, based on played and liked songs. Option to ban songs temporary or permanent. Can also make a playlist based on oldest ranked scores.",
-	"newname": "智能歌曲推荐 | SmartSongSuggest",
-	"newdescription": "【译注：该Mod可能导致游戏打不开、黑屏、白屏、无响应（因为其在游戏初始化时，通过主线程从被随机墙的GitHub下载文件，文件下不下来，整个游戏都卡着等他）】可以根据游戏记录以及喜欢的歌曲来生成或更新推荐的排位曲歌单(playlist)。可以选择暂时或永久排除某首歌曲。还可以根据最旧的排位分数来生成歌单。"
+	"newname": "卡死你的游戏 | SmartSongSuggest",
+	"newdescription": "【译注：该Mod原名为“智能歌曲推荐”，其可能导致游戏打不开、黑屏、白屏、无响应（因为它会通过主线程从被中国屏蔽的网站下载文件，文件下不下来，整个游戏都卡着等他）】可以根据游戏记录以及喜欢的歌曲来生成或更新推荐的排位曲歌单(playlist)。可以选择暂时或永久排除某首歌曲。还可以根据最旧的排位分数来生成歌单。"
 }, {
 	"name": "HighlightBombs",
 	"description": "Adds a slight outline to bombs to make them more visible in the dark.",
