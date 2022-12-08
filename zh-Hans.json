@@ -1075,9 +1075,9 @@
 	"newdescription": "用C++为Chroma编写的单一方法，因为mono中的regex慢得离谱。另外，Beatmods也很烂。"
 }, {
 	"name": "EasyOffset",
-	"description": "Intuitive controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
+	"description": "Controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
 	"newname": "易调节 | EasyOffset",
-	"newdescription": "直观的手柄位置偏移调整工具，还支持挥动评分与握法分析。"
+	"newdescription": "手柄位置偏移调整工具，还支持挥动评分与握法分析。"
 }, {
 	"name": "SliceDetails",
 	"description": "A tool that shows your average cut angle and offset per note position/angle to help perfect your accuracy.",
@@ -1230,9 +1230,9 @@
 	"newdescription": "为炸弹添加轻微的轮廓，以增加在黑暗场景中的对比度。"
 }, {
 	"name": "BeatLeader",
-	"description": "An open-source leaderboard. With clans, map rank voting, detailed score statistic, and a web replay viewer.",
+	"description": "Alternative leaderboard. With clans, map voting, detailed score statistic, and a replay viewer.",
 	"newname": "排行榜 | BeatLeader",
-	"newdescription": "开源排行榜。支持战队、排位谱投票、分数详情统计和基于网页的回放播放器。"
+	"newdescription": "不同的排行榜。支持战队、排位谱投票、分数详情统计和回放（现已支持游戏内播放）。"
 }, {
 	"name": "LeaderboardCore",
 	"description": "A library for alternative leaderboards.",
@@ -1253,4 +1253,9 @@
 	"description": "Change the haptic feedback of slicing notes (& other collisions).",
 	"newname": "光剑触感 | SaberHaptics",
 	"newdescription": "更改切割音符（与其他碰撞）的触觉反馈。"
+}, {
+	"name": "CameraUtils",
+	"description": "Library that standardizes the use of GameObject layers and provides tools for easier rendering pipeline modifications",
+	"newname": "CameraUtils",
+	"newdescription": "标准化GameObject层的使用，并为更容易的渲染管道修改提供工具的支持库"
 }]
