@@ -295,7 +295,7 @@
 	"newdescription": "TOML的.NET库"
 }, {
 	"name": "Music Spatializer",
-	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the notes.",
+	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the triangle.",
 	"newname": "空间音效 | Music Spatializer",
 	"newdescription": "戴耳机时增加3D音效。在360°歌曲中，音乐方位跟随方块出口跳转而移动。"
 }, {
@@ -1140,9 +1140,9 @@
 	"newdescription": "用于提醒您补充水分的Mod"
 }, {
 	"name": "MenuSaberColors",
-	"description": "Allows your menu pointers to be the same colors as your current color scheme!",
+	"description": "Makes your menu pointers the same colors as your in-game sabers",
 	"newname": "菜单光剑颜色 | MenuSaberColors",
-	"newdescription": "让你在光剑菜单时的手柄光标颜色与当前配色方案相同！"
+	"newdescription": "让你在光剑菜单中的手柄光标颜色与游戏内的光剑颜色相同"
 }, {
 	"name": "PiFix",
 	"description": "A simple fix needed to play beatsaber on a Pimax headset without having double vision. Or needing Parallel Projections. PiFix corrects the double vision error shown on Pimax and Xtal headsets in game",
@@ -1230,9 +1230,9 @@
 	"newdescription": "为炸弹添加轻微的轮廓，以增加在黑暗场景中的对比度。"
 }, {
 	"name": "BeatLeader",
-	"description": "Alternative leaderboard. With clans, map voting, detailed score statistic, and a replay viewer.",
+	"description": "An open-source leaderboard. With clans, map rank voting, detailed score statistic, and a web replay viewer.",
 	"newname": "排行榜 | BeatLeader",
-	"newdescription": "不同的排行榜。支持战队、排位谱投票、分数详情统计和回放（现已支持游戏内播放）。"
+	"newdescription": "开源排行榜。支持战队、排位谱投票、分数详情统计和回放（现已支持游戏内播放）。"
 }, {
 	"name": "LeaderboardCore",
 	"description": "A library for alternative leaderboards.",
