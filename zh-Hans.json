@@ -200,9 +200,9 @@
 	"newdescription": "将Beat Saber主菜单的底部面板（歌曲包）进一步向下移动（或任意放置），以减少误触。"
 }, {
 	"name": "ScoreSaber",
-	"description": "Allows you to upload scores to an online leaderboard at https://scoresaber.com. Earn PP from ranked maps and compare scores with others.",
-	"newname": "排行榜 | ScoreSaber",
-	"newdescription": "支持自定义歌曲以及回放的排行榜插件！装了它打Rank曲，可以加pp分，统计你的全球/全国排名！"
+	"description": "Beat Saber's largest leaderboard system for custom songs. Earn PP from ranked maps, compare scores with others and watch replays.",
+	"newname": "SS排行榜 | ScoreSaber",
+	"newdescription": "BeatSaber最大的自定义歌曲排行榜。从排位曲中获取PP、与其他玩家比拼分数并观看回放。"
 }, {
 	"name": "CustomMenuText",
 	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else? With this plugin, you can change the game's title in the main menu!",
@@ -1231,7 +1231,7 @@
 }, {
 	"name": "BeatLeader",
 	"description": "An open-source leaderboard. With clans, map rank voting, detailed score statistic, and a web replay viewer.",
-	"newname": "排行榜 | BeatLeader",
+	"newname": "BL排行榜 | BeatLeader",
 	"newdescription": "开源排行榜。支持战队、排位谱投票、分数详情统计和回放（现已支持游戏内播放）。"
 }, {
 	"name": "LeaderboardCore",
@@ -1258,4 +1258,9 @@
 	"description": "Library that standardizes the use of GameObject layers and provides tools for easier rendering pipeline modifications",
 	"newname": "CameraUtils",
 	"newdescription": "标准化GameObject层的使用，并为更容易的渲染管道修改提供工具的支持库"
+}, {
+	"name": "WhyIsThereNoLeaderboard",
+	"description": "Stopgap plugin that clarifies why leaderboards on custom songs are not supported.",
+	"newname": "为啥这没排行榜 | WhyIsThereNoLeaderboard",
+	"newdescription": "（没卵用，推荐安装BL或SS排行榜插件）澄清为什么自定义歌曲不支持排行榜的权宜之计插件。（只是不支持原版排行榜，自定义歌曲可以用第三方排行榜Mod）"
 }]
