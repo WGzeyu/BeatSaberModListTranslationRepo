@@ -712,7 +712,7 @@
 	"name": "ServerBrowser",
 	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
 	"newname": "房间列表 | ServerBrowser",
-	"newdescription": "为联机模式添加房间列表，更方便地分享或寻找房间。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
+	"newdescription": "为联机模式添加房间列表，更方便地分享或寻找房间。"
 }, {
 	"name": "NoMissText",
 	"description": "Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.",
@@ -782,7 +782,7 @@
 	"name": "BeatTogether",
 	"description": "A multiplayer private server for the modding community with support for crossplay between PC and Quest.",
 	"newname": "社区联机 | BeatTogether",
-	"newdescription": "由社区提供的联机服务器，支持PC与Quest的跨平台联机。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
+	"newdescription": "由社区提供的联机服务器，支持PC与Quest的跨平台联机。"
 }, {
 	"name": "Cinema",
 	"description": "Add music videos to the background of your maps",
@@ -1217,7 +1217,7 @@
 	"name": "MultiplayerCore",
 	"description": "A Beat Saber mod that implements core custom multiplayer functionality. ",
 	"newname": "联机核心 | MultiplayerCore",
-	"newdescription": "实现了自定义联机核心功能的Mod。【译注：推荐查看“简介”的“新手基础教程”，可以添加国服配置，走国服联机！】"
+	"newdescription": "实现了自定义联机核心功能的Mod。"
 }, {
 	"name": "SmartSongSuggest",
 	"description": "Can make and update a playlist with ranked song suggestions, based on played and liked songs. Option to ban songs temporary or permanent. Can also make a playlist based on oldest ranked scores.",
