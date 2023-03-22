@@ -650,9 +650,9 @@
 	"newdescription": "使用摇杆来让玩家快速转向的插件。"
 }, {
 	"name": "Saber Factory",
-	"description": "Customizable custom saber mod",
+	"description": "Change the appearance of your saber with lots of customization options",
 	"newname": "光剑工坊 | Saber Factory",
-	"newdescription": "可以自定义光剑的Mod"
+	"newdescription": "更改光剑外观的Mod，拥有大量的自定义选项。"
 }, {
 	"name": "CampaignObjectiveParticleDisabler",
 	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
@@ -1005,7 +1005,7 @@
 	"newdescription": "以旗帜形式显示图片，可循环播放。"
 }, {
 	"name": "Nya",
-	"description": "Beat Saber mod for displaying nya-tastic images from various anime themed web APIs",
+	"description": "BeatSaber mod for displaying nya-tastic images from various web APIs",
 	"newname": "喵 | Nya",
 	"newdescription": "用于从网络下载和显示各种动漫主题猫娘图片的Mod。"
 }, {
@@ -1195,9 +1195,9 @@
 	"newdescription": "CatCore 是一个高性能的.NET Standard 2.0库，它为Twitch(和其他未来的流媒体平台)提供到mod的共享连接。"
 }, {
 	"name": "MultiCode-inator",
-	"description": "Beat Saber mod which adds a !mc command to post the current multiplayer lobby code into your stream chat",
+	"description": "Beat Saber mod which adds on screen text and a stream command for your multiplayer lobby code",
 	"newname": "联机房间号 | MultiCode-inator",
-	"newdescription": "可以为你的直播添加 !mc 命令，发送即可获取当前联机房间号"
+	"newdescription": "可以为你的直播添加聊天文本显示与获取联机房间号的命令"
 }, {
 	"name": "OverrideEnvironmentFix",
 	"description": "A mod that will override environments by default again since Beat Games took that away.",
@@ -1263,4 +1263,14 @@
 	"description": "Stopgap plugin that clarifies why leaderboards on custom songs are not supported.",
 	"newname": "为啥这没排行榜 | WhyIsThereNoLeaderboard",
 	"newdescription": "（没卵用，推荐安装BL或SS排行榜插件）澄清为什么自定义歌曲不支持排行榜的权宜之计插件。（只是不支持原版排行榜，自定义歌曲可以用第三方排行榜Mod）"
+}, {
+	"name": "SongRankedBadge",
+	"description": "Shows a map's rank status using the promotion badge",
+	"newname": "排位曲标签 | SongRankedBadge",
+	"newdescription": "通过促销标签来显示歌曲Rank状态"
+}, {
+	"name": "PentaSaber",
+	"description": "A remake of the old ChromaToggle and PentaMaul game mode. Each saber has an alternate color activated by pressing trigger. Neutral blocks are inserted between transitions to smooth color switches.",
+	"newname": "五色光剑 | PentaSaber",
+	"newdescription": "这是老版ChromaToggle与PentaMaul的重置版。每个光剑都有一种备选颜色，可以通过按下扳机键来激活。中性方块被插入在转换之间，以平滑颜色切换。"
 }]
