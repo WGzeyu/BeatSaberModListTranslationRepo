@@ -1272,5 +1272,5 @@
 	"name": "PentaSaber",
 	"description": "A remake of the old ChromaToggle and PentaMaul game mode. Each saber has an alternate color activated by pressing trigger. Neutral blocks are inserted between transitions to smooth color switches.",
 	"newname": "五色光剑 | PentaSaber",
-	"newdescription": "这是老版ChromaToggle与PentaMaul的重置版。每个光剑都有一种备选颜色，可以通过按下扳机键来激活。中性方块被插入在转换之间，以平滑颜色切换。"
+	"newdescription": "这是以前ChromaToggle与PentaMaul的重置版。每个光剑都有一种备选颜色，可以通过按下扳机键来激活。中性方块被插入在转换之间，以平滑颜色切换。"
 }]
