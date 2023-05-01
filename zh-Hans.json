@@ -1277,5 +1277,5 @@
 	"name": "GottaGoFast",
 	"description": "Significantly decreases the time it takes to (re)start and leave songs in Beat Saber",
 	"newname": "极速启动 | GottaGoFast",
-	"newdescription": "可大幅减少在歌曲开始/结束时的黑屏时间。"
+	"newdescription": "可大幅减少在歌曲开始/结束时的等待时间。"
 }]
