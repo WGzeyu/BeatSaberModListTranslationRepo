@@ -525,9 +525,9 @@
 	"newdescription": "提供达斯摩尔、长矛、反向、单色等更多游戏选项。支持混搭，开发新的游戏玩法！"
 }, {
 	"name": "SongPlayHistory",
-	"description": "A score tracker with simple in-game UI.",
+	"description": "A local score tracker with a simple in-game UI.",
 	"newname": "打歌历史 | SongPlayHistory",
-	"newdescription": "可以追踪你的分数并显示在简易界面中的Mod。"
+	"newdescription": "可以将成绩记录到本地并显示在游戏内的Mod。"
 }, {
 	"name": "HonkSaber",
 	"description": "honk",
@@ -1140,9 +1140,9 @@
 	"newdescription": "用于提醒您补充水分的Mod"
 }, {
 	"name": "MenuSaberColors",
-	"description": "Makes your menu pointers the same colors as your in-game sabers",
+	"description": "Allows your menu pointers to follow your selected color scheme!",
 	"newname": "菜单光剑颜色 | MenuSaberColors",
-	"newdescription": "让你在光剑菜单中的手柄光标颜色与游戏内的光剑颜色相同"
+	"newdescription": "可以使菜单中的手柄光标颜色与你选择的配色方案相同"
 }, {
 	"name": "PiFix",
 	"description": "A simple fix needed to play beatsaber on a Pimax headset without having double vision. Or needing Parallel Projections. PiFix corrects the double vision error shown on Pimax and Xtal headsets in game",
@@ -1273,4 +1273,9 @@
 	"description": "A remake of the old ChromaToggle and PentaMaul game mode. Each saber has an alternate color activated by pressing trigger. Neutral blocks are inserted between transitions to smooth color switches.",
 	"newname": "五色光剑 | PentaSaber",
 	"newdescription": "这是以前ChromaToggle与PentaMaul的重置版。每个光剑都有一种备选颜色，可以通过按下扳机键来激活。中性方块被插入在转换之间，以平滑颜色切换。"
+}, {
+	"name": "GottaGoFast",
+	"description": "Significantly decreases the time it takes to (re)start and leave songs in Beat Saber",
+	"newname": "极速启动 | GottaGoFast",
+	"newdescription": "可大幅减少在歌曲开始/结束时的黑屏时间。"
 }]
