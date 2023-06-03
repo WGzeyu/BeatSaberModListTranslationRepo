@@ -745,9 +745,9 @@
 	"newdescription": "WebSocket协议客户端和服务器的C＃实现"
 }, {
 	"name": "DebrisTweaks",
-	"description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+	"description": "Plugin that allows simple customisation of Debris.",
 	"newname": "碎片调整 | DebrisTweaks",
-	"newdescription": "可以完全自定义音符碎片的各种参数，包括尺寸、存活时长与速度。"
+	"newdescription": "能够简单定制碎片的插件。"
 }, {
 	"name": "BeatPresence",
 	"description": "Discord Rich Presence for Beat Saber, because all the other solutions suck. Displays your active song, gamemode, difficulty, modifiers, and map type.",
@@ -1278,4 +1278,9 @@
 	"description": "Significantly decreases the time it takes to (re)start and leave songs in Beat Saber",
 	"newname": "极速启动 | GottaGoFast",
 	"newdescription": "【推荐安装】可大幅减少在歌曲开始/结束时的黑屏加载时间。"
+}, {
+	"name": "Fifth Anniversary Mod",
+	"description": "Auto Imports the correct Assets and Map Files for the 5th Anniversary! Adds the new Map Pack to the promo screen!",
+	"newname": "五周年Mod | Fifth Anniversary Mod",
+	"newdescription": "为了5周年纪念日自动导入正确的资源与谱面文件！将新曲包添加至游戏首页！"
 }]
