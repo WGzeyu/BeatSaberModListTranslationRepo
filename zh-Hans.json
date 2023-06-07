@@ -2,7 +2,7 @@
 	"name": "BSIPA",
 	"description": "A mod loader for Beat Saber. Provides a number of useful tools and utilities.",
 	"newname": "Mod注入器 | BSIPA",
-	"newdescription": "用于注入Mod的工具。【注意：若下载时报错未处理的异常…已取消一个任务，请看简介的问题解答，可在选项中切换下载源解决】"
+	"newdescription": "用于注入Mod的工具。【注意：若下载时报错未处理的异常…已取消一个任务，可通过在左下方切换下载源来解决】"
 }, {
 	"name": "BeatSaverDownloader",
 	"description": "Enables you to download songs from BeatSaver in-game.",
