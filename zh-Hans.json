@@ -1277,7 +1277,7 @@
 	"name": "GottaGoFast",
 	"description": "Significantly decreases the time it takes to (re)start and leave songs in Beat Saber",
 	"newname": "极速启动 | GottaGoFast",
-	"newdescription": "【推荐安装】可大幅减少在歌曲开始/结束时的黑屏加载时间。"
+	"newdescription": "可大幅减少在歌曲开始/结束时的黑屏加载时间。"
 }, {
 	"name": "Fifth Anniversary Mod",
 	"description": "Auto Imports the correct Assets and Map Files for the 5th Anniversary! Adds the new Map Pack to the promo screen!",
