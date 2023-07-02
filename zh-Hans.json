@@ -182,7 +182,7 @@
 	"name": "SongBrowser",
 	"description": "Adds various sorting and filtering methods to the UI. Search, favorites, ranked, and unranked filters. Sort by BeatSaver and ScoreSaber statistics. Adds PP and other extra stats to the stat panel.",
 	"newname": "歌曲浏览器 | SongBrowser",
-	"newdescription": "歌曲排序/筛选/搜索插件。支持各种排序方式和过滤条件，例如难度、PP、热门、时间、标题、作者、游玩次数、是否rank、收藏等，并将PP和其他统计信息添加到面板。信息来自BeatSaver和ScoreSaber。"
+	"newdescription": "【译注：这是老排序Mod，如果你装了默认选上的新排序Mod，则这个老的将不生效，另外这个老排序Mod还有些兼容性问题，即使不生效也会出问题】歌曲排序/筛选/搜索插件。支持各种排序方式和过滤条件，例如难度、PP、热门、时间、标题、作者、游玩次数、是否rank、收藏等，并将PP和其他统计信息添加到面板。信息来自BeatSaver和ScoreSaber。"
 }, {
 	"name": "Counters+",
 	"description": "A suite of enhancements for Beat Saber's UI",
@@ -1207,7 +1207,7 @@
 	"name": "MenuPillars",
 	"description": "Beat Saber mod that brings back the pillars from the 1.13.2 menu environment and adds customisable lights to them",
 	"newname": "菜单支柱 | MenuPillars",
-	"newdescription": "将1.13.2的菜单环境中的支柱带回来，并可以为其自定义灯光的Mod。"
+	"newdescription": "【译注：有BUG，可能导致部分歌曲选不上玩不了】将1.13.2的菜单环境中的支柱带回来，并可以为其自定义灯光的Mod。"
 }, {
 	"name": "HitsoundTweaks",
 	"description": "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.",
