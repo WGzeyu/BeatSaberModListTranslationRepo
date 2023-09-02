@@ -525,9 +525,9 @@
 	"newdescription": "提供达斯摩尔、长矛、反向、单色等更多游戏选项。支持混搭，开发新的游戏玩法！"
 }, {
 	"name": "SongPlayHistory",
-	"description": "A local score tracker with a simple in-game UI.",
+	"description": "A local scores and votes tracker with a simple in-game UI.",
 	"newname": "打歌历史 | SongPlayHistory",
-	"newdescription": "可以将成绩记录到本地并显示在游戏内的Mod。"
+	"newdescription": "可以本地记录成绩与点过的赞/踩并显示在游戏内的Mod。"
 }, {
 	"name": "HonkSaber",
 	"description": "honk",
@@ -1283,4 +1283,24 @@
 	"description": "Auto Imports the correct Assets and Map Files for the 5th Anniversary! Adds the new Map Pack to the promo screen!",
 	"newname": "五周年Mod | Fifth Anniversary Mod",
 	"newdescription": "为了5周年纪念日自动导入正确的资源与谱面文件！将新曲包添加至游戏首页！"
+}, {
+	"name": "PrioritySetter",
+	"description": "The PrioritySetter mod allows you to automatically adjust the priority of the game process to optimize performance",
+	"newname": "优先级调节器 | PrioritySetter",
+	"newdescription": "该Mod可以设置自动调整游戏进程的优先级，以优化游戏性能"
+}, {
+	"name": "AccessAbility",
+	"description": "A true one-hand and sitting-friendly mod. Play any map. With only the blocks in your color-choice in the original patterns. Turn off wall-damage. Remove crouch walls. Unbreakable bombs and more.",
+	"newname": "易用性 | AccessAbility",
+	"newdescription": "真正的单手坐立模式Mod。可以支持任何歌曲，只会出现你选择的颜色的方块。还可以关闭墙壁伤害、去除下蹲墙壁、牢不可破的炸弹等等。"
+}, {
+	"name": "System.IO.Compression",
+	"description": "Contains classes that provide basic compression and decompression services for streams.",
+	"newname": "System.IO.Compression",
+	"newdescription": "包含为流提供基本压缩和解压缩服务的类。"
+}, {
+	"name": "System.IO.Compression.FileSystem",
+	"description": "Provides classes that support the compression and decompression of streams using file system paths.",
+	"newname": "System.IO.Compression.FileSystem",
+	"newdescription": "提供支持使用文件系统路径进行流的压缩和解压缩的类。"
 }]
