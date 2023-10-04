@@ -540,9 +540,9 @@
 	"newdescription": "在游戏内显示歌曲难度曲线。"
 }, {
 	"name": "ImageCoverExpander",
-	"description": "Expands the artwork cover of a song! Click \"Mod Info\" for images!",
+	"description": "Expands the artwork cover of a song. ",
 	"newname": "歌曲封面扩展 | ImageCoverExpander",
-	"newdescription": "扩展歌曲封面尺寸！点击\"Mod信息\"以查看截图"
+	"newdescription": "扩展歌曲封面尺寸。"
 }, {
 	"name": "BailOutMode",
 	"description": "Allows you to continue playing songs without posting a score if you fail, but allows you to post scores if you don't.",
@@ -760,9 +760,9 @@
 	"newdescription": "这是可以自动为Twich推流添加标记的Mod。标记的歌曲将显示在Twitch的视频进度条中，让你能够轻松找到并收藏。"
 }, {
 	"name": "MultiplayerExtensions",
-	"description": "Expands the functionality of Beat Saber Multiplayer. Adds custom song support and a variety of other features.",
+	"description": "Expands the functionality of Beat Saber Multiplayer.",
 	"newname": "联机扩展 | MultiplayerExtensions",
-	"newdescription": "为联机增加自定义歌曲功能。【需要同时安装[社区联机|BeatTogether]】"
+	"newdescription": "扩展Beat Saber联机模式的功能。"
 }, {
 	"name": "PerformanceMeter",
 	"description": "Shows a graph of your energy bar, percentage level, or cut value throughout a map on the end screen.",
@@ -1242,7 +1242,7 @@
 	"name": "AudioLink",
 	"description": "VRC AudioLink ported to Beat Saber.",
 	"newname": "音频链路 | AudioLink",
-	"newdescription": "这实际上是VRC中Udon Audio Link的一个端口，都是一样的东西。它在Beat Saber中的作用和在VRC中的作用完全一样，并将在所有的人物、场景、光剑或任何其他使用Audio Link兼容着色器的资源中普遍发挥作用。它将使用用户自定义颜色中的灯光并增强颜色来创建一个颜色主题，或者在条件允许时参考谱面中的自定义颜色。【译注：我也没明白是啥玩意，总之是把更详细的GitHub介绍搬来了，原介绍内容为：移植到Beat Saber的VRC AudioLink】"
+	"newdescription": "这个Mod将VRChat的Udon音频链接功能移植到了Beat Saber中。在Beat Saber中使用它的效果与在VRChat中一样，而且可以在所有的人物、场景、光剑，或者任何其他使用音频链接兼容着色器的资源上通用使用。它将根据用户自定义的颜色来生成颜色主题，并在有自定义颜色的歌曲中引用歌曲定义的颜色。"
 }, {
 	"name": "No Auto-Exposure",
 	"description": "Turns off the auto-exposure added in 1.24.0, no configuration. Just install this plugin, and enjoy!",
@@ -1303,4 +1303,19 @@
 	"description": "Provides classes that support the compression and decompression of streams using file system paths.",
 	"newname": "System.IO.Compression.FileSystem",
 	"newdescription": "提供支持使用文件系统路径进行流的压缩和解压缩的类。"
+}, {
+	"name": "BetterPause",
+	"description": "Allows you to change the current uncustomizable pause menu and replace it with a better one.",
+	"newname": "更好的暂停 | BetterPause",
+	"newdescription": "可以让你更改不可自定义的暂停菜单，将它改成更好的菜单。"
+}, {
+	"name": "CustomPillows",
+	"description": "A mod that adds pillows into the main menu",
+	"newname": "自定义抱枕 | CustomPillows",
+	"newdescription": "可以将抱枕加入游戏菜单界面的Mod"
+}, {
+	"name": "FixEverything",
+	"description": "General quality-of-life improvements to fix issues I (Kaitlyn) have noticed inside Beat Saber, fixes some \"bugs\".",
+	"newname": "各种修复 | FixEverything",
+	"newdescription": "这个Mod旨在改善作者（Kaitlyn）在游戏中所发现的问题，修复了一些“BUG”，提高了整体游戏体验。"
 }]
